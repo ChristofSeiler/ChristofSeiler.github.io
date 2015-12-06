@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-![](https://web.stanford.edu/~cseiler/BNP-Talk-Seiler.jpg =250x)
-
+<img src="https://web.stanford.edu/~cseiler/BNP-Talk-Seiler.jpg" alt="BNP Talk" style="width: 200px;"/>
 
 I am a SNSF Postdoctoral Fellow at Stanford University in the Department of Statistics mentored by Susan Holmes. 
 
