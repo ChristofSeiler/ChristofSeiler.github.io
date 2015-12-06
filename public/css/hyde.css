@@ -34,7 +34,7 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
-@media (min-width: 48em) {
+@media (min-width: 68em) {
   html {
     font-size: 12px;
   }
