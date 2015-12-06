@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:            Christof Seiler
@@ -17,7 +17,9 @@ author:
   name:           'Christof Seiler'
   url:            http://christofseiler.github.io/
 
+gems: [jekyll-paginate]
 paginate:         5
+paginate_path: "page:num"
 
 # Custom vars
 version:          2.1.0
