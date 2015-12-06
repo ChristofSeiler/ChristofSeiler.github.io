@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Christof Seiler
 tagline:          'Research'
 description:      'Postdoctoral Fellow<br>Department of Statistics<br>Stanford University'
-url:              http://hyde.getpoole.com
+url:              https://cseiler.web.stanford.edu
 baseurl:          /
 
 author:
