@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Christof Seiler
 tagline:          'Research'
 description:      'Postdoctoral Fellow<br>Department of Statistics<br>Stanford University'
-url:              https://cseiler.web.stanford.edu
+url:              http://christofseiler.github.io/
 baseurl:          /
 
 author:
   name:           'Christof Seiler'
-  url:            https://cseiler.web.stanford.edu
+  url:            http://christofseiler.github.io/
 
 paginate:         5
 
