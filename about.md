@@ -8,7 +8,7 @@ title: About
 </p>
 
 <p align="center">
-<img src="Me.JPG" alt="BNP Talk" style="width: 400px;"/>
+<img src="{{ site.url }}/assets/Me.JPG" alt="BNP Talk" style="width: 400px;"/>
 </p>
 
 I am a SNSF Postdoctoral Fellow at Stanford University in the Department of Statistics mentored by Susan Holmes. 
