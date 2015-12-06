@@ -3,6 +3,9 @@ layout: page
 title: About
 ---
 
+(https://web.stanford.edu/~cseiler/BNP-Talk-Seiler.jpg)
+
+
 I am a SNSF Postdoctoral Fellow at Stanford University in the Department of Statistics mentored by Susan Holmes. 
 
 In 2012, I obtained my joint PhD co-advised by Xavier Pennec & Mauricio Reyes at Inria in France & University of Bern in Switzerland. 
