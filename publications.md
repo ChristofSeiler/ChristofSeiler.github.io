@@ -3,20 +3,20 @@ layout: page
 title: Publications
 ---
 
-# Submitted Journal Articles
+## Submitted Journal Articles
 
-# Journal Articles
+## Journal Articles
 
-# Book Chapter
+## Book Chapter
 
-# Selective Peer-Reviewed Conference Papers (8+ pages)
+## Selective Peer-Reviewed Conference Papers (8+ pages)
 
-# Peer-Reviewed Conference and Workshop Papers (8 pages)
+## Peer-Reviewed Conference and Workshop Papers (8 pages)
 
-# Peer-Reviewed Conference and Workshop Papers (4 pages)
+## Peer-Reviewed Conference and Workshop Papers (4 pages)
 
-# Conference Abstracts
+## Conference Abstracts
 
-# Interviews
+## Interviews
 
-# Theses
+## Theses
