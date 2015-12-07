@@ -10,12 +10,12 @@ permalink:        pretty
 title:            Christof Seiler
 tagline:          'Research'
 description:      'Postdoctoral Fellow<br>Department of Statistics<br>Stanford University'
-url:              http://christofseiler.github.io/
+url:              http://christofseiler.github.io
 baseurl:          /
 
 author:
   name:           'Christof Seiler'
-  url:            http://christofseiler.github.io/
+  url:            http://christofseiler.github.io
 
 gems: [jekyll-paginate]
 paginate:         5

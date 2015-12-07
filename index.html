@@ -3,6 +3,63 @@ layout: default
 title: Home
 ---
 
+<style>
+.left {
+    float: left;
+    width: 25%;
+}
+.right {
+    float: right;
+    width: 70%;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.group:after {
+    content:"";
+    display: table;
+    clear: both;
+}
+/*
+@media screen and (max-width: 480px) {
+    .left, .right {
+        float: none;
+        width: auto;
+    }
+*/
+}
+</style>
+
+        <h1 class="page-title">Welcome</h1>
+
+<br>
+<div class="group">
+    <div class="left">
+                <img src="public/Me.JPG" alt="" border="0" width="300" />
+    </div>
+    <div class="right">
+        <p>I am a <a href="http://www.snf.ch/">SNSF</a> Postdoctoral Fellow at Stanford University in the Department of Statistics mentored by <a href="http://www-stat.stanford.edu/~susan/">Susan Holmes</a>.</p>
+        <p>In 2012, I obtained my joint PhD co-advised by <a href="http://www-sop.inria.fr/members/Xavier.Pennec/">Xavier Pennec</a> &amp; <a href="http://www.mauricioreyes.me/">Mauricio Reyes</a> at Inria in France &amp; University of Bern in Switzerland.</p>
+        <p>My research focuses on the statistical analysis of medical imaging data. Recently, I started to combine heterogeneous brain data (structural and diffusion images with cognitive tests). I like to work application-driven and explore interesting theoretical problems along the way.<p>
+    </div>
+</div>
+
+<br>
+
+<h2 id="contact">Contact</h2>
+<pre><code>Christof Seiler
+SNSF Postdoctoral Fellow
+Department of Statistics
+Stanford University
+Sequoia Hall, 390 Serra Mall
+Office 116 (second office on the left after main entrance)
+Stanford, CA 94305, USA
+E-mail: christof dot seiler at stanford dot edu
+</code></pre>
+
+
+<!--
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -35,3 +92,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->
