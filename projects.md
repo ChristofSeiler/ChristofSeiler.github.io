@@ -26,7 +26,7 @@ In this project, we infer regions of interests from a set of deformation vector 
 * Paper: [pdf](http://web.stanford.edu/~cseiler/papers/BayesianNonparametricsGeometricDeformationsSeiler2013.pdf)
 * Talk: [youtube](https://www.youtube.com/watch?v=KZO-EaJ6Qrc)
 * Software: [github](https://github.com/ChristofSeiler/BayesianNonparametrics.git) 
-* Additional material with animations: [html](http://web.stanford.edu/~cseiler/gsi2013/index.html)
+* Additional material with animations: [html]({{site.url}}/public/gsi2013/index.html)
 
 ## Hierarchical Modeling in Compuational Anatomy
 
