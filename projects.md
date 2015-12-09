@@ -26,7 +26,6 @@ In this project, we infer regions of interests from a set of deformation vector 
 * Paper: [pdf](http://web.stanford.edu/~cseiler/papers/BayesianNonparametricsGeometricDeformationsSeiler2013.pdf)
 * Talk: [youtube](https://www.youtube.com/watch?v=KZO-EaJ6Qrc)
 * Software: [github](https://github.com/ChristofSeiler/BayesianNonparametrics.git) 
-* Additional material with animations: [html]({{site.url}}/public/gsi2013/index.html)
 
 ## Hierarchical Modeling in Compuational Anatomy
 
@@ -34,4 +33,3 @@ In this project, we introduce structured diffeomorphic deformations to handle mu
 
 * Paper: [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerPolyaffineTransformationTreesMedIA2012.pdf)
 * Software: [github](https://github.com/ChristofSeiler/PolyaffineTransformationTrees.git)
-* Short overview with animations: [html](http://web.stanford.edu/~cseiler/projects_trees.html) 
