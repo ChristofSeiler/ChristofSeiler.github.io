@@ -9,7 +9,7 @@ title: Publications
 
 1. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
 **C. Seiler** (joint work with S. Holmes and S. Rubinstein-Salzedo) <br>
-Submitted. July 2014. [arXiv](http://arxiv.org/abs/1407.1114) (Note: authors are ordered alphabetically following convention for mathematical papers)
+Submitted. May 2015. [arXiv](http://arxiv.org/abs/1407.1114) (Note: authors are ordered alphabetically following convention for mathematical papers)
 
 ## Journal Articles
 
