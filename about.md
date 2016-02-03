@@ -5,7 +5,10 @@ title: About
 
 ## Education
 
-* 2016-&nbsp;&nbsp;&nbsp;&nbsp;: **Postdoc in Statistics, Psychiatry and Behavioral Sciences**, Stanford University
+| 2016      | right-aligned | **Postdoc in Statistics, Psychiatry and Behavioral Sciences**, Stanford University |
+| 2013-2015 | right-aligned | **Postdoc in Statistics**, Stanford University |
+
+* 2016-open: **Postdoc in Statistics, Psychiatry and Behavioral Sciences**, Stanford University
 * 2013-2015: **Postdoc in Statistics**, Stanford University
 * 2009-2012: **PhD in Biomedical Engineering**, Inria, France & University of Bern, Switzerland
 * 2006-2008: **MSc in Biomedical Engineering**, University of Bern, Switzerland
