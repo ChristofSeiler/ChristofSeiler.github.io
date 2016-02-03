@@ -45,7 +45,7 @@ Recent Advances in the 3D Physiological Human (N. Magnenat-Thalmann, J. J. Zhang
 
 ## Selective Peer-Reviewed Conference Papers (8+ pages)
 
-1. Positive Curvature and Hamiltonian Monte Carlo <br>
+1. **Positive Curvature and Hamiltonian Monte Carlo** <br>
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
 NIPS, December, 2014, Montreal, Canada. (Acceptance rate: 414 of 1678 papers = 25%). [pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf), [poster](http://web.stanford.edu/~cseiler/posters/NIPS-Poster.pdf)
 
