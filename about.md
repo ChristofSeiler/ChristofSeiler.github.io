@@ -5,15 +5,11 @@ title: About
 
 ## Education
 
---------- | ------------------------
-2016      | **Postdoc in Statistics, Psychiatry and Behavioral Sciences**, Stanford University
-2013-2015 | **Postdoc in Statistics**, Stanford University
-
-* 2016-open: **Postdoc in Statistics, Psychiatry and Behavioral Sciences**, Stanford University
-* 2013-2015: **Postdoc in Statistics**, Stanford University
-* 2009-2012: **PhD in Biomedical Engineering**, Inria, France & University of Bern, Switzerland
-* 2006-2008: **MSc in Biomedical Engineering**, University of Bern, Switzerland
-* 2001-2005: **Dipl. Ing. FH in Computer Science**, University of Applied Sciences, Biel, Switzerland
+2016-     | Postdoc in Statistics, Psychiatry and Behavioral Sciences, **Stanford University**
+2013-2015 | Postdoc in Statistics, **Stanford University**
+2009-2012 | PhD in Biomedical Engineering, **Inria, France & University of Bern, Switzerland**
+2006-2008 | MSc in Biomedical Engineering, **University of Bern, Switzerland**
+2001-2005 | Dipl. Ing. FH in Computer Science, **University of Applied Sciences, Biel, Switzerland**
 
 ## Previous Research and Work Experience
 
