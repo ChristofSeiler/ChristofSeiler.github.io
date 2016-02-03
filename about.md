@@ -46,5 +46,6 @@ title: About
 * SPIE Medical Imaging, February, 2011, Orlando, USA
 * Shape Stats Meeting at UNC, October, 2010, Chapel Hill, NC, USA
 * Termis, June, 2010, Galway, Ireland
+* Summer School on Manifold Learning in Image and Signal Analysis, August, 2009, Ven, Sweden
 * CAOS, June, 2009, Boston, USA
 * 3D Physiological Human, December, 2008, Zermatt, Switzerland
