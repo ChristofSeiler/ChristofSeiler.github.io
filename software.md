@@ -28,9 +28,9 @@ This is a C++ implementation of the ideas in [pdf](http://www.inria.fr/sophia/as
 
 To compile you will need the [ITK 4.4.2](http://www.itk.org/ITK/resources/legacy_releases.html) library.
 
-## Soft Tisse Deformations
+## Soft Tisse Deformations on the GPU
 
-This is a C++ implementation of the ideas in [pdf](http://link.springer.com/chapter/10.1007%2F978-1-84882-565-9_9), and Wikipedia entry [link](https://en.wikipedia.org/wiki/Write-only_memory_(engineering)#cite_ref-7). An open source copy of the code can be found on github:
+This is a GPU/C++ implementation of the ideas in [pdf](http://link.springer.com/chapter/10.1007%2F978-1-84882-565-9_9) (Wikipedia entry on our work [link](https://en.wikipedia.org/wiki/Write-only_memory_(engineering)#cite_ref-7)). An open source copy of the code can be found on github:
 
 [https://github.com/ChristofSeiler/SoftTissueDeformations.git](https://github.com/ChristofSeiler/SoftTissueDeformations.git)
 
