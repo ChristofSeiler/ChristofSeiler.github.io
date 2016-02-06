@@ -30,7 +30,7 @@ To compile you will need the [ITK 4.4.2](http://www.itk.org/ITK/resources/legacy
 
 ## Soft Tisse Deformations on the GPU
 
-This is a GPU/C++ implementation of the ideas in [pdf](http://link.springer.com/chapter/10.1007%2F978-1-84882-565-9_9) (Wikipedia entry on our work [link](https://en.wikipedia.org/wiki/Write-only_memory_(engineering)#cite_ref-7)). An open source copy of the code can be found on github:
+This is a GPU/C++ implementation of the ideas in [pdf](http://link.springer.com/chapter/10.1007%2F978-1-84882-565-9_9) (Wikipedia entry on our work: [link](https://en.wikipedia.org/wiki/Write-only_memory_(engineering)#cite_ref-7)). An open source copy of the code can be found on github:
 
 [https://github.com/ChristofSeiler/SoftTissueDeformations.git](https://github.com/ChristofSeiler/SoftTissueDeformations.git)
 
