@@ -5,7 +5,7 @@ title: About
 
 ## Education
 
-2016-     | **Stanford University** | Postdoc in Statistics & Psychiatry and Behavioral Sciences
+2016-     | **Stanford University** | Postdoc in Statistics & Neuroimaging
 2013-2015 | **Stanford University** | Postdoc in Statistics
 2009-2012 | **Inria, France & University of Bern, Switzerland** | PhD in Biomedical Engineering
 2006-2008 | **University of Bern, Switzerland** | MSc in Biomedical Engineering
