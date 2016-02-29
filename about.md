@@ -21,6 +21,7 @@ title: About
 
 ## Grants and Awards
 
+* ISBA New Researchers Travel Awards 2016, Sardinia, Italy (gratefully declined)
 * Travel award for 10th Conference on Bayesian Nonparametrics 2015 in Raleigh, NC, USA
 * SNSF Advanced Postdoc.Mobility Fellowship (2015, 1 year)
 * France-Stanford collaborative project grant (2013-2014)
