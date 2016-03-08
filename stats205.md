@@ -21,7 +21,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **HWC**: Hollander and Wolfe, and Chicken (2013). Nonparametric Statistical Methods (3rd Edition).
 * **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks.
 
-## Journal Articles
+## Suggested Journal Articles
 * **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics.
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples.
 * **SMN**: Silver, Montana, and Nichols (2011). False positives in neuroimaging genetics using voxel-based morphometry data.
