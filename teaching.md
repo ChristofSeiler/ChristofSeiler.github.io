@@ -28,7 +28,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **ENK**: Eklund, Nichols, and Knutsson (2015). Can Parametric Statistical Methods Be Trusted for fMRI Based Group Studies?
 
 ## Suggested Links
-* TryR provides an adequate initiation to R [](http://tryr.codeschool.com/)
+* TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
 
 ## Course Assistant and Office Hours (In Preparation)
 
