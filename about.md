@@ -34,6 +34,7 @@ title: About
 ## Invited and Contributed Talks
 
 * Contributed Talk, June, 2015, 10th Conference on Bayesian Nonparametrics, Raleigh NC, USA
+* Poster at the 15th Biomedical Computation at Stanford (BCATS), Stanford, USA
 * CIS Seminar, March, 2015, Center for Imaging Science, Johns Hopkins, USA
 * Workshop in Biostatistics, October, 2014, Stanford, USA
 * JSM (the Joint Statistical Meetings), Special session "Computational Topology and Differential Geometry", August, 2014, Boston, USA
