@@ -23,6 +23,8 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 
 ## Suggested Journal Articles
 * **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics.
+* **DHa**: Diaconis and Holmes (1994). Gray codes for randomization procedures.
+* **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method.
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples.
 * **SMN**: Silver, Montana, and Nichols (2011). False positives in neuroimaging genetics using voxel-based morphometry data.
 * **ENK**: Eklund, Nichols, and Knutsson (2015). Can Parametric Statistical Methods Be Trusted for fMRI Based Group Studies?
