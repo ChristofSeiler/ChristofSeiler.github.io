@@ -31,8 +31,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
 
 ## Instructor
-Christof Seiler
-Sequoia Hall 116
+Christof Seiler, Sequoia Hall 116
 
 Office hours: TBD
 
