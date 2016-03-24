@@ -8,16 +8,14 @@ title: Teaching - Stats 205
 ## Description
 Nonparametric analogs of the one- and two-sample t-tests and analysis of variance; the sign test, median test, Wilcoxon's tests, and the Kruskal-Wallis and Friedman tests, tests of independence. Nonparametric regression and nonparametric density estimation, modern nonparametric techniques, nonparametric confidence interval estimates.
 
-## Syllabus (In Preparation)
-
 ## Textbooks
 
 ### Required
 * **KK**: Kloke and McKean (2015). Nonparametric Statistical Methods Using R.
 
 ### Optional
-* **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis.
 * **ET**: Efron and Tibshirani (1994). An Introduction to the Bootstrap.
+* **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis.
 * **HWC**: Hollander and Wolfe, and Chicken (2013). Nonparametric Statistical Methods (3rd Edition).
 * **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks.
 
@@ -32,10 +30,21 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 ## Suggested Links
 * TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
 
-## Course Assistant and Office Hours (In Preparation)
+## Instructor
+Christof Seiler
+Sequoia Hall 116
+Office hours: TBD
 
-## Grading (In Preparation)
+## TA's
+* Nan Bi 
+* Lexi Guan
+Office hours: TBD
 
-## Slides (In Preparation)
+## Grading
+Weekly homeworks and a final project.
 
-## Homeworks (In Preparation)
+## Slides
+Before each class links to slides will be posted here.
+
+## Homeworks
+Every 8 days homeworks will be posted here.
