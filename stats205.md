@@ -33,7 +33,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 ## Instructor
 Christof Seiler, Sequoia Hall 116
 
-Office hours: TBD
+Office hours: Wednesdays from 10:00 am to 11:30 am at Sequoia Hall 105
 
 ## TA's
 * Nan Bi 
