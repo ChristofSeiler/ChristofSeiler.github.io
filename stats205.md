@@ -42,7 +42,9 @@ Office hours: TBD
 Office hours: TBD
 
 ## Grading
-Weekly homeworks and a final project.
+* Project (midterm 10%, final 40%)
+* Weekly homeworks (40%)
+* Class participation (10%)
 
 ## Slides
 Before each class links to slides will be posted here.
