@@ -21,10 +21,10 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 
 ## Suggested Journal Articles
 * **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics.
-* **DHa**: Diaconis and Holmes (1994). Gray codes for randomization procedures.
+* **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures.
 * **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method.
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples.
-* **SMN**: Silver, Montana, and Nichols (2011). False positives in neuroimaging genetics using voxel-based morphometry data.
+* **SMN**: Silver, Montana, and Nichols (2011). False Positives in Neuroimaging Genetics Using Voxel-Based Morphometry Data.
 * **ENK**: Eklund, Nichols, and Knutsson (2015). Can Parametric Statistical Methods Be Trusted for fMRI Based Group Studies?
 
 ## Suggested Links
@@ -42,14 +42,16 @@ Office hours: Wednesdays from 10:00 to 11:30 am in Sequoia Hall 105
 Office hours: TBD
 
 ## Grading
-* Project (midterm 10%, final 40%)
+* Midterm Project Proposal (3 pages with references, 10%, due by April 29th)
+* Final Project (12 pages plus references, 40% due by June 3rd)
 * Weekly homework (40%)
 * Class participation (10%)
 
-## Slides
-Before each class links to slides will be posted here.
+## Reading Assignments and Slides
 
-* Lecture 1: [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)
+* Lecture 1: **KK** Chapter 1. [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)
+* Lecture 2: **KK** Chapter 2.1, 2.2 and 2.3. 
 
 ## Homework
+
 Weekly homework will be posted here.
