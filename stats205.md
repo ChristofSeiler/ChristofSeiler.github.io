@@ -43,7 +43,7 @@ Office hours: TBD
 
 ## Grading
 * Project (midterm 10%, final 40%)
-* Weekly homeworks (40%)
+* Weekly homework (40%)
 * Class participation (10%)
 
 ## Slides
@@ -51,5 +51,5 @@ Before each class links to slides will be posted here.
 
 * Lecture 1: [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)
 
-## Homeworks
-Weekly homeworks will be posted here.
+## Homework
+Weekly homework will be posted here.
