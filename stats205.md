@@ -52,4 +52,4 @@ Before each class links to slides will be posted here.
 * Lecture 1: [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)
 
 ## Homeworks
-Every 8 days homeworks will be posted here.
+Weekly homeworks will be posted here.
