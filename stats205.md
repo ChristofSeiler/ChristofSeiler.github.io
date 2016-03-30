@@ -33,13 +33,13 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 ## Instructor
 Christof Seiler, Sequoia Hall 116
 
-Office hours: Wednesdays from 10:00 to 11:30 am in Sequoia Hall 105
+Office hours (starting week 2): Wednesdays from 10:00 to 11:30 am in Sequoia Hall 105
 
 ## TA's
 * Nan Bi 
 * Lexi Guan
 
-Office hours: TBD
+Office hours (starting week 2): TBD
 
 ## Grading
 * Midterm Project Proposal (3 pages with references, 10%, due by April 29th)
