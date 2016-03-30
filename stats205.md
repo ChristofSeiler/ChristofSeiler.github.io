@@ -49,9 +49,12 @@ Office hours (starting week 2): TBD
 
 ## Slides and Background Material (Book Chapters and Journal Articles)
 
-Lecture 1 | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html) | **KM** Chapter 1
-Lecture 2 |                                                                   | **KM** Chapter 2.1, 2.2 and 2.3
+Lecture 1 | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)              | **KM** Chapter 1
+Lecture 2 | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html) | **KM** Chapter 2.1, 2.2 and 2.3
+Lecture 3 |                                                                                | 
 
 ## Homework
 
 Weekly homework will be posted here.
+
+* [Homework 1](Homework1/Homework1.html)
