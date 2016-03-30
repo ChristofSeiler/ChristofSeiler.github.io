@@ -47,10 +47,10 @@ Office hours: TBD
 * Weekly homework (40%)
 * Class participation (10%)
 
-## Reading Assignments and Slides
+## Slides and Background Material (Book Chapters and Journal Articles)
 
-* Lecture 1: **KK** Chapter 1. [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)
-* Lecture 2: **KK** Chapter 2.1, 2.2 and 2.3. 
+Lecture 1 | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html) | **KK** Chapter 1. 
+Lecture 2 |                                                                   | **KK** Chapter 2.1, 2.2 and 2.3.
 
 ## Homework
 
