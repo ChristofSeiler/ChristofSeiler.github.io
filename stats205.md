@@ -11,7 +11,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 ## Textbooks
 
 ### Required
-* **KK**: Kloke and McKean (2015). Nonparametric Statistical Methods Using R.
+* **KM**: Kloke and McKean (2015). Nonparametric Statistical Methods Using R.
 
 ### Optional
 * **ET**: Efron and Tibshirani (1994). An Introduction to the Bootstrap.
@@ -49,8 +49,8 @@ Office hours: TBD
 
 ## Slides and Background Material (Book Chapters and Journal Articles)
 
-Lecture 1 | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html) | **KK** Chapter 1
-Lecture 2 |                                                                   | **KK** Chapter 2.1, 2.2 and 2.3
+Lecture 1 | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html) | **KM** Chapter 1
+Lecture 2 |                                                                   | **KM** Chapter 2.1, 2.2 and 2.3
 
 ## Homework
 
