@@ -20,6 +20,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks.
 * **W**: Wasserman (2006). All of Nonparametric Statistics.
 * **T**: Tsybakov (2009). Introduction to Nonparametric Estimation.
+* **PE**: Patrangenaru and Ellingson (2015). Nonparametric Statistics on Manifolds and Their Applications to Object Data Analysis.
 
 ## Suggested Journal Articles
 * **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics.
