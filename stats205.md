@@ -41,8 +41,8 @@ Office hours: Wednesdays from 10:00 to 11:30 am in 105 at Sequoia
 ## TA's
 * Nan Bi  
 Office hours:  
-  * Wednesdays from 2:30 to 3:30 pm (room TBD)
-  * Thursdays from 10:30 to 11:30 am (room TBD)
+  * Wednesdays from 2:30 to 3:30 pm in 420-147
+  * Thursdays from 10:30 to 11:30 am in Fishbowl at Sequoia
 * Lexi Guan  
 Office hours: 
   * Monday from 10:00 to 11:00 am in Bowker at Sequoia
@@ -56,12 +56,11 @@ Office hours:
 
 ## Slides and Background Material
 
-Lecture 1 | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)              | **KM** Chapter 1
-Lecture 2 | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html) | **KM** Chapters 2.1, 2.2 and 2.3
-Lecture 3 | [Robustness](Lecture3/Robustness.html)                                         | **KM** Chapter 2.5
-Lecture 4 | Bootstrap                                                                      | **KM** Chapter 2.4
+Lecture 1 | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)                                         | **KM** Chapter 1
+Lecture 2 | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                            | **KM** Chapters 2.1, 2.2 and 2.3
+Lecture 3 | [Robustness](Lecture3/Robustness.html)                                                                    | **KM** Chapter 2.5
+Lecture 4 | [Bootstrap (Example)](Lecture4/BootstrapExample.html) [Bootstrap (Part 1)](Lecture4/BootstrapPart1.html)  | **KM** Chapter 2.4
+Lecture 5 | Bootstrap (Part 2)                                                                                        | **KM** Chapter 2.4
 
 ## Homework
-Weekly homework will be posted here.
-
 * [Homework 1](Homework1/Homework1.html)
