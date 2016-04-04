@@ -35,15 +35,18 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
 
 ## Instructor
-Christof Seiler, Sequoia Hall 116
-
-Office hours (starting week 2): Wednesdays from 10:00 to 11:30 am in Sequoia Hall 105
+Christof Seiler, Sequoia Hall 116  
+Office hours: Wednesdays from 10:00 to 11:30 am in 105 at Sequoia
 
 ## TA's
-* Nan Bi 
-* Lexi Guan
-
-Office hours (starting week 2): TBD
+* Nan Bi  
+Office hours:  
+  * Wednesdays from 2:30 to 3:30 pm (room TBD)
+  * Thursdays from 10:30 to 11:30 am (room TBD)
+* Lexi Guan  
+Office hours: 
+  * Monday from 10:00 to 11:00 am in Bowker at Sequoia
+  * Friday from 4:00 to 5:00 pm in Fishbowl at Sequoia 
 
 ## Grading
 * Midterm Project Proposal (3 pages with references, 10%, due by April 29th)
