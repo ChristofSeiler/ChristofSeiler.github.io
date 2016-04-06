@@ -62,7 +62,7 @@ Lecture 2 | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilc
 Lecture 3 | [Robustness](Lecture3/Robustness.html)                                                                          | **KM** Chapter 2.5
 Lecture 4 | [Bootstrap (Part 1)](Lecture4/BootstrapPart1.html) and [Bootstrap (Example)](Lecture4/BootstrapExample.html)    | **KM** Chapter 2.4
 Lecture 5 | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                                                              | **KM** Chapter 2.4
-Lecture 6 | Proportion Problems and \\( \chi^2 \\) Tests                                                                    | **KM** Chapter 2.6, 2.7
+Lecture 6 | Proportion Problems and \( \chi^2 \) Tests                                                                    | **KM** Chapter 2.6, 2.7
 
 ## Homework
 * [Homework 1](Homework1/Homework1.html)
