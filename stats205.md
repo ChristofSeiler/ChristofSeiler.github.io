@@ -36,15 +36,15 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
 
 ## Instructor
-Christof Seiler, Sequoia Hall 116 (christof.seiler [at] stanford [dot] edu)
+Christof Seiler, Sequoia Hall 116 (christof.seiler [at] stanford [dot] edu)  
 Office hours: Wednesdays from 10:00 to 11:30 am in 105 at Sequoia
 
 ## TA's
-* Nan Bi (nbi [at] stanford [dot] edu)
+* Nan Bi (nbi [at] stanford [dot] edu)  
 Office hours:  
   * Wednesdays from 2:30 to 3:30 pm in 420-147
   * Thursdays from 10:30 to 11:30 am in Fishbowl at Sequoia
-* Lexi Guan (lguan [at] stanford [dot] edu)
+* Lexi Guan (lguan [at] stanford [dot] edu)  
 Office hours: 
   * Monday from 10:00 to 11:00 am in Bowker at Sequoia
   * Friday from 4:00 to 5:00 pm in Fishbowl at Sequoia 
