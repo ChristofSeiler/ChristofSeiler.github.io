@@ -66,3 +66,4 @@ Lecture 6 | Proportion Problems and \\( \chi^2 \\) Tests                        
 
 ## Homework
 * [Homework 1](Homework1/Homework1.html)
+* [Homework 2](Homework1/Homework2.html)
