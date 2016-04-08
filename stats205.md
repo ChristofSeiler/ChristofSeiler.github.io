@@ -66,7 +66,6 @@ Lecture 6 | Proportion Problems and \\( \chi^2 \\) Tests                        
 
 ## Homework
 
-                                        |    Deadline           |
-----------------------------------------|-----------------------|
-[Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm  |
-[Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm |
+                                        | Deadline
+[Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm
+[Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm
