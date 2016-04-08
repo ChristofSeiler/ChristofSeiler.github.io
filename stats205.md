@@ -55,8 +55,10 @@ Office hours:
 * Weekly homework (40%)
 * Class participation (10%)
 
-## Slides and Background Material
+## Slides
 
+No        | Topic(s)                                                                                                        | Background Material
+----------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------
 Lecture 1 | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)                                               | **KM** Chapter 1
 Lecture 2 | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                                  | **KM** Chapters 2.1, 2.2 and 2.3
 Lecture 3 | [Robustness](Lecture3/Robustness.html)                                                                          | **KM** Chapter 2.5
