@@ -65,5 +65,8 @@ Lecture 5 | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                  
 Lecture 6 | Proportion Problems and \\( \chi^2 \\) Tests                                                                    | **KM** Chapter 2.6, 2.7
 
 ## Homework
-* [Homework 1](Homework1/Homework1.html)
-* [Homework 2](Homework1/Homework2.html)
+
+                                        |    Deadline           |
+----------------------------------------|-----------------------|
+[Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm  |
+[Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm |
