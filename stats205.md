@@ -28,9 +28,12 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics.
 * **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures.
 * **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method.
+* **ENK**: Eklund, Nichols, and Knutsson (2015). Can Parametric Statistical Methods Be Trusted for fMRI Based Group Studies?
+* **F**: Friendly (1994). Mosaic displays for multi-way contingency tables.
+* **GH**: Greenacre and Hastie (1987). The Geometric Interpretation of Correspondence Analysis.
+* **H**: Holmes (2008). Multivariate Data Analysis: The French Way
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples.
 * **SMN**: Silver, Montana, and Nichols (2011). False Positives in Neuroimaging Genetics Using Voxel-Based Morphometry Data.
-* **ENK**: Eklund, Nichols, and Knutsson (2015). Can Parametric Statistical Methods Be Trusted for fMRI Based Group Studies?
 
 ## Suggested Links
 * TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
@@ -64,7 +67,8 @@ Lecture 2 | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilc
 Lecture 3 | [Robustness](Lecture3/Robustness.html)                                                                          | **KM** Chapter 2.5
 Lecture 4 | [Bootstrap (Part 1)](Lecture4/BootstrapPart1.html) and [Bootstrap (Example)](Lecture4/BootstrapExample.html)    | **KM** Chapter 2.4
 Lecture 5 | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                                                              | **KM** Chapter 2.4
-Lecture 6 | Proportion Problems and \\( \chi^2 \\) Tests                                                                    | **KM** Chapter 2.6, 2.7
+Lecture 6 | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/ProportionProblemChiSquared.html)              | **KM** Chapter 2.6, 2.7
+Lecture 7 | \\( \chi^2 \\) Tests (Part 2)                                                                                   | **KM** Chapter 2.7
 
 ## Homework
 
