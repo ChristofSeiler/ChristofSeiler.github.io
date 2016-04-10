@@ -11,29 +11,29 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 ## Textbooks
 
 ### Required
-* **KM**: Kloke and McKean (2015). Nonparametric Statistical Methods Using R.
+* **KM**: Kloke and McKean (2015). Nonparametric Statistical Methods Using R
 
 ### Optional
-* **ET**: Efron and Tibshirani (1994). An Introduction to the Bootstrap.
-* **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis.
-* **HWC**: Hollander and Wolfe, and Chicken (2013). Nonparametric Statistical Methods (3rd Edition).
-* **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks.
-* **W**: Wasserman (2006). All of Nonparametric Statistics.
-* **T**: Tsybakov (2009). Introduction to Nonparametric Estimation.
-* **PE**: Patrangenaru and Ellingson (2015). Nonparametric Statistics on Manifolds and Their Applications to Object Data Analysis.
-* **S**: Silverman (1986). Density Estimation for Statistics and Data Analysis.
-* **FM**: Friendly and Meyer (2015). Discrete Data Analysis with R.
+* **ET**: Efron and Tibshirani (1994). An Introduction to the Bootstrap
+* **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis
+* **HWC**: Hollander and Wolfe, and Chicken (2013). Nonparametric Statistical Methods
+* **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks
+* **W**: Wasserman (2006). All of Nonparametric Statistics
+* **T**: Tsybakov (2009). Introduction to Nonparametric Estimation
+* **PE**: Patrangenaru and Ellingson (2015). Nonparametric Statistics on Manifolds and Their Applications to Object Data Analysis
+* **S**: Silverman (1986). Density Estimation for Statistics and Data Analysis
+* **FM**: Friendly and Meyer (2015). Discrete Data Analysis with R
 
 ## Suggested Journal Articles
-* **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics.
-* **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures.
-* **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method.
+* **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics
+* **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures
+* **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method
 * **ENK**: Eklund, Nichols, and Knutsson (2015). Can Parametric Statistical Methods Be Trusted for fMRI Based Group Studies?
-* **F**: Friendly (1994). Mosaic displays for multi-way contingency tables.
-* **GH**: Greenacre and Hastie (1987). The Geometric Interpretation of Correspondence Analysis.
+* **F**: Friendly (1994). Mosaic displays for multi-way contingency tables
+* **GH**: Greenacre and Hastie (1987). The Geometric Interpretation of Correspondence Analysis
 * **H**: Holmes (2008). Multivariate Data Analysis: The French Way
-* **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples.
-* **SMN**: Silver, Montana, and Nichols (2011). False Positives in Neuroimaging Genetics Using Voxel-Based Morphometry Data.
+* **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples
+* **SMN**: Silver, Montana, and Nichols (2011). False Positives in Neuroimaging Genetics Using Voxel-Based Morphometry Data
 
 ## Suggested Links
 * TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
