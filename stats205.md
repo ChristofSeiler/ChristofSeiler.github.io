@@ -69,7 +69,7 @@ Lecture 4 | [Bootstrap (Part 1)](Lecture4/BootstrapPart1.html) and [Bootstrap (E
 Lecture 5 | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                                                              | **KM** Chapter 2.4
 Lecture 6 | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/ProportionProblemChiSquared.html)              | **KM** Chapters 2.6, 2.7
 Lecture 7 | [\\( \chi^2 \\) Tests (Part 2)](Lecture7/ChiSquaredPart2.html)                                                  | **KM** Chapter 2.7
-Lecture 8 | Two-Sample Problems                                                                                             | **KM** Chapters 3.1, 3.2
+Lecture 8 | [Two-Sample Problems](Lecture8/TwoSampleProblems.html)                                                          | **KM** Chapters 3.1, 3.2
 
 ## Homework
 
