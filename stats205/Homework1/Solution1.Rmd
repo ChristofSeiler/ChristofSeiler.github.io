@@ -1,9 +1,9 @@
----
-title: "HW1"
-author: "Brian Do"
-date: "Tuesday, April 05, 2016"
-output: html_document
----
+\---
+\title: "HW1"
+\author: "Brian Do"
+\date: "Tuesday, April 05, 2016"
+\output: html_document
+\---
 
 ```{r}
 library(ggplot2)
