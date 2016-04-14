@@ -1,0 +1,80 @@
+---
+title: "HW1"
+author: "Brian Do"
+date: "Tuesday, April 05, 2016"
+output: html_document
+---
+
+```{r}
+library(ggplot2)
+```
+
+## Exercise 1
+
+```{r}
+seq(0, 19, 2)
+seq(101, 203, 2)
+rep(c(1,3),4)
+c(rep(1,4), rep(3,4))
+```
+
+## Exercise 2
+
+```{r}
+mean(0:99)
+var(0:99)
+x = rnorm(50, 30, 5)
+mean(x)
+var(x)
+```
+
+## Exercise 3
+
+```{r}
+die = 1:6
+B = 10000
+means = rep(0, B)
+for (i in 1:B) {
+  x = sample(die, 10, replace=TRUE)
+  means[i] = mean(x)
+}
+a = data.frame(means)
+ggplot(a, aes(x=means)) + geom_density()
+```
+
+## Exercise 4
+
+```{r}
+B = 10000
+pvals = rep(0, B)
+for (i in 1:B) {
+  x = rnorm(25, 0.5, 1)
+  pvals[i] = t.test(x)$p.value  
+}
+mean(pvals < 0.05)
+```
+
+## Exercise 5
+
+```{r}
+plot(dnorm(seq(20,80,1), 50, sqrt(10)), lwd=1, type='l', xlab="x")
+```
+
+## Exercise 6
+
+```{r}
+signtest = function(x) {
+  numplus = sum(x > 0)
+  numminus = sum(x < 0)
+  return(1 - pbinom(numplus-1, numplus + numminus, 0.5))
+}
+```
+
+## Exercise 7
+
+```{r}
+school<-c(82,69,73,43,58,56,76,65)
+home<-c(63,42,74,37,51,43,80,62)
+response <- school - home
+signtest(response)
+```

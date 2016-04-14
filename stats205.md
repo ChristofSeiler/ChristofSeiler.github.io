@@ -74,7 +74,7 @@ Lecture 9 | Two-Sample Problems (Part 2)                                        
 
 ## Homework
 
-Assignment                              | Deadline
-----------------------------------------|------------------------
-[Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm
-[Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm
+Assignment                              | Deadline              | Solution
+----------------------------------------|---------------------------------------------
+[Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm  | [Solution1.Rmd](Homework1/Solution1.Rmd)
+[Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm | 
