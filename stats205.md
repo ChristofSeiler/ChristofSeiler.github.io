@@ -25,6 +25,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **FM**: Friendly and Meyer (2015). Discrete Data Analysis with R
 
 ## Suggested Journal Articles
+* **C**: Critchlow (1986), A Unified Approach to Constructing Nonparametric Rank Tests
 * **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics
 * **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures
 * **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method
@@ -70,7 +71,7 @@ Lecture 5 | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                  
 Lecture 6 | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/ProportionProblemChiSquared.html)              | **KM** Chapters 2.6, 2.7
 Lecture 7 | [\\( \chi^2 \\) Tests (Part 2)](Lecture7/ChiSquaredPart2.html)                                                  | **KM** Chapter 2.7
 Lecture 8 | [Two-Sample Problems (Part 1)](Lecture8/TwoSampleProblems.html)                                                 | **KM** Chapters 3.1, 3.2
-Lecture 9 | Two-Sample Problems (Part 2)                                                                                    | **KM** Chapters 3.2
+Lecture 9 | Two-Sample Problems (Part 2)                                                                                    | **KM** Chapters 3.2, 3.4
 
 ## Homework
 
