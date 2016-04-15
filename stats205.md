@@ -71,7 +71,8 @@ Lecture 5 | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                  
 Lecture 6 | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/ProportionProblemChiSquared.html)              | **KM** Chapters 2.6, 2.7
 Lecture 7 | [\\( \chi^2 \\) Tests (Part 2)](Lecture7/ChiSquaredPart2.html)                                                  | **KM** Chapter 2.7
 Lecture 8 | [Two-Sample Problems (Part 1)](Lecture8/TwoSampleProblems.html)                                                 | **KM** Chapters 3.1, 3.2
-Lecture 9 | Two-Sample Problems (Part 2)                                                                                    | **KM** Chapters 3.2, 3.4
+Lecture 9 | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html)                                            | **KM** Chapters 3.2, 3.4
+Lecture 9 | Permutation Tests                                                                                               | 
 
 ## Homework
 
@@ -79,3 +80,4 @@ Assignment                              | Deadline              | Solution
 ----------------------------------------|---------------------------------------------
 [Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm  | [Solution 1](Homework1/Solution1.html)
 [Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm | 
+                                        | April 25th at 1:30 pm | 
