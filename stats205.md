@@ -68,7 +68,7 @@ Office hours:
 No         | Topic(s)                                                                                                        | Background Material
 -----------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------
 Lecture 1  | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)                                               | **KM** Chapter 1
-Lecture 2  | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                                  | **KM** Chapters 2.1, 2.2 and 2.3
+Lecture 2  | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                                  | **KM** Chapters 2.1, 2.2, 2.3
 Lecture 3  | [Robustness](Lecture3/Robustness.html)                                                                          | **KM** Chapter 2.5
 Lecture 4  | [Bootstrap (Part 1)](Lecture4/BootstrapPart1.html) and [Bootstrap (Example)](Lecture4/BootstrapExample.html)    | **KM** Chapter 2.4
 Lecture 5  | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                                                              | **KM** Chapter 2.4
@@ -76,12 +76,13 @@ Lecture 6  | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/Pr
 Lecture 7  | [\\( \chi^2 \\) Tests (Part 2)](Lecture7/ChiSquaredPart2.html)                                                  | **KM** Chapter 2.7
 Lecture 8  | [Two-Sample Problems (Part 1)](Lecture8/TwoSampleProblems.html)                                                 | **KM** Chapters 3.1, 3.2
 Lecture 9  | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html)                                            | **KM** Chapters 3.2, 3.4
-Lecture 10 | Permutation Tests                                                                                               | **G** Chapter 1
+Lecture 10 | [Permutation Tests (Part 1)](Lecture10/PermutationTest.html)                                                    | **G** Chapter 1
+Lecture 11 | Permutation Tests (Part 2)                                                                                      | 
 
 ## Homework
 
 Assignment                              | Deadline              | Solution
-----------------------------------------|---------------------------------------------
+----------------------------------------|-----------------------|----------------------------------------
 [Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm  | [Solution 1](Homework1/Solution1.html)
 [Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm | 
 [Homework 3](Homework3/Homework3.html)  | April 25th at 1:30 pm | 
