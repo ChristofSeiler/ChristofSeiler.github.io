@@ -15,16 +15,18 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 
 ### Optional
 * **ET**: Efron and Tibshirani (1994). An Introduction to the Bootstrap
-* **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis
+* **FM**: Friendly and Meyer (2015). Discrete Data Analysis with R
+* **G**: Good (2005). Permutations, Parametric, and Boostrap Test of Hypothesis
 * **HWC**: Hollander and Wolfe, and Chicken (2013). Nonparametric Statistical Methods
 * **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks
-* **W**: Wasserman (2006). All of Nonparametric Statistics
-* **T**: Tsybakov (2009). Introduction to Nonparametric Estimation
+* **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis
 * **PE**: Patrangenaru and Ellingson (2015). Nonparametric Statistics on Manifolds and Their Applications to Object Data Analysis
 * **S**: Silverman (1986). Density Estimation for Statistics and Data Analysis
-* **FM**: Friendly and Meyer (2015). Discrete Data Analysis with R
+* **T**: Tsybakov (2009). Introduction to Nonparametric Estimation
+* **W**: Wasserman (2006). All of Nonparametric Statistics
 
 ## Suggested Journal Articles
+* **B**: Basu (1980). Randomization Analysis of Experimential Data: The Fisher Randomization Test
 * **C**: Critchlow (1986), A Unified Approach to Constructing Nonparametric Rank Tests
 * **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics
 * **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures
@@ -34,7 +36,9 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **GH**: Greenacre and Hastie (1987). The Geometric Interpretation of Correspondence Analysis
 * **H**: Holmes (2008). Multivariate Data Analysis: The French Way
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples
+* **PT**: Pagano and Tritchler (1983). On Obtaining Permutation Distributions in Polynomial Time
 * **SMN**: Silver, Montana, and Nichols (2011). False Positives in Neuroimaging Genetics Using Voxel-Based Morphometry Data
+* **WRR**: Witztum, Rips, and Rosenberg (1994). Equidistant Letter Sequences in the Book of Genesis
 
 ## Suggested Links
 * TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
@@ -72,7 +76,7 @@ Lecture 6  | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/Pr
 Lecture 7  | [\\( \chi^2 \\) Tests (Part 2)](Lecture7/ChiSquaredPart2.html)                                                  | **KM** Chapter 2.7
 Lecture 8  | [Two-Sample Problems (Part 1)](Lecture8/TwoSampleProblems.html)                                                 | **KM** Chapters 3.1, 3.2
 Lecture 9  | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html)                                            | **KM** Chapters 3.2, 3.4
-Lecture 10 | Permutation Tests                                                                                               | 
+Lecture 10 | Permutation Tests                                                                                               | **G** Chapter 1
 
 ## Homework
 
@@ -80,4 +84,4 @@ Assignment                              | Deadline              | Solution
 ----------------------------------------|---------------------------------------------
 [Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm  | [Solution 1](Homework1/Solution1.html)
 [Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm | 
-                                        | April 25th at 1:30 pm | 
+[Homework 3](Homework3/Homework3.html)  | April 25th at 1:30 pm | 
