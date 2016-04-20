@@ -148,9 +148,9 @@ Even though the <span class="math inline">\(\chi^2\)</span>-tests of homogeneity
 <div id="exercise-4" class="section level2">
 <h2>Exercise 4</h2>
 <p>Correspondence analysis is useful for text analysis. For instance, to compare texts from different authors in terms of common word frequency. The idea: Make a contingency table where rows are books from different authors and columns are words.</p>
-<p>Perform this type of analysis on the following two books form the <code>languageR</code> package. Use association plots, mosaic plots, and correspondence analysis, to determine if there are any words that contribute heavily to inhomogeneity among books. <em>Hint:</em> Use package <code>vcd</code> and <code>ca</code>. Limit your analysis to words that occur frequently in both books.</p>
+<p>Perform this type of analysis on the following three books form the <code>languageR</code> package. Use association plots, mosaic plots, and correspondence analysis, to determine if there are any words that contribute heavily to inhomogeneity among books. <em>Hint:</em> Use package <code>vcd</code> and <code>ca</code>. Limit your analysis to words that occur frequently in both books.</p>
 <pre class="r"><code>library(languageR)
-data(alice,moby)
+data(alice,moby,oz)
 alice[1:20]</code></pre>
 <pre><code>##  [1] &quot;ALICE&quot;       &quot;S&quot;           &quot;ADVENTURES&quot;  &quot;IN&quot;          &quot;WONDERLAND&quot; 
 ##  [6] &quot;Lewis&quot;       &quot;Carroll&quot;     &quot;THE&quot;         &quot;MILLENNIUM&quot;  &quot;FULCRUM&quot;    
@@ -161,6 +161,11 @@ alice[1:20]</code></pre>
 ##  [6] &quot;by&quot;          &quot;Herman&quot;      &quot;Melville&quot;    &quot;ETYMOLOGY&quot;   &quot;Supplied&quot;   
 ## [11] &quot;by&quot;          &quot;a&quot;           &quot;Late&quot;        &quot;Consumptive&quot; &quot;Usher&quot;      
 ## [16] &quot;to&quot;          &quot;a&quot;           &quot;Grammar&quot;     &quot;School&quot;      &quot;The&quot;</code></pre>
+<pre class="r"><code>oz[1:20]</code></pre>
+<pre><code>##  [1] &quot;THE&quot;       &quot;WONDERFUL&quot; &quot;WIZARD&quot;    &quot;OF&quot;        &quot;OZ&quot;       
+##  [6] &quot;1&quot;         &quot;The&quot;       &quot;Cyclone&quot;   &quot;Dorothy&quot;   &quot;lived&quot;    
+## [11] &quot;in&quot;        &quot;the&quot;       &quot;midst&quot;     &quot;of&quot;        &quot;the&quot;      
+## [16] &quot;great&quot;     &quot;Kansas&quot;    &quot;prairies&quot;  &quot;with&quot;      &quot;Uncle&quot;</code></pre>
 </div>
 <div id="deadline" class="section level2">
 <h2>Deadline</h2>
