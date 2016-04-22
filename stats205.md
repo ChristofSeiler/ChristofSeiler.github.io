@@ -60,6 +60,7 @@ Office hours:
 ## Grading
 * Midterm Project Proposal (3 pages with references, 10%, due by April 29th)
 * Final Project (12 pages plus references, 40% due by June 3rd)
+* Projects can be done alone or in pairs
 * Weekly homework (40%)
 * Class participation (10%)
 
