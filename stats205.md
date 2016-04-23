@@ -80,7 +80,7 @@ Lecture 9  | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html
 Lecture 10 | [Permutation Tests (Part 1)](Lecture10/PermutationTest.html)                                                                   | **G** Chapter 1
 Lecture 11 | [Permutation Tests (Part 2)](Lecture11/PermutationTestPart2.html) and [Neuroimaging (Example)](Lecture11/Neuroimaging.html)    | **WRR** and **NH**
 Lecture 12 | [Rank-Based Linear Regression](Lecture12/Regression.html)                                                                      | **KM** Chapter 4.1, 4.2, 4.3, 4.4, 4.8
-Lecture 13 |                                                                                                                                | 
+Lecture 13 | Nonlinear Regression                                                                                                           | **KM** Chapter 4.7
 
 ## Homework
 
