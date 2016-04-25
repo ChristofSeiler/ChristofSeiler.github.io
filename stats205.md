@@ -17,6 +17,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **ET**: Efron and Tibshirani (1994). An Introduction to the Bootstrap
 * **FM**: Friendly and Meyer (2015). Discrete Data Analysis with R
 * **G**: Good (2005). Permutations, Parametric, and Boostrap Test of Hypothesis
+* **HP**: Henderson and Parmeter (2015). Applied Nonparametric Econometrics
 * **HWC**: Hollander and Wolfe, and Chicken (2013). Nonparametric Statistical Methods
 * **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks
 * **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis
@@ -80,7 +81,8 @@ Lecture 9  | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html
 Lecture 10 | [Permutation Tests (Part 1)](Lecture10/PermutationTest.html)                                                                   | **G** Chapter 1
 Lecture 11 | [Permutation Tests (Part 2)](Lecture11/PermutationTestPart2.html) and [Neuroimaging (Example)](Lecture11/Neuroimaging.html)    | **WRR** and **NH**
 Lecture 12 | [Rank-Based Linear Regression](Lecture12/Regression.html)                                                                      | **KM** Chapter 4.1, 4.2, 4.3, 4.4, 4.8
-Lecture 13 | Nonlinear Regression                                                                                                           | **KM** Chapter 4.7
+Lecture 13 | [Nonlinear Regression (Part 1)[Lecture13/NonlinearRegression.pdf]                                                              | **KM** Chapter 4.7
+Lecture 14 | [Nonlinear Regression (Part 2)                                                                                                 | **KM** Chapter 4.7
 
 ## Homework
 
@@ -89,3 +91,9 @@ Assignment                              | Deadline              | Solution
 [Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm  | [Solution 1](Homework1/Solution1.html)
 [Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm | 
 [Homework 3](Homework3/Homework3.html)  | April 25th at 1:30 pm | 
+
+## Late Homework Policy
+
+* We will deduct 20% from maximum scores for each late day
+* Each student can hand in **one** homework late (within two days after the deadline)
+* Please contact me in case of emergencies
