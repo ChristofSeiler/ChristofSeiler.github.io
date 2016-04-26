@@ -65,6 +65,17 @@ Office hours:
 * Weekly homework (40%)
 * Class participation (10%)
 
+## Midterm Project Content
+
+Some optional guidelines:
+
+1. State the problem
+2. Describe the data
+3. Review what statistical methods are available to analyze your data
+4. List their advantages and disadvantages, in particular compare nonparametric to parameteric methods
+5. Propose a solution using nonparametric methods
+6. List all the tasks that you plan to do: collecting data, programming, simulating data, estimating, testing, etc.
+
 ## Slides
 
 No         | Topic(s)                                                                                                                       | Background Material
