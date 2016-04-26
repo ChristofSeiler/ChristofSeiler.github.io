@@ -94,10 +94,10 @@
 
 <slide class=''><hgroup><h2>What Happened So Far</h2></hgroup><article  id="what-happened-so-far">
 
-<ul class = 'build'>
+<ul>
 <li>We want to compute functionals \(\theta = T(F)\), e.g.
 
-<ul class = 'build'>
+<ul>
 <li>the mean: \(T(F) = \int x \, dF(x) = \int x \, f(x) \, dx\)</li>
 <li>the median: \(T(F) = F^{-1}(1/2)\)</li>
 </ul></li>
@@ -110,7 +110,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Background</h2></hgroup><article  id="background">
 
-<ul class = 'build'>
+<ul>
 <li>Computer more powerful, resampling procedure more widespread</li>
 <li>The bootstrap is another tool to measure error in an estimate or significance of a hypothesis</li>
 <li>A bootstrap sample is a sample from the original sample taken (with replacement)</li>
@@ -122,7 +122,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Plug-in Principle</h2></hgroup><article  id="plug-in-principle">
 
-<ul class = 'build'>
+<ul>
 <li>The data are drawn independently and identically from a unknown distribution \(F\)</li>
 <li>The bootstrap supposes that the empirical distribution \(F_n\) is a good description of the unknown distribution \(F\)</li>
 <li>The <em>plugin-in estimate</em> of a parameter \(\theta = T(F)\) is define as \[\widehat{\theta} = T(F_n)\]</li>
@@ -132,7 +132,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Plug-in Principle</h2></hgroup><article  id="plug-in-principle-1">
 
-<ul class = 'build'>
+<ul>
 <li>We observe the empirical distribution \(F_n\) \[ F_n(t) = \frac{1}{n} \sum_{i=1}^n I(x_i \le t) \]</li>
 <li>In other words, the distribution that puts mass \(1/n\) at each \(x_i\)</li>
 <li>Denote bootstrap sample from \(F_n\) (sample with replacement) as \[\boldsymbol{x}^* = \left[ x_1^*,x_2^*,\dots,x_n^* \right]^T\]</li>
@@ -146,7 +146,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Percentile Confidence Intervals</h2></hgroup><article  id="percentile-confidence-intervals">
 
-<ul class = 'build'>
+<ul>
 <li>Order bootstrap samples: \(\widehat{\theta}^*_{(1)} \le \widehat{\theta}^*_{(2)} \le \dots \le \widehat{\theta}^*_{(B)}\)</li>
 <li>Let \(m = \alpha/2 \times B\) then</li>
 <li>we get the approximate \((1-\alpha) \times 100\%\) confidence interval \[\left( \widehat{\theta}^*_{(m)},\widehat{\theta}^*_{(B-m)} \right)\]</li>
@@ -154,7 +154,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Paired Problem</h2></hgroup><article  id="paired-problem">
 
-<ul class = 'build'>
+<ul>
 <li>Consider the paired problem with \(d_1,\dots,d_n\) are the differences</li>
 <li>In the bootstrap sample \(d_i\) and \(-d_i\) each have probability \(1/2n\) of being selected</li>
 <li>This forms an estimate of the null distribution of the test statistic \(T\)</li>
@@ -163,7 +163,7 @@
 
 </article></slide><slide class=''><hgroup><h2>One Sample Location Problem</h2></hgroup><article  id="one-sample-location-problem">
 
-<ul class = 'build'>
+<ul>
 <li>Test the hypothesis: \[ H_0: \theta = \theta_0 \text{ versus } \theta &gt; \theta_0 \]</li>
 <li>We have to make sure that the null hypothesis is true, so we take our bootstrap samples from \[x_1-\widehat{\theta}+\theta_0,\dots,x_n-\widehat{\theta}+\theta_0\]</li>
 <li>Then \[\text{p-value } = \frac{\#\{\widehat{\theta}_i^*\ge \widehat{\theta}\}}{B}\]</li>
@@ -171,7 +171,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Two Sources of Errors</h2></hgroup><article  id="two-sources-of-errors">
 
-<ul class = 'build'>
+<ul>
 <li>Sampling variability:<br/>We only have a sample of size \(n\) and not the entire population</li>
 <li>Bootstrap resampling variability:<br/>We only use \(B\) bootstrap samples rather than an infinite number</li>
 </ul>
@@ -182,7 +182,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Two Sources of Errors</h2></hgroup><article  id="two-sources-of-errors-1">
 
-<ul class = 'build'>
+<ul>
 <li>The bootstrap estimate of a standard error \(\widehat{\operatorname{se}}_B\) of a statistic \(s\) \[\widehat{\operatorname{se}}_B = \left( \frac{1}{B} \sum_{b=1}^B (s(\boldsymbol{x}^{*b})-\bar{s})^2 \right)^{1/2}\]</li>
 <li>when \(s\) is the sample mean of iid normals, then we get a coeffiecent of variation \[\operatorname{cv}(\widehat{\operatorname{se}}_B) = \frac{\operatorname{Var}(\widehat{\operatorname{se}}_B)}{\operatorname{E}(\widehat{\operatorname{se}}_B)}\]</li>
 <li>as a function of \(n\) and \(B\) \[\operatorname{cv}(\widehat{\operatorname{se}}_B) = \left( \frac{1}{2n} + \frac{1}{2B} \right)^{1/2}\]</li>
@@ -190,10 +190,10 @@
 
 </article></slide><slide class=''><hgroup><h2>Complete Enumerations</h2></hgroup><article  id="complete-enumerations">
 
-<ul class = 'build'>
+<ul>
 <li>There are \(n^n\) different bootstrap samples \[\boldsymbol{x}^{*1},\boldsymbol{x}^{*2},\dots,\boldsymbol{x}^{*n^n}\] but some of them have the same subset, for example, for \(n =3\)
 
-<ul class = 'build'>
+<ul>
 <li>\(x_1,x_1,x_2\) same as</li>
 <li>\(x_2,x_1,x_1\)</li>
 </ul></li>
@@ -203,11 +203,11 @@
 
 </article></slide><slide class=''><hgroup><h2>Complete Enumerations</h2></hgroup><article  id="complete-enumerations-1">
 
-<ul class = 'build'>
+<ul>
 <li>The size of this space is \(|\mathcal{C}_n| = \binom{2n-1 }{n-1}\)</li>
 <li>Place \(n-1\) bars inbetween \(n\) balls, for example, for \(n=3\)
 
-<ul class = 'build'>
+<ul>
 <li><code>0|0|0</code> corresponds to \(x_1,x_2,x_3\)</li>
 <li><code>000||</code> corresponds to \(x_1,x_1,x_1\)</li>
 </ul></li>
@@ -216,10 +216,10 @@
 
 </article></slide><slide class=''><hgroup><h2>Complete Enumerations</h2></hgroup><article  id="complete-enumerations-2">
 
-<ul class = 'build'>
+<ul>
 <li>Corresponds to a multinomial distribution \(m_n(k,p)\) of the vector \((k_1,k_2,...k_n)\) with each of the \(n\) categories equally likely \(p_i=\frac{1}{n}\)
 
-<ul class = 'build'>
+<ul>
 <li>rolling a dice with \(k_1,k_2,\dots,k_n\) sides \(n\) times</li>
 <li>all sides have fixed and equal probability of sucess</li>
 <li>counts how many times each side comes up successfully</li>
@@ -229,10 +229,10 @@
 
 </article></slide><slide class=''><hgroup><h2>Complete Enumerations</h2></hgroup><article  id="complete-enumerations-3">
 
-<ul class = 'build'>
+<ul>
 <li>To form an exhaustive bootstrap distribution of statistic \(T(\mathcal{C}_n)\), we need to compute
 
-<ul class = 'build'>
+<ul>
 <li>\(|\mathcal{C}_n| = \binom{2n-1}{n-1}\) statistics and</li>
 <li>associated weights by evaluating \(m_n(k,p)\)</li>
 </ul></li>

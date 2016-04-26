@@ -94,7 +94,7 @@
 
 <slide class=''><hgroup><h2>The Lady and the Tea</h2></hgroup><article  id="the-lady-and-the-tea">
 
-<ul class = 'build'>
+<ul>
 <li>Fisher starts his second chapter in his famous book on &quot;The Design of Experiments&quot; first published in 1935:</li>
 <li>Quote: <code>A lady declares that by tasting a cup of tea made with milk she can discriminate whether the milk or the tea infusion was first added to the cup.</code></li>
 <li>Fisher proposed the the following experiment to test this</li>
@@ -109,7 +109,7 @@
 
 </article></slide><slide class=''><hgroup><h2>The Lady and the Tea</h2></hgroup><article  id="the-lady-and-the-tea-1">
 
-<ul class = 'build'>
+<ul>
 <li>Our theory is that the lady can taste the difference</li>
 <li>Which translates into our null hypothesis:<br/>\(H_0:\) lady <strong>cannot</strong> taste difference</li>
 <li>The test statistics is the number of correct judgements</li>
@@ -120,7 +120,7 @@
 
 </article></slide><slide class=''><hgroup><h2>The Lady and the Tea</h2></hgroup><article  id="the-lady-and-the-tea-2">
 
-<ul class = 'build'>
+<ul>
 <li>Because of randomization, all \(8! = 40320\) permutations of the cups are equally likely, and each one has its own number of correct judgements</li>
 <li>There are \({8 \choose 4} = 70\) ways of choosing 4 cups from 8 cups</li>
 <li>Think of it as, choosing 4 cups in succession by first choosing from 8 cups, then 7, 6, 5, which gives \(8 \times 7 \times 6 \times 5 = 1680\)</li>
@@ -134,7 +134,7 @@
 ## truth     &quot;tea&quot; &quot;milk&quot; &quot;milk&quot; &quot;milk&quot; &quot;tea&quot; &quot;tea&quot; &quot;tea&quot;  &quot;milk&quot;
 ## judgement &quot;tea&quot; &quot;milk&quot; &quot;milk&quot; &quot;milk&quot; &quot;tea&quot; &quot;tea&quot; &quot;milk&quot; &quot;tea&quot;</pre>
 
-<ul class = 'build'>
+<ul>
 <li>Under the null, the reasons for the lady&#39;s judgements are unkown, except that they have nothing to do with the truth</li>
 <li>The judgements are what they are; they are fixed</li>
 <li>All \(70\) ways to line up cups are equally likely</li>
@@ -156,7 +156,7 @@ data.frame(t=t,probability=round(probability,digits=3))</pre>
 ## 4 3       0.229
 ## 5 4       0.014</pre>
 
-<ul class = 'build'>
+<ul>
 <li>The chances of a match is \(\frac{1}{70} = 0.014 &lt; 0.05\)</li>
 <li>We need perfect match!</li>
 </ul>
@@ -196,14 +196,14 @@ data.frame(t=t,probability=round(probability,digits=4))</pre>
 ## 7 6      0.0143
 ## 8 7      0.0003</pre>
 
-<ul class = 'build'>
+<ul>
 <li>If she tasted 14 cups, it would be possible to reject \(H_0\) without requiring perfect judgement</li>
 <li>We need either perfect match or one miss to get a \(p\)-value below \(0.05\)</li>
 </ul>
 
 </article></slide><slide class=''><hgroup><h2>Darwin and Fisher</h2></hgroup><article  id="darwin-and-fisher">
 
-<ul class = 'build'>
+<ul>
 <li>In chapter 3 of Fisher&#39;s book, he then introduced the first nonparametric test</li>
 <li>He illustrated his approach on data from Darwin</li>
 <li>Darwin raised cross- and self-fertilized corn (Zea mays) plants</li>
@@ -257,7 +257,7 @@ data.frame(t=t,probability=round(probability,digits=4))</pre>
 <pre >##  [1]  6.125 -8.375  1.000  2.000  0.750  2.875  3.500  5.125  1.750  3.625
 ## [11]  7.000  3.000  9.375  7.500 -6.000</pre>
 
-<ul class = 'build'>
+<ul>
 <li>Then he invents the first permutation test</li>
 <li>Under \(H_0\) that self-fertilized versus cross-fertilized does not matter, only chance determined whether \(A-B\) or \(B-A\)</li>
 <li>So the absolute value of the difference is what it is, but the plus or minus sign is by chance alone</li>
@@ -268,7 +268,7 @@ data.frame(t=t,probability=round(probability,digits=4))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Darwin and Fisher</h2></hgroup><article  id="darwin-and-fisher-4">
 
-<ul class = 'build'>
+<ul>
 <li>Random samples \(X_1,\dots,X_n\) from \(X\)</li>
 <li>Test \(H_0: E(X) = 0\)</li>
 <li>Write the usuall statistic as \[T = \sum_{i=1}^n X_i = \sum_{i=1}^n |X_i| \delta_i\]</li>
@@ -279,7 +279,7 @@ data.frame(t=t,probability=round(probability,digits=4))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Darwin and Fisher</h2></hgroup><article  id="darwin-and-fisher-5">
 
-<ul class = 'build'>
+<ul>
 <li>But if we fix \(|X_i|\) at their observed values and regard \(\delta_i\) as random</li>
 <li>Then the condition null of \(T\) is well defined</li>
 <li>The only thing left to do is to compute \[P\left(T \ge t \, \big| \, H_0, |X_1|, \dots, |X_n| \right)\] by listing all possible samples of type \[\left(\pm \, |X_1|, \dots, \pm \, |X_n|\right)\]</li>
@@ -308,11 +308,11 @@ pvalue = 2*mean(TNull &gt;= T0); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Darwin and Fisher</h2></hgroup><article  id="darwin-and-fisher-8">
 
-<ul class = 'build'>
+<ul>
 <li>We already looked at similar tests</li>
 <li>The <em>sign test</em>:
 
-<ul class = 'build'>
+<ul>
 <li>Test statistic: \(S = \#_i \{ X_i \}\)</li>
 <li>Wilcoxon signed-rank test: \(W = \sum_{i=1}^n \operatorname{R}(|X_i|) \delta_i\)</li>
 </ul></li>
@@ -321,7 +321,7 @@ pvalue = 2*mean(TNull &gt;= T0); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Permutation Test &#8211; General Recipe</h2></hgroup><article  id="permutation-test----general-recipe">
 
-<ul class = 'build'>
+<ul>
 <li>Decide on a test statistic \(T\)</li>
 <li>List the possible values of \(T\)</li>
 <li>Under \(H_0\), all ways of re-arranging the data are equally likely</li>
@@ -331,7 +331,7 @@ pvalue = 2*mean(TNull &gt;= T0); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Permutation Test &#8211; One-Sample Problem</h2></hgroup><article  id="permutation-test----one-sample-problem">
 
-<ul class = 'build'>
+<ul>
 <li>Location model: \(X_i = \theta + e_i\)</li>
 <li>Assume error distribution has symmetric pdf \(f(t)\) around \(\theta\)</li>
 <li>Hypothesis test: \(H_0: \theta = 0\) versus \(H_A: \theta &gt; 0\)</li>
@@ -345,7 +345,7 @@ pvalue = 2*mean(TNull &gt;= T0); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Permutation Test &#8211; One-Sample Problem</h2></hgroup><article  id="permutation-test----one-sample-problem-1">
 
-<ul class = 'build'>
+<ul>
 <li>Assume that we had lost the signs information</li>
 <li>Under the null, we can recover the orginal distribution by randomly assigning signs to each deviation</li>
 <li>In this case, we say that the deviations are sufficient</li>
@@ -356,7 +356,7 @@ pvalue = 2*mean(TNull &gt;= T0); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Permutation Test &#8211; Two-Sample Problem</h2></hgroup><article  id="permutation-test----two-sample-problem">
 
-<ul class = 'build'>
+<ul>
 <li>Test statistic: Sum of observations from second population</li>
 <li>Assume that we had lost the group assignments</li>
 <li>Under the null, we can recover the original distribution by randomly assigning groups to each observation</li>
@@ -368,7 +368,7 @@ pvalue = 2*mean(TNull &gt;= T0); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Assumption: Exchangeable Observations</h2></hgroup><article  id="assumption-exchangeable-observations">
 
-<ul class = 'build'>
+<ul>
 <li>A sufficient condition for permutation test is exchangeable of observations</li>
 <li>Consider a collection of random variables \[ X_1,\dots,X_n \]</li>
 <li>If their joint distribution are equal under permuations \(\pi\) \[P_{X_1,\dots,X_n}(A) = P_{X_{\pi(1)},\dots,X_{\pi(n)}}(A)\]</li>
@@ -378,12 +378,12 @@ pvalue = 2*mean(TNull &gt;= T0); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Assumption: Exchangeable Observations</h2></hgroup><article  id="assumption-exchangeable-observations-1">
 
-<ul class = 'build'>
+<ul>
 <li>Some examples:</li>
 <li>Independent and identically distributed observations are exchangeable</li>
 <li>Samples without replacement from a finite population are exchangeable:
 
-<ul class = 'build'>
+<ul>
 <li>An urn contains \(b\) black balls, \(r\) red balls, \(y\) yellow balls, and so forth</li>
 <li>A series of balls are extracted from the urn</li>
 <li>After the \(i\)th extraction, the color of the ball \(X_i\) is noted and \(k\) balls of the same color are added to the urn,</li>
@@ -395,7 +395,7 @@ pvalue = 2*mean(TNull &gt;= T0); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Assumption: Exchangeable Observations</h2></hgroup><article  id="assumption-exchangeable-observations-2">
 
-<ul class = 'build'>
+<ul>
 <li>Sometimes a simple transformation will ensure that observations are exchangeable</li>
 <li>For example, if we know that \(X\) comes from a population with mean \(\mu\) and distribution \(F(x−\mu)\) and</li>
 <li>an independent observation \(Y\) comes from a population with mean \(v\) and distribution \(F(x−v)\)</li>
@@ -404,7 +404,7 @@ pvalue = 2*mean(TNull &gt;= T0); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>How to Compute It?</h2></hgroup><article  id="how-to-compute-it">
 
-<ul class = 'build'>
+<ul>
 <li>Small sample size:<br/>Enumerations of all permutations using Gray codes<br/>(takes expotional time in \(n\))</li>
 <li>Medium sample size:<br/>Fast Frourier Transform<br/>(takes polynomial time in \(n\))</li>
 <li>Large sample size:<br/>Monte Carlo simulations<br/>(time depends on accuracy requirements)</li>
@@ -412,7 +412,7 @@ pvalue = 2*mean(TNull &gt;= T0); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>References</h2></hgroup><article  id="references">
 
-<ul class = 'build'>
+<ul>
 <li>Good (2005). Permutations, Parametric, and Boostrap Test of Hypothesis</li>
 <li>Basu (1980). Randomization Analysis of Experimential Data: The Fisher Randomization Test</li>
 <li>Pagano and Tritchler (1983). On Obtaining Permutation Distributions in Polynomial Time</li>

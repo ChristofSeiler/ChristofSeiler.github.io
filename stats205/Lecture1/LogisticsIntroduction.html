@@ -94,7 +94,7 @@
 
 <slide class=''><hgroup><h2>Stats 205</h2></hgroup><article  id="stats-205" class="smaller ">
 
-<ul class = 'build'>
+<ul>
 <li>You can find everything on our course website: <a href='http://christofseiler.github.io/stats205/' title=''>http://christofseiler.github.io/stats205/</a></li>
 <li>Homework every 8 days (send solutions to TA&#39;s)</li>
 <li>Midterm and finals will be a project</li>
@@ -104,7 +104,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Why?</h2></hgroup><article  id="why" class="smaller ">
 
-<ol class = 'build'>
+<ol>
 <li>Few assumptions about underlying populations from which data is obtained,<br/> e.g. populations don&#39;t need to follow a normal distribution</li>
 <li>Often easier to understand and apply than parametric tests</li>
 <li>Slightly less efficient than parametric test when parametric assumptions hold, but<br/> if assumptions don&#39;t hold then wildly more efficient<br/></li>
@@ -116,7 +116,7 @@
 
 <h3>Overview</h3>
 
-<ul class = 'build'>
+<ul>
 <li>Get an overview of classical, Bayesian, and modern methods</li>
 <li>Learn how to implement methods yourself and use existing R packages</li>
 <li>Be aware and understand underlying assumptions</li>
@@ -129,7 +129,7 @@
 
 <p>The students will learn to apply methods and explain the statistical assumptions of</p>
 
-<ol class = 'build'>
+<ol>
 <li>Monte Carlo simulations for analytically intractable problems</li>
 <li>rank-based methods for parameter estimation, confidence intervals, and hypothesis testing</li>
 <li>permutations test for hypothesis testing</li>
@@ -138,14 +138,14 @@
 
 </article></slide><slide class=''><hgroup><h2>Textbooks</h2></hgroup><article  id="textbooks" class="smaller ">
 
-<ul class = 'build'>
+<ul>
 <li><p>Our main textbook with lots of practical computations in R <a href='https://searchworks.stanford.edu/view/10718635' title=''>(Stanford library link)</a>:<br/>Kloke and McKean (2015). Nonparametric Statistical Methods Using R</p></li>
 <li><p>In-depth coverage of the bootstrap with lot of examples:<br/>Efron and Tibshirani (1994). An Introduction to the Bootstrap</p></li>
 </ul>
 
 </article></slide><slide class=''><hgroup><h2>More Textbooks</h2></hgroup><article  id="more-textbooks" class="smaller ">
 
-<ul class = 'build'>
+<ul>
 <li><p>A Bayesian view <a href='https://searchworks.stanford.edu/view/11351113' title=''>(Stanford library link)</a>:<br/>Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis</p></li>
 <li><p>Very comprehensive covering most of the material of the previous books <a href='https://searchworks.stanford.edu/view/10356739' title=''>(Stanford library link)</a>:<br/>Hollander and Wolfe, and Chicken (2013). Nonparametric Statistical Methods</p></li>
 <li><p>Classical textbook for rank-based method with lot of mathematical details:<br/>Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks</p></li>
@@ -153,13 +153,13 @@
 
 </article></slide><slide class=''><hgroup><h2>Grading: Homework and Projects</h2></hgroup><article  id="grading-homework-and-projects" class="smaller ">
 
-<ul class = 'build'>
+<ul>
 <li>Weekly homework assignments (40%), mostly R exercises</li>
 <li>Class participation (10%)</li>
 <li><p>Project (50%)</p></li>
 <li>Goal of project: Write a paper on
 
-<ul class = 'build'>
+<ul>
 <li>applying nonparametric statistics to your field of interest or</li>
 <li>study one particular theoretical aspects that your care about</li>
 </ul></li>
@@ -169,15 +169,15 @@
 
 <p>The project will be split in two parts:</p>
 
-<ol class = 'build'>
+<ol>
 <li>Midterm project (3 pages with references) (10%):
 
-<ul class = 'build'>
+<ul>
 <li>Project proposal and outline of planned tasks</li>
 </ul></li>
 <li>Final project (12 pages plus references) (40%):
 
-<ul class = 'build'>
+<ul>
 <li>A theoretical part: Explanation of the method studied and its properties</li>
 <li>A computational part: Preferably in R</li>
 <li>A data-analysis part: Plots and interpretations</li>
@@ -198,7 +198,7 @@
 
 </article></slide><slide class=''><hgroup><h2>History 1930&#39;s to 1970&#39;s</h2></hgroup><article  id="history-1930s-to-1970s" class="smaller ">
 
-<ul class = 'build'>
+<ul>
 <li>Beginning of nonparametric statistics (Hotelling and Pabst 1936)</li>
 <li>Wilcoxon (1945) introduced the two-sample rank sum test for equal sample sizes, and Mann and Whitney (1947) generalize it</li>
 <li>Pitman (1948), Hodges and Lehmann (1956), and Chernoff and Savage (1958) showed desirable efficiency properties</li>
@@ -213,7 +213,7 @@
 
 <p>Some examples from special issue of Statistical Science (Randles, Hettmansperger, and Casella, 2004):</p>
 
-<ul class = 'build'>
+<ul>
 <li>Robust analysis of linear models (McKean, 2004)</li>
 <li>Density estimation (Sheather, 2004)</li>
 <li>Data modeling via quantile methods (Parzen, 2004)</li>
@@ -225,7 +225,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Bayesian History</h2></hgroup><article  id="bayesian-history" class="smaller ">
 
-<ul class = 'build'>
+<ul>
 <li>Ferguson (1973) introduced nonparametric Bayesian methods</li>
 <li>Susarla and van Ryzin (1976) derived nonparametric Bayesian estimators of survival curves</li>
 <li>Dykstra and Laud (1981) developed a Bayesian nonparametric approach to reliability</li>
@@ -242,7 +242,7 @@
 
 <p>What is R:</p>
 
-<ul class = 'build'>
+<ul>
 <li>R is an interpreted programming language, which means you will not have to compile your code.</li>
 <li>R is very interactive, which means that you can play around with vectors and matrices, plot results.</li>
 <li>To keep track of your progress and to be able to construction your analysis steps, we will use R markdown.</li>

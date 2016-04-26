@@ -94,17 +94,17 @@
 
 <slide class=''><hgroup><h2>Previous Lectures</h2></hgroup><article  id="previous-lectures">
 
-<ul class = 'build'>
+<ul>
 <li>One-sample tests:
 
-<ul class = 'build'>
+<ul>
 <li>Sign test</li>
 <li>Signed-Rank Wilcoxon</li>
 </ul></li>
 <li>Estimators, confidence intervals, and robustness to outliers</li>
 <li>Bootstrap
 
-<ul class = 'build'>
+<ul>
 <li>Error of estimators and significance for hypothesis testing</li>
 <li>Complete enumerations</li>
 <li>Tail probability</li>
@@ -114,7 +114,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Today</h2></hgroup><article  id="today">
 
-<ul class = 'build'>
+<ul>
 <li>Observations from discrete distributions</li>
 <li>Proportion problems</li>
 <li>\(\chi^2\) Tests</li>
@@ -122,13 +122,13 @@
 
 </article></slide><slide class=''><hgroup><h2>Proportion Problems</h2></hgroup><article  id="proportion-problems">
 
-<ul class = 'build'>
+<ul>
 <li>Discrete variables</li>
 <li>The random variable \(X\) consists of categories</li>
 <li>For now, we focus on binary categories failure (0) and success (1)</li>
 <li>\(X\) is a random variable distributed according to the Bernoulli distribution
 
-<ul class = 'build'>
+<ul>
 <li>with success probabiliy \(p\) and</li>
 <li>failure probabililty \(1-p\)</li>
 </ul></li>
@@ -137,10 +137,10 @@
 
 </article></slide><slide class=''><hgroup><h2>Proportion Problems</h2></hgroup><article  id="proportion-problems-1">
 
-<ul class = 'build'>
+<ul>
 <li>Statistical problems can be
 
-<ul class = 'build'>
+<ul>
 <li>estimating \(p\)</li>
 <li>forming confidence intervals around estimate \(\widehat{p}\)</li>
 <li>and testing hypothesis \[H_0: p = p_0 \text{ versus } H_A: p \ne p_0\]</li>
@@ -172,10 +172,10 @@
 
 </article></slide><slide class=''><hgroup><h2>Proportion Problems</h2></hgroup><article  id="proportion-problems-6">
 
-<ul class = 'build'>
+<ul>
 <li>As \(n \to \infty\) while \(p\) is fixed:
 
-<ul class = 'build'>
+<ul>
 <li>The de Moivre–Laplace theorem (a special case of the central limit theorem) says \(S\) approach a normal distribution</li>
 <li>Easy confidence interval (just evaluate cdf of the normal)</li>
 <li>Approximation of binomial distribution with \(n\) trials and \(p\) success by \(N(np,np(1-p))\)</li>
@@ -202,7 +202,7 @@ phat+c(-1,1)*zcv*sqrt(phat*(1-phat)/143)</pre>
 
 </article></slide><slide class=''><hgroup><h2>Hypothesis Testing</h2></hgroup><article  id="hypothesis-testing">
 
-<ul class = 'build'>
+<ul>
 <li>Reject null hypotheis if \(|z|\) is large \[z = \frac{\widehat{p}-p_0}{\sqrt{p_0(1-p_0)/n}} \sim N(0,1)\]</li>
 <li>\(z\) is asymptotically standard normal</li>
 <li>An equivalent test statistic of \(|z|\) is \(z^2\)</li>
@@ -211,16 +211,16 @@ phat+c(-1,1)*zcv*sqrt(phat*(1-phat)/143)</pre>
 
 </article></slide><slide class=''><hgroup><h2>Example: Left-Handed Professional Ball Players</h2></hgroup><article  id="example-left-handed-professional-ball-players">
 
-<ul class = 'build'>
+<ul>
 <li>Theory:
 
-<ul class = 'build'>
+<ul>
 <li>Professional baseball players have different proportion of left handed player than left-handed people in genral population</li>
 <li>From previous study, we know that general public is has a proportion of \(p_0 = 0.15\)</li>
 </ul></li>
 <li>Hypothesis testing:
 
-<ul class = 'build'>
+<ul>
 <li>\(H_0: p = 0.15 \text{ versus } H_A: p \ne 0.15\)</li>
 </ul></li>
 </ul>
@@ -262,7 +262,7 @@ pvalue</pre>
 * Tests for discrete observations: No parameter estimation neither in finite sample or asymptotic case
 -->
 
-<ul class = 'build'>
+<ul>
 <li>In all three nonparametric test (sign, signed-rank, \(\chi^2\)) no assumption on variances of observations</li>
 <li>In contrast, in the \(t\)-test variances are estimated</li>
 </ul>
@@ -283,7 +283,7 @@ pvalue</pre>
 ## probability of success 
 ##              0.2542373</pre>
 
-<ul class = 'build'>
+<ul>
 <li>Finite sample \(p\)-values have upper bounded significance level \(\alpha\)</li>
 <li>Asymptotic \(p\)-values may be above above \(\alpha\)</li>
 </ul>
@@ -310,7 +310,7 @@ pvalue = 2*p^S; pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Discrete Random Variable (RV)</h2></hgroup><article  id="discrete-random-variable-rv">
 
-<ul class = 'build'>
+<ul>
 <li>Extension from two categories to multiple caterogries</li>
 <li>Consider discrete RV \(X\) with \(1,2,\dots,c\) categories</li>
 <li>Let \(p(j) = P(X = j)\) define the probabiliy mass function</li>
@@ -319,7 +319,7 @@ pvalue = 2*p^S; pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Discrete RV</h2></hgroup><article  id="discrete-rv">
 
-<ul class = 'build'>
+<ul>
 <li>\(X_1,\dots,X_n\) is a random sample on \(X\)</li>
 <li>Let \(O_j = \#\{ X_i = j \}\)</li>
 <li>Observed frequencies are constrained \(\sum_{j=1}^c O_j = n\)</li>
@@ -329,10 +329,10 @@ pvalue = 2*p^S; pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Discrete RV</h2></hgroup><article  id="discrete-rv-1">
 
-<ul class = 'build'>
+<ul>
 <li>Case 1:
 
-<ul class = 'build'>
+<ul>
 <li>All \(p_0(j)\) are specified</li>
 <li>So we get \(E_j = np_0(j)\)</li>
 <li>Test stastitics is \[\chi^2 = \sum_{j=1}^c \frac{(O_j-E_j)^2}{E_j}\]</li>
@@ -374,10 +374,10 @@ Chi2_0 = sum((O-E)^2/E); Chi2_0</pre>
 
 </article></slide><slide class=''><hgroup><h2>Discrete RV</h2></hgroup><article  id="discrete-rv-2">
 
-<ul class = 'build'>
+<ul>
 <li>Case 2:
 
-<ul class = 'build'>
+<ul>
 <li>Only form of pmf is known</li>
 <li>Have to estimate \(p\)</li>
 <li>Same test stastitics but now with estimate \(\widehat{p}\) \[\chi^2 = \sum_{j=1}^c \frac{(O_j-E_j)^2}{E_j}\]</li>
@@ -432,7 +432,7 @@ pvalue = 1-pchisq(Chi2_0,df=8-1-1); pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Discrete RV</h2></hgroup><article  id="discrete-rv-3">
 
-<ul class = 'build'>
+<ul>
 <li>Alternatively to testing for deviation from a model</li>
 <li>We can get a confidence interval on pairwise difference in proportions \(\widehat{p}_j - \widehat{p}_k\)</li>
 <li>The confidence intervals are easy again because, we assume asymptotic normallity</li>
@@ -459,11 +459,11 @@ lb = p0-p7 - zcv*se; ub = p0-p7 + zcv*se; res = c(p0-p7,lb,ub); res</pre>
 
 </article></slide><slide class=''><hgroup><h2>Several Discrete RVs</h2></hgroup><article  id="several-discrete-rvs">
 
-<ul class = 'build'>
+<ul>
 <li>Goal is to compare several discrete RV, which have same range \(\{ 1,2,\dots,c \}\)</li>
 <li>Consider hypothesis test:
 
-<ul class = 'build'>
+<ul>
 <li>\(H_0:\) \(X_1,\dots,X_r\) have the same distribution</li>
 <li>\(H_A:\) Distributions of \(X_i\) and \(X_j\) differ for some \(i \ne j\)</li>
 </ul></li>
@@ -476,7 +476,7 @@ lb = p0-p7 - zcv*se; ub = p0-p7 + zcv*se; res = c(p0-p7,lb,ub); res</pre>
 
 </article></slide><slide class=''><hgroup><h2>Several Discrete RVs</h2></hgroup><article  id="several-discrete-rvs-1">
 
-<ul class = 'build'>
+<ul>
 <li>Compare observed frequencies to the expected frequencies under \(H_0\)</li>
 <li>Estimate the common distribution \((p_1,\dots,p_c)^T\), where \(p_j\) is the probability that category \(j\) occurs</li>
 <li>Estimate probability of category \(j\) overall \[ \widehat{p}_j = \frac{\sum_{i=1}^r O_{ij}}{n}, j = 1,\dots,c\]</li>
@@ -486,7 +486,7 @@ lb = p0-p7 - zcv*se; ub = p0-p7 + zcv*se; res = c(p0-p7,lb,ub); res</pre>
 
 </article></slide><slide class=''><hgroup><h2>Several Discrete RVs</h2></hgroup><article  id="several-discrete-rvs-2">
 
-<ul class = 'build'>
+<ul>
 <li>Test statistics \[\chi^2 = \sum_{i=1}^r \sum_{j=1}^c \frac{(O_{ij}-\widehat{E}_{ij})^2}{\widehat{E}_{ij}}\]</li>
 <li>Asymptotically \(\chi^2\) with \((r−1)(c−1)\) degrees of freedom</li>
 <li>This is called <em>test for homogeneity</em></li>

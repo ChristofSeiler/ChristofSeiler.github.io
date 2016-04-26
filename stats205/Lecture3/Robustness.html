@@ -94,11 +94,11 @@
 
 <slide class=''><hgroup><h2>Robustness of Estimators</h2></hgroup><article  id="robustness-of-estimators">
 
-<ul class = 'build'>
+<ul>
 <li>Robustness properties of the three estimators the mean, the median, and the Hodges–Lehmann estimate.</li>
 <li>Main measures of robustness:
 
-<ul class = 'build'>
+<ul>
 <li>efficiency,</li>
 <li>influence,</li>
 <li>and breakdown</li>
@@ -108,7 +108,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Sensitivity Curve</h2></hgroup><article  id="sensitivity-curve">
 
-<ul class = 'build'>
+<ul>
 <li>Function of the observations</li>
 <li>The parameter \(\theta\) is a function of the cdf \(F\)</li>
 <li>The observations \(x_1,x_2,\dots,x_n\) are drawn from \(F\)</li>
@@ -134,7 +134,7 @@ mean(x_n)</pre>
 
 </article></slide><slide class=''><hgroup><h2>Sensitivity Curve Example</h2></hgroup><article  id="sensitivity-curve-example-1">
 
-<ul class = 'build'>
+<ul>
 <li>Mean is unbounded</li>
 <li>Median and Hodges–Lehmann is bounded (estimators change slightly and changes soon become constant)</li>
 </ul>
@@ -143,7 +143,7 @@ mean(x_n)</pre>
 
 </article></slide><slide class=''><hgroup><h2>Influence Function</h2></hgroup><article  id="influence-function">
 
-<ul class = 'build'>
+<ul>
 <li>Sensitivity curve depends on sample \(x_1,x_2,\dots,x_n\)</li>
 <li>Influence function depends on the population distribution \(F\)</li>
 <li>It&#39;s a <em>functional</em>: a function that takes another function as its argument</li>
@@ -153,11 +153,11 @@ mean(x_n)</pre>
 
 </article></slide><slide class=''><hgroup><h2>Influence Function</h2></hgroup><article  id="influence-function-1">
 
-<ul class = 'build'>
+<ul>
 <li>An estimator is <em>robust</em> if its influence function is bounded</li>
 <li>The influence function for our estimators are (up to constant of proportionality and center)
 
-<ul class = 'build'>
+<ul>
 <li>Mean: \(x\),</li>
 <li>Median: \(\operatorname{sign}(x)\), and</li>
 <li>HL: \(F(x) − 0.5\)</li>
@@ -171,7 +171,7 @@ mean(x_n)</pre>
 
 </article></slide><slide class=''><hgroup><h2>Breakdown Point of an Estimator</h2></hgroup><article  id="breakdown-point-of-an-estimator">
 
-<ul class = 'build'>
+<ul>
 <li>Suppose we contaminate \(n-m\) points in our sample \[ \boldsymbol{x}_n^* = (x_1,\dots,x_m,x_{m+1}^*,\dots,x_n^*) \]</li>
 <li>Consider the contamination to be as very large (close to \(\infty\))</li>
 <li><em>Breaking point:</em> the smallest value \(n-m\) so that \(\widehat{\theta}(\boldsymbol{x}_n^*)\) is meaningless</li>
@@ -181,22 +181,22 @@ mean(x_n)</pre>
 
 </article></slide><slide class=''><hgroup><h2>Breakdown Point of an Estimator</h2></hgroup><article  id="breakdown-point-of-an-estimator-1">
 
-<ul class = 'build'>
+<ul>
 <li>Sample mean:
 
-<ul class = 'build'>
+<ul>
 <li>Finite sample BP: \(\frac{1}{n}\)</li>
 <li>Asymptotic BP: \(0\)</li>
 </ul></li>
 <li>Sample median:
 
-<ul class = 'build'>
+<ul>
 <li>Finite sample BP: \(\operatorname{floor}\left( \frac{n − 1}{2} \right)\)</li>
 <li>Asymptotic BP: \(0.5\)</li>
 </ul></li>
 <li>Hodges–Lehmann estimator:
 
-<ul class = 'build'>
+<ul>
 <li>Asymptotic BP: \(0.29\)</li>
 </ul></li>
 </ul>
@@ -215,7 +215,7 @@ m(m+1) &amp; &gt; \frac{n(n+1)}{2}
 
 </article></slide><slide class=''><hgroup><h2>Breakdown Point of an Estimator</h2></hgroup><article  id="breakdown-point-of-an-estimator-3">
 
-<ul class = 'build'>
+<ul>
 <li>Obtaining finite sample BP is messy, asymptotic is easier: \[m(m+1) &gt; \frac{n(n+1)}{2} \Leftrightarrow \frac{m(m+1)}{n(n+1)} &gt; \frac{1}{2}\]</li>
 <li>let \(x = m/n\) and \(x \approx (m+1)/(n+1)\)</li>
 <li>then \(x^2 &gt; \frac{1}{2} \Leftrightarrow x &gt; \frac{1}{\sqrt{2}}\)</li>
@@ -225,14 +225,14 @@ m(m+1) &amp; &gt; \frac{n(n+1)}{2}
 
 </article></slide><slide class=''><hgroup><h2>Breakdown Point of an Estimator</h2></hgroup><article  id="breakdown-point-of-an-estimator-4">
 
-<ul class = 'build'>
+<ul>
 <li>Instead of testing for normality to decide whether to use a \(t\)-test or the Wilcoxon test</li>
 <li>It is easier to use the notion of robustness of an estimator and their associated procedures</li>
 <li>There are too many ways that a distribution can deviate from normality</li>
 <li>How much robustness do we need? Is \(0.29\) enough or \(0.5\) really necessary?</li>
 <li>Sample median preferred over Hodges–Lehmann estimator?
 
-<ul class = 'build'>
+<ul>
 <li>Based on breakdown point: yes</li>
 <li>This however ignores estimator efficiency (we talk about this later)</li>
 </ul></li>

@@ -94,7 +94,7 @@
 
 <slide class=''><hgroup><h2>Test of Independence</h2></hgroup><article  id="test-of-independence">
 
-<ul class = 'build'>
+<ul>
 <li>Observations are two measurements on the same subject (e.g. eye color and hair color)</li>
 <li>Random samples \((X_1,Y_1),\dots,(X_n,Y_n)\)</li>
 <li>\(X\) and \(Y\) with different ranges \(\{1,2,\dots,I\}\) and \(\{1,2,\dots,J\}\)</li>
@@ -138,7 +138,7 @@ H_A: P(X=i,Y=j) &amp; \ne P(X=i)P(Y=j) \text{ for some } i \text{ and } j
 
 </article></slide><slide class=''><hgroup><h2>Test of Independence</h2></hgroup><article  id="test-of-independence-3">
 
-<ul class = 'build'>
+<ul>
 <li>This is a goodness-of-fit test</li>
 <li>Quantifies how well the independence model fits observations</li>
 <li>Measures discrepancy between observed values and expected values under the model</li>
@@ -146,7 +146,7 @@ H_A: P(X=i,Y=j) &amp; \ne P(X=i)P(Y=j) \text{ for some } i \text{ and } j
 <li>Can we visualize this?</li>
 <li>Two ways:
 
-<ul class = 'build'>
+<ul>
 <li>Visualization of contingency table with association and mosaic plots</li>
 <li>Visualization of deviation from model with correspondence analysis</li>
 </ul></li>
@@ -179,7 +179,7 @@ H_A: P(X=i,Y=j) &amp; \ne P(X=i)P(Y=j) \text{ for some } i \text{ and } j
 
 </article></slide><slide class=''><hgroup><h2>Association Plots</h2></hgroup><article  id="association-plots">
 
-<ul class = 'build'>
+<ul>
 <li>This is a followup on \(\chi^2\) tests when they are rejected</li>
 <li>Pearson residuals \[r_{ij} = \frac{O_{ij}-E_{ij}}{\sqrt{E_{ij}}}\]</li>
 <li>\(\chi^2\) statistics is squaring and summing over all cells \[\chi^2 = \sum_j \sum_i r_{ij}^2\]</li>
@@ -187,14 +187,14 @@ H_A: P(X=i,Y=j) &amp; \ne P(X=i)P(Y=j) \text{ for some } i \text{ and } j
 
 </article></slide><slide class=''><hgroup><h2>Association Plots</h2></hgroup><article  id="association-plots-1">
 
-<ul class = 'build'>
+<ul>
 <li>Each cell of contingency table is represented by a rectangle encoding information in width, height, location, and color of the rectangle</li>
 <li><em>Height:</em> Proportional to Pearson residual \(\frac{O_{ij}-E_{ij}}{\sqrt{E_{ij}}}\)</li>
 <li><em>Width:</em> Proportional to \(\sqrt{E_{ij}}\)</li>
 <li><em>Area:</em> Proportional to \(O_{ij}-E_{ij}\)</li>
 <li><em>Baseline:</em>
 
-<ul class = 'build'>
+<ul>
 <li>If \(O_{ij} &gt; E_{ij}\), then rectanble above</li>
 <li>otherwise rectangle below</li>
 </ul></li>
@@ -207,18 +207,18 @@ H_A: P(X=i,Y=j) &amp; \ne P(X=i)P(Y=j) \text{ for some } i \text{ and } j
 
 </article></slide><slide class=''><hgroup><h2>Mosaic Plots</h2></hgroup><article  id="mosaic-plots">
 
-<ul class = 'build'>
+<ul>
 <li>Cell frequency \(O_{ij}\), cell probability \(p_{ij} = O_{ij} / O_{++}\)</li>
 <li>Take unit square</li>
 <li>Divide unit square vertically into rectangles
 
-<ul class = 'build'>
+<ul>
 <li><em>Height</em> proportional to observed marginal frequencies \(O_{i+}\)</li>
 <li>which is proportional to marginal probabilities \(p_i = O_{i+} / O_{++}\)</li>
 </ul></li>
 <li>Subdivide resulting rectangles horizontally
 
-<ul class = 'build'>
+<ul>
 <li><em>Width</em> proportional to \(p_{j|i} = O_{ij}/O_{i+}\)</li>
 <li>which is the conditional probabilities of the second variable given the first</li>
 </ul></li>
@@ -227,7 +227,7 @@ H_A: P(X=i,Y=j) &amp; \ne P(X=i)P(Y=j) \text{ for some } i \text{ and } j
 
 </article></slide><slide class=''><hgroup><h2>Mosaic Plots</h2></hgroup><article  id="mosaic-plots-1">
 
-<ul class = 'build'>
+<ul>
 <li>The order of conditioning matters</li>
 <li><em>Color:</em> Standardized Pearson residuals that are asymptotically standard normal</li>
 </ul>
@@ -278,7 +278,7 @@ data.frame(frequency=round(frequency,0),proportions=round(proportions,2))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Correspondence Analysis</h2></hgroup><article  id="correspondence-analysis">
 
-<ul class = 'build'>
+<ul>
 <li>Exploratory data analysis for non-negative data matrices</li>
 <li>Converts matrix into a plot where rows and columns are depicted as points</li>
 <li>Its algebraic form first appeared in 1935</li>
@@ -289,7 +289,7 @@ data.frame(frequency=round(frequency,0),proportions=round(proportions,2))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Correspondence Analysis</h2></hgroup><article  id="correspondence-analysis-1">
 
-<ul class = 'build'>
+<ul>
 <li>Define a distance between rows</li>
 <li>Use the distance \(d_{\chi^2}(\boldsymbol{x},\boldsymbol{y})\) between two vector \(\boldsymbol{x}\) and \(\boldsymbol{y}\) as \[d_{\chi^2}(\boldsymbol{x},\boldsymbol{y}) = (\boldsymbol{x}-\boldsymbol{y})^T D_c^{-1} (\boldsymbol{x}-\boldsymbol{y})\]</li>
 <li>where \(D_c\) is a diagonal matrix with \[\operatorname{diag}(D_c) = \boldsymbol{c} = \sum_i p_i \boldsymbol{a_i}\]</li>
@@ -303,7 +303,7 @@ data.frame(frequency=round(frequency,0),proportions=round(proportions,2))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Correspondence Analysis</h2></hgroup><article  id="correspondence-analysis-2">
 
-<ul class = 'build'>
+<ul>
 <li>Compare \(d_{\chi^2}(\boldsymbol{x},\boldsymbol{y})\) metric \[d_{\chi^2}(\boldsymbol{x},\boldsymbol{y}) = (\boldsymbol{x}-\boldsymbol{y})^T D_c^{-1} (\boldsymbol{x}-\boldsymbol{y})\]</li>
 <li>to \(\chi^2\) statistic \[\chi^2 = O_{++} \sum_i p_i (\boldsymbol{a_i}-\boldsymbol{c})^T D_c^{-1} (\boldsymbol{a_i}-\boldsymbol{c})\]</li>
 <li>\(\chi^2/O_{++}\) is weighted average of \(d_{\chi^2}(\boldsymbol{a_i},\boldsymbol{c})\) distances of conditional row probabilities \(\boldsymbol{a_i}\) to their row centroid \(\boldsymbol{c}\)</li>
@@ -315,7 +315,7 @@ data.frame(frequency=round(frequency,0),proportions=round(proportions,2))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Correspondence Analysis</h2></hgroup><article  id="correspondence-analysis-3">
 
-<ul class = 'build'>
+<ul>
 <li>First &quot;principle component&quot; is best line fit trough cloud of conditional row probabilities</li>
 <li>Modify standard Principal Component Analysis (PCA) to incorporate point weights and weighted metric</li>
 <li>Use \(p_i\) as weights, which provides decomposition of \(\chi^2\) statistics into components</li>
@@ -329,7 +329,7 @@ data.frame(frequency=round(frequency,0),proportions=round(proportions,2))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Correspondence Analysis</h2></hgroup><article  id="correspondence-analysis-4">
 
-<ul class = 'build'>
+<ul>
 <li>Repeat same for column marginal proportions</li>
 <li>Can be done in one step by Generalized Singular Value Decomposition (GSVD) \[D_r^{-1/2} \left( \left( p_{ij} \right) - \boldsymbol{r}\boldsymbol{c}^T \right) D_c^{-1/2} = X D_{\alpha} Y^T\] with constrains \(X^TX = Y^TY = \operatorname{Id}\)</li>
 <li>Singular values are the square roots of the principal inertias \(D_{\alpha} = D_{\lambda}^{1/2}\)</li>
@@ -339,7 +339,7 @@ data.frame(frequency=round(frequency,0),proportions=round(proportions,2))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Correspondence Analysis</h2></hgroup><article  id="correspondence-analysis-5">
 
-<ul class = 'build'>
+<ul>
 <li>Row and column projection are usually displayed in same plot</li>
 <li>Row-to-column distances are meaningless</li>
 <li>In standard PCA, principle components explain variance</li>
@@ -399,7 +399,7 @@ Columns: Eye</span></p>
 
 </article></slide><slide class=''><hgroup><h2>Test of Independence and Test of Homogeneity</h2></hgroup><article  id="test-of-independence-and-test-of-homogeneity">
 
-<ul class = 'build'>
+<ul>
 <li>The null hypothesis of row-column independence: \(p_{ij} = p_i \times p_j\)</li>
 <li>is equivalent to the hypothesis of homogeneity of the rows: \[p_{j|i=1} = p_{j|i=2} = \dots = p_{j|i=I}\]</li>
 <li>Each row of \(O\) follows a multinomial distribution</li>
@@ -410,10 +410,10 @@ Columns: Eye</span></p>
 
 </article></slide><slide class=''><hgroup><h2>Test of Independence and Test of Homogeneity</h2></hgroup><article  id="test-of-independence-and-test-of-homogeneity-1">
 
-<ul class = 'build'>
+<ul>
 <li>Several discrete random variables with same categories \(1,\dots,I\)
 
-<ul class = 'build'>
+<ul>
 <li>Test of homogeneity</li>
 <li>Are the observations generated from one multinomial distribution with common probability vector?</li>
 <li>Possibly different sample size among random variables</li>
@@ -421,7 +421,7 @@ Columns: Eye</span></p>
 </ul></li>
 <li>Two discrete random variables with different categories \(1,\dots,I\) and \(1,\dots,J\)
 
-<ul class = 'build'>
+<ul>
 <li>Test of independence</li>
 <li>Are the pairwise observations independent?</li>
 <li>Paired random variables, so same sample size</li>

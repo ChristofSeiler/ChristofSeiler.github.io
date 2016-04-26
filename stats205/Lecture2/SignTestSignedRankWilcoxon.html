@@ -94,7 +94,7 @@
 
 <slide class=''><hgroup><h2>Location Model</h2></hgroup><article  id="location-model">
 
-<ul class = 'build'>
+<ul>
 <li><p>\(X_1,X_2,\dots,X_n\) denotes random sample following the model \[ X_i = \theta + e_i, \] random errors \(e_i\) are independently and identically distributed with a continuous probability density function \(f(t)\) symmetric around \(0\).</p></li>
 <li><p>Hypothesis testing: \[ H_0: \theta = 0 \text{ versus } H_A: \theta &gt; 0 \]</p></li>
 <li>A <em>null hypothesis</em> is associated with a <strong>contradiction</strong> to a theory one would like to prove</li>
@@ -103,7 +103,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Sign Test</h2></hgroup><article  id="sign-test">
 
-<ul class = 'build'>
+<ul>
 <li>To every statistical test such as the sign test, we associate a <em>test statistic</em></li>
 <li><p>A test <em>statistic</em> is a function of the data</p></li>
 <li><p>The sign test has test statistic: \[ S = \sum_{i=1}^n \operatorname{sign}(X_i) \] with \(\operatorname{sign}(t) = \begin{cases} -1 &amp; \text{if } t &lt; 0 \\ 0 &amp; \text{if } t = 0 \\ 1 &amp; \text{if } t &gt; 0 \end{cases}\)</p></li>
@@ -111,7 +111,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Sign Test</h2></hgroup><article  id="sign-test-1">
 
-<ul class = 'build'>
+<ul>
 <li>Looking just at the positive observations: \[ S^+ = \#_i \{ X_i &gt; 0 \} \]</li>
 <li>\(0\) observations are ignored and sample size is reduced</li>
 <li>If observing a \(-1\) or \(1\) for each \(X_i\) is a coin flip then</li>
@@ -124,7 +124,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Sign Test Example</h2></hgroup><article  id="sign-test-example">
 
-<ul class = 'build'>
+<ul>
 <li>Comparison of ice cream brands A and B</li>
 <li>Theory: Brand A is preferred over B</li>
 <li>Null hypothsis: No difference between A and B</li>
@@ -132,7 +132,7 @@
 <li>Blindfolded taster gives preference of one ice cream over the other</li>
 <li>Experiment with 12 taster
 
-<ul class = 'build'>
+<ul>
 <li>10 tasters prefer brand A over brand B</li>
 <li>1 taster prefers brand B over A</li>
 <li>1 no preference</li>
@@ -143,7 +143,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Sign Test Example</h2></hgroup><article  id="sign-test-example-1">
 
-<ul class = 'build'>
+<ul>
 <li>For our sign test, the test statistic \(S^+\) is the number positive signs</li>
 <li>Evaluated on our data the observed test statistic is \(s^+ = 10\)</li>
 <li>We compare the observed test statistic with the binomial distribution with \(n = 11\) trials and success probabilty \(1/2\)</li>
@@ -165,7 +165,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Traditional \(t\)-Test</h2></hgroup><article  id="traditional-t-test">
 
-<ul class = 'build'>
+<ul>
 <li>The \(t\)-test depends on the population pdf of \(f(t)\)</li>
 <li>Thus it is not distribution free</li>
 <li>The usual test statistic is \[ t = \frac{\bar{X}}{s/\sqrt{n}} \] here \(\bar{X}\) is the mean and \(s\) is the standard deviation of the sample</li>
@@ -175,7 +175,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Signed-Rank Wilcoxon Test</h2></hgroup><article  id="signed-rank-wilcoxon-test">
 
-<ul class = 'build'>
+<ul>
 <li>In contrast to the \(t\)-test, the sign-rank Wilcoxon test uses only the ranks of the distance from \(0\) \[ W = \sum_{i&gt;0}^n \operatorname{sign}(X_i) \operatorname{R} |X_i| \]</li>
 <li>No closed-form, iterative algorithms, e.g. <code>psignrank</code> in R</li>
 <li>Our test statistics considers positive items only \[ W^+ = \sum_{X_i &gt; 0} \operatorname{R} |X_i| = \frac{1}{2} W + \frac{n(n+1)}{4} \]</li>
@@ -265,7 +265,7 @@ table(WplusSim)/nsim</pre>
 
 <pre >## WplusSim
 ##      0      1      2      3      4      5      6 
-## 0.1289 0.1252 0.1238 0.2480 0.1216 0.1238 0.1287</pre>
+## 0.1231 0.1235 0.1223 0.2535 0.1225 0.1270 0.1281</pre>
 
 <p>and compare with theoretical result:</p>
 
@@ -274,7 +274,7 @@ table(WplusSim)/nsim</pre>
 
 </article></slide><slide class=''><hgroup><h2>Signed-Rank Wilcoxon Test Example</h2></hgroup><article  id="signed-rank-wilcoxon-test-example">
 
-<ul class = 'build'>
+<ul>
 <li>Comparison of social awareness in kids going to school versus home schooling</li>
 <li>Theory: Sending kids to school improves social awareness</li>
 <li>Null hypothsis: No difference between kids going to school and staying at home</li>
@@ -341,7 +341,7 @@ pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Estimation and Confidence Intervals</h2></hgroup><article  id="estimation-and-confidence-intervals">
 
-<ul class = 'build'>
+<ul>
 <li>All three tests (sign test, signed-rank Wilcoxon, and \(t\)-test) have an associated estimate and confidence interval for the location parameter \(\theta\)</li>
 <li><p>Recall the model for our sample \(X_1,X_2,\dots,X_n\) \[ X_i = \theta_i + e_i \]</p></li>
 <li>Some definitions:</li>
@@ -366,22 +366,22 @@ pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>How Are Walsh Averages and Wilcoxon Related?</h2></hgroup><article  id="how-are-walsh-averages-and-wilcoxon-related">
 
-<ul class = 'build'>
+<ul>
 <li>Wilcoxon test statistic: \(W^+ = \sum_{i&gt;0} \operatorname{R} |X_i|\)</li>
 <li>Number of Walsh averages greater than \(\theta\): \(A^+ = \#\{ A_{ij} &gt; \theta \}\)</li>
 <li><p>Sketch of proof of equality \(W^+ = A^+\) by induction</p></li>
 <li><em>Base of the Induction:</em>
 
-<ul class = 'build'>
+<ul>
 <li><strong>(A)</strong> Assume \(\theta\) is greater than all \(X_1,X_2,\dots,X_n\)
 
-<ul class = 'build'>
+<ul>
 <li>hence greater than all Walsh averages<br/></li>
 <li>hence \(X_i - \theta\) are all negative</li>
 </ul></li>
 </ul>
 
-<ol class = 'build'>
+<ol>
 <li>Under <strong>(A)</strong> all ranks are negative, hence \(W^+ = 0\)</li>
 <li>Under <strong>(A)</strong> all of Walsh average are less than \(\theta\), hence \(A^+ = 0\)</li>
 </ol></li>
@@ -389,15 +389,15 @@ pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>How Are Walsh Averages and Wilcoxon Related?</h2></hgroup><article  id="how-are-walsh-averages-and-wilcoxon-related-1">
 
-<ul class = 'build'>
+<ul>
 <li><em>Induction Steps:</em>
 
-<ul class = 'build'>
+<ul>
 <li>Move \(\theta\) to the left passing through \(X_1,X_2,\dots,X_n\) one and two at the time and show that</li>
 <li>\(A^+\) changes value when moving past an Walsh average by the same amount</li>
 <li>\(W^+\) changes value when
 
-<ul class = 'build'>
+<ul>
 <li>ranks of some \(|X_i - \theta|\) change or</li>
 <li>sign of some rank change by the same amount</li>
 </ul></li>
@@ -407,7 +407,7 @@ pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>Some Comparisons</h2></hgroup><article  id="some-comparisons">
 
-<ul class = 'build'>
+<ul>
 <li><em>Power</em> of a statistical test:<br/>the probability of rejection the null hypothesis when it is <strong>false</strong></li>
 <li>The power of the sign test can be low relative to \(t\)-test</li>
 <li>The power of signed-rank Wilcoxon test is nearly that of the \(t\)-test for normal distributions and generally greater than that of the \(t\)-test for distributions with heavier tails than the normal distribution</li>
@@ -427,11 +427,11 @@ powwil = rep(0,nsims); powwil[collwil &lt;= .05] = 1; powerwil = sum(powwil)/nsi
 powt = rep(0,nsims); powt[collt &lt;= .05] = 1; powert = sum(powt)/nsims
 powerwil</pre>
 
-<pre >## [1] 0.051</pre>
+<pre >## [1] 0.0477</pre>
 
 <pre class = 'prettyprint lang-r'>powert</pre>
 
-<pre >## [1] 0.0398</pre>
+<pre >## [1] 0.0365</pre>
 
 </article></slide><slide class=''><hgroup><h2>Power Simulation \(\theta = 0.5\)</h2></hgroup><article  id="power-simulation-theta-0.5">
 
@@ -447,11 +447,11 @@ powwil = rep(0,nsims); powwil[collwil &lt;= .05] = 1; powerwil = sum(powwil)/nsi
 powt = rep(0,nsims); powt[collt &lt;= .05] = 1; powert = sum(powt)/nsims
 powerwil</pre>
 
-<pre >## [1] 0.465</pre>
+<pre >## [1] 0.4655</pre>
 
 <pre class = 'prettyprint lang-r'>powert</pre>
 
-<pre >## [1] 0.2931</pre>
+<pre >## [1] 0.2914</pre>
 
 </article></slide><slide class=''><hgroup><h2>Power Simulation \(\theta = 1\)</h2></hgroup><article  id="power-simulation-theta-1">
 
@@ -467,17 +467,17 @@ powwil = rep(0,nsims); powwil[collwil &lt;= .05] = 1; powerwil = sum(powwil)/nsi
 powt = rep(0,nsims); powt[collt &lt;= .05] = 1; powert = sum(powt)/nsims
 powerwil</pre>
 
-<pre >## [1] 0.9214</pre>
+<pre >## [1] 0.9245</pre>
 
 <pre class = 'prettyprint lang-r'>powert</pre>
 
-<pre >## [1] 0.7037</pre>
+<pre >## [1] 0.698</pre>
 
 </article></slide><slide class=''><hgroup><h2>Summary</h2></hgroup><article  id="summary">
 
 <p>Assumptions on \(f(t)\):</p>
 
-<ul class = 'build'>
+<ul>
 <li>Sign Test: any continuous distribution</li>
 <li>Signed-Rank Test: any symmetric continuous distribution</li>
 <li><p>\(t\)-test: any normal distribution</p></li>
@@ -487,7 +487,7 @@ powerwil</pre>
 
 <p>Assumptions on \(e_i,e_2,\dots,e_n\) and thus \(X_1,X_2,\dots,X_n\):</p>
 
-<ul class = 'build'>
+<ul>
 <li>independent and identically distributed</li>
 </ul></article></slide>
 

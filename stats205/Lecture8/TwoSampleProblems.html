@@ -94,7 +94,7 @@
 
 <slide class=''><hgroup><h2>Two-Sample Problems</h2></hgroup><article  id="two-sample-problems">
 
-<ul class = 'build'>
+<ul>
 <li>Two populations</li>
 <li>From each population, we have one sample</li>
 <li>Infer whether or not there is a difference in location between populations</li>
@@ -127,7 +127,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Wilcoxon for Stochastic Ordering of Alternatives</h2></hgroup><article  id="wilcoxon-for-stochastic-ordering-of-alternatives">
 
-<ul class = 'build'>
+<ul>
 <li>Random sample \(X_1,\dots,X_{n_1}\) with cdf \(F\)</li>
 <li>Random sample \(Y_1,\dots,Y_{n_2}\) with cdf \(G\)</li>
 <li>Hypothesis test: \[H_0: F(t) = G(t) \hspace{1cm} \text{versus} \hspace{1cm} H_A: F(t) \le G(t)\]</li>
@@ -152,7 +152,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Wilcoxon for Stochastic Ordering of Alternatives</h2></hgroup><article  id="wilcoxon-for-stochastic-ordering-of-alternatives-5">
 
-<ul class = 'build'>
+<ul>
 <li>Both samples are combined in one sample</li>
 <li>Combinded sample ranked from \(1\) to \(n = n_1+n_2\) (low to high)</li>
 <li>Denote \(\operatorname{R}(Y_j)\) rank of observation \(j\) in combined sample</li>
@@ -163,7 +163,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Wilcoxon for Stochastic Ordering of Alternatives</h2></hgroup><article  id="wilcoxon-for-stochastic-ordering-of-alternatives-6">
 
-<ul class = 'build'>
+<ul>
 <li>For example, the probability that a subset of \(n_2\) rankings is assigned to \(Y\)&#39;s is \[\frac{1}{n \choose n_2}\]</li>
 <li>There is no mention of the population distribution, so this test is <em>distriubiton free</em></li>
 <li>So \(p\)-value can be calculated exactly by looking at the distribution of \(T\) or aproximated asymptotically in case of large \(n_1+n_2\)</li>
@@ -204,7 +204,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Analyses for a Shift in Location</h2></hgroup><article  id="analyses-for-a-shift-in-location">
 
-<ul class = 'build'>
+<ul>
 <li>Now for two-sample location problem</li>
 <li>The parameter \(\Delta\), for \(-\infty &lt; \Delta &lt; \infty\) is shift in location \[ G(t) = F(t - \Delta) \hspace{1cm} \text{and} \hspace{1cm} g(t) = f(t - \Delta)\]</li>
 <li>For example, difference in means and medians</li>
@@ -217,7 +217,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Analyses for a Shift in Location</h2></hgroup><article  id="analyses-for-a-shift-in-location-2">
 
-<ul class = 'build'>
+<ul>
 <li>Random sample \(X_1,\dots,X_{n_1}\) with cdf \(F(t)\) and pdf \(f(t)\)</li>
 <li>Random sample \(Y_1,\dots,Y_{n_2}\) with cdf \(F(t-\Delta)\) and pdf \(f(t-\Delta)\)</li>
 <li>Hypothesis test: \[H_0: \Delta = 0 \hspace{1cm} \text{versus} \hspace{1cm} H_A: \Delta \ne 0\]</li>
@@ -226,7 +226,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Analyses for a Shift in Location</h2></hgroup><article  id="analyses-for-a-shift-in-location-3">
 
-<ul class = 'build'>
+<ul>
 <li>Wilcoxon test statistics (same as before): \[ T = \sum_{j=1}^{n_2} \operatorname{R}(Y_j)\] among the combined samples \(X_1,\dots,X_{n1},Y_1,\dots,Y_{n2}\)</li>
 <li>Mann–Whitney test statistic (equivalent): \[ T^+ = \#_{i,j}\{ X_i &lt; Y_j \} \] among \(n_1 n_2\) possible pairs</li>
 <li>Relating the two: \[ T^+ = T + \frac{n_2(n_2+1)}{2}\]</li>
@@ -238,7 +238,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Equivalence between \(T\) and \(T^+\)</h2></hgroup><article  id="equivalence-between-t-and-t">
 
-<ul class = 'build'>
+<ul>
 <li>Show that \(T^+ = T + \frac{n_2(n_2+1)}{2}\)</li>
 <li>Rank of \(Y_j\) is equal to the number of \(X\)&#39;s less than \(Y_j\)<br/>plus the number of \(Y\)&#39;s less than \(Y_j\) plus one \[ \operatorname{R}(Y_j) = \#_i\{ X_i &lt; Y_j \} + \#_{j&#39;}\{ Y_{j&#39;} &lt; Y_j \} + 1 \]</li>
 <li>Substituting in \(T = \sum_{j=1}^{n_2} \operatorname{R}(Y_j)\) gives \[ T^+ = \#_{j,i}\{ X_i &lt; Y_j \} + \#_{j,j&#39;}\{ Y_{j&#39;} &lt; Y_j \} + n_2 \]</li>
@@ -301,7 +301,7 @@ TODO: page 125, comment 6 in red book
 
 </article></slide><slide class=''><hgroup><h2>Permutations and Mann-Whitney</h2></hgroup><article  id="permutations-and-mann-whitney">
 
-<ul class = 'build'>
+<ul>
 <li>Rank all \(n_1+n_2\) observations</li>
 <li>Color the first sample red and the second sample blue</li>
 <li>Count how many moves it takes to unscramble the two populations</li>

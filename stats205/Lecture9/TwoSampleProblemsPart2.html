@@ -98,7 +98,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Analyses for a Shift in Location</h2></hgroup><article  id="analyses-for-a-shift-in-location-1">
 
-<ul class = 'build'>
+<ul>
 <li>Random sample \(X_1,\dots,X_{n_1}\) with cdf \(F(t)\) and pdf \(f(t)\)</li>
 <li>Random sample \(Y_1,\dots,Y_{n_2}\) with cdf \(F(t-\Delta)\) and pdf \(f(t-\Delta)\)</li>
 <li>Hypothesis test: \[H_0: \Delta = 0 \hspace{1cm} \text{versus} \hspace{1cm} H_A: \Delta \ne 0\]</li>
@@ -108,7 +108,7 @@
 
 </article></slide><slide class=''><hgroup><h2>Analyses for a Shift in Location</h2></hgroup><article  id="analyses-for-a-shift-in-location-2">
 
-<ul class = 'build'>
+<ul>
 <li>The estimate of \(\Delta\) is the Hodges–Lehmann estimator \[ \widehat{\Delta} = \operatorname{median}_{i,j} \{ Y_j - X_i \}\]</li>
 <li>There are \(n_1 n_2\) differences</li>
 <li>Order the differences \(D_{(1)} &lt; D_{(2)} &lt; \dots &lt; D_{(n_1 n_2)}\)</li>
@@ -158,12 +158,12 @@ sort(x)</pre>
 
 </article></slide><slide class=''><hgroup><h2>Linear Regression Model</h2></hgroup><article  id="linear-regression-model">
 
-<ul class = 'build'>
+<ul>
 <li>Frame the two-sample location problem as a regression problem</li>
 <li>Combine sample in one vector \(\boldsymbol{Z} = (X_1,\dots,X_{n_1},Y_1,\dots,Y_{n_2}^T)\)</li>
 <li>Let \(\boldsymbol{c}\) be a \(n \times 1\) vector with
 
-<ul class = 'build'>
+<ul>
 <li>zeros at position \(1\) to \(n_1\) and</li>
 <li>ones at positions \(n_1+1\) to \(n\)</li>
 </ul></li>
@@ -175,7 +175,7 @@ sort(x)</pre>
 
 </article></slide><slide class=''><hgroup><h2>Efficiency of Estimator</h2></hgroup><article  id="efficiency-of-estimator">
 
-<ul class = 'build'>
+<ul>
 <li>Suppose, two estimators \(\widehat{\Delta}_1,\widehat{\Delta}_2\) converge in distribution \[ \sqrt{n} \left( \widehat{\Delta}_i - \Delta \right) \overset{d}{\to} N(0,\sigma^2_i) \text{ for } i = 1,2\]</li>
 <li>Asymptotic Relative Efficiency (ARE) between two estimators \(\widehat{\Delta}_1\) and \(\widehat{\Delta}_2\) is defined as: \[ \operatorname{ARE}\left(\widehat{\Delta}_1,\widehat{\Delta}_2\right) = \frac{\sigma_2^2}{\sigma_1^2}\]</li>
 </ul>
@@ -203,7 +203,7 @@ sample = c(rnorm((1-epsilon)*n,0,1),rnorm(epsilon*n,0,sigmaC))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Test for Dispertion</h2></hgroup><article  id="test-for-dispertion-1">
 
-<ul class = 'build'>
+<ul>
 <li>Same as before, we assume that there are two populations with cdf \(F\) and \(G\)</li>
 <li>The null hypothesis is that \(X\) and \(Y\) have the same but unspecified distribution \[ H_0: F(t) = G(t) \]</li>
 <li>Consider the alternative that \(X\) and \(Y\) have different variability with same median \[ \frac{X-\theta}{\sigma_1} \overset{d}{=} \frac{Y-\theta}{\sigma_2} \]</li>
@@ -212,7 +212,7 @@ sample = c(rnorm((1-epsilon)*n,0,1),rnorm(epsilon*n,0,sigmaC))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Test for Dispertion</h2></hgroup><article  id="test-for-dispertion-2">
 
-<ul class = 'build'>
+<ul>
 <li>So that our null hypothesis reduces to \[ H_0: \eta^2 = 1 \]</li>
 <li>We will use the Ansari-Bradley two-sample scale statistic \(C\)</li>
 <li>Rank combined sample from smallest to largest</li>
@@ -230,7 +230,7 @@ sample = c(rnorm((1-epsilon)*n,0,1),rnorm(epsilon*n,0,sigmaC))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Behrens–Fisher Problem</h2></hgroup><article  id="behrensfisher-problem-1">
 
-<ul class = 'build'>
+<ul>
 <li>Suppose that we have two populations which differ by location and scale</li>
 <li>We are interested in testing that the locations are the same</li>
 <li>Random sample \(X_1,\dots,X_{n_1}\) with cdf \(F(t)\)</li>
@@ -243,7 +243,7 @@ sample = c(rnorm((1-epsilon)*n,0,1),rnorm(epsilon*n,0,sigmaC))</pre>
 
 </article></slide><slide class=''><hgroup><h2>Behrens–Fisher Problem</h2></hgroup><article  id="behrensfisher-problem-2">
 
-<ul class = 'build'>
+<ul>
 <li>Assume that the cdfs \(F(t)\) and \(G(t)\) are symmetric about \(\theta_X\) and \(\theta_Y\)</li>
 <li>Let \(P_1,\dots,P_{n1}\) denote the placements of the \(X_i\)&#39;s in terms of the \(Y\)-sample \[P_i = \#_j \{ Y_j &lt; X_i \}, i = 1,\dots,n_1\]</li>
 <li>Let \(Q_1,\dots,Q_n\) denote the placements of the \(Y_j\)&#39;s in terms of the \(X\)-sample \[Q_j = \#_i \{X_i &lt; Y_j \}, j=1,\dots,n_2\]</li>
@@ -257,7 +257,7 @@ $$ T^+ = \#_{i,j} \{ X_i < Y_j \} = \sum_{j=1}^{n_2} \operatorname{R}(Y_j) - \fr
 
 </article></slide><slide class=''><hgroup><h2>Behrens–Fisher Problem</h2></hgroup><article  id="behrensfisher-problem-3">
 
-<ul class = 'build'>
+<ul>
 <li>Define \[\bar{P} = \frac{1}{n_1} \sum_{i=1}^{n_1} P_i \hspace{1cm}\text{and}\hspace{1cm} \bar{Q} = \frac{1}{n_2} \sum_{j=1}^{n_2} Q_j\] \[V_1 = \sum_{i=1}^{n_1} (P_i-\bar{P})^2 \hspace{1cm}\text{and}\hspace{1cm} V_2 = \sum_{j=1}^{n_2} (Q_j-\bar{Q})^2\]</li>
 <li>Then the standardized test statistic is \[ U = \frac{\sum_{j=1}^{n_2} Q_j - \sum_{i=1}^{n_1} P_j}{2 \left(V_1 + V_2 + \bar{P}\bar{Q}\right)^{1/2}} \]</li>
 </ul>
@@ -283,7 +283,7 @@ for(trial in 1:nSim) { UNull[trial] = U(Xi[,trial],Yj[,trial]) }</pre>
 
 </article></slide><slide class=''><hgroup><h2>Behrens–Fisher Problem Example</h2></hgroup><article  id="behrensfisher-problem-example">
 
-<ul class = 'build'>
+<ul>
 <li>Hollander and Wolfe (1999) a study of healthy and lead-poisoned geese</li>
 <li>The study involved 7 healthy geese and 8 lead-poisoned geese</li>
 <li>The response of interest was the amount of plasma glucose in the geese in mg/100 ml of plasma</li>
@@ -323,7 +323,7 @@ pvalue</pre>
 
 </article></slide><slide class=''><hgroup><h2>General Difference in Two Populations</h2></hgroup><article  id="general-difference-in-two-populations">
 
-<ul class = 'build'>
+<ul>
 <li>The most general test: Any difference between \(X\) and \(Y\) \[ H_0: F(t) = G(t) \hspace{1cm} \text{versus} \hspace{1cm} H_A: F(t) \ne G(t) \hspace{1cm} \text{for at least one } t\]</li>
 <li>The Kolmogorov-Smirnov test is such a test</li>
 <li>Obtain empirical distributions \(F_{n_1}\) and \(G_{n_2}\)</li>
@@ -339,17 +339,17 @@ $$J = \frac{n_1 n_2}{d} \max_{i=1,\dots,n} \{ | F_{n_1}(Z_{(i)}) - G_{n_2}(Z_{(i
 
 </article></slide><slide class=''><hgroup><h2>Do it Yourself Test Statistics</h2></hgroup><article  id="do-it-yourself-test-statistics">
 
-<ul class = 'build'>
+<ul>
 <li>Idea: Put a metric \(d(\pi,\sigma)\) on permutations \(\pi\) and \(\sigma\)</li>
 <li>Possible metrics:
 
-<ul class = 'build'>
+<ul>
 <li>Metric 1: \(K(\pi,\sigma) =\) minimum number of pairwise adjacent transposition to go from \(\pi\) to \(\sigma\)</li>
 <li>Metric 2: \(R(\pi,\sigma) = \sqrt{ \sum_{i=1}^n (\pi(i)-\sigma(i))^2 }\)</li>
 </ul></li>
 <li>Example for \(K(\pi,\sigma)\):
 
-<ul class = 'build'>
+<ul>
 <li>\(\pi = \{ 3,2,1 \} \text{ and } \sigma = \{ 1,2,3 \}\)</li>
 <li>Move 1: { 2,3,1 }</li>
 <li>Move 2: { 2,1,3 }</li>
@@ -360,18 +360,18 @@ $$J = \frac{n_1 n_2}{d} \max_{i=1,\dots,n} \{ | F_{n_1}(Z_{(i)}) - G_{n_2}(Z_{(i
 
 </article></slide><slide class=''><hgroup><h2>Do it Yourself Test Statistics</h2></hgroup><article  id="do-it-yourself-test-statistics-1">
 
-<ul class = 'build'>
+<ul>
 <li>Four steps program</li>
 <li>Step 1:
 
-<ul class = 'build'>
+<ul>
 <li>Let \(\pi\) be the observed ranks</li>
 <li>The metric is right-invariant \(d(\pi,\sigma) = d(\pi\tau,\sigma\tau)\)</li>
 <li>In other words, this takes care of all possible relabeling of observations into populations</li>
 </ul></li>
 <li>Step 2:
 
-<ul class = 'build'>
+<ul>
 <li>Permutation \(\sigma\) is &quot;equivalent&quot; to observed \(\pi\) if and only if it assigns the same set of ranks to population 1 and thus to population 2</li>
 <li>This builds and equivalent class \([\pi]\) of size \(n_1!n_2!\) which is a subset of all possible permutations</li>
 </ul></li>
@@ -379,15 +379,15 @@ $$J = \frac{n_1 n_2}{d} \max_{i=1,\dots,n} \{ | F_{n_1}(Z_{(i)}) - G_{n_2}(Z_{(i
 
 </article></slide><slide class=''><hgroup><h2>Do it Yourself Test Statistics</h2></hgroup><article  id="do-it-yourself-test-statistics-2">
 
-<ul class = 'build'>
+<ul>
 <li>Step 3:
 
-<ul class = 'build'>
+<ul>
 <li>Construct extremal set \(E\) containing all permutations which are most in agreement with \(H_A\) and least with \(H_0\)</li>
 </ul></li>
 <li>Step 4:
 
-<ul class = 'build'>
+<ul>
 <li>Test statistics is now defined by choosing a distance \(d([\pi],E)\) to measure how far we are from \(H_A\)</li>
 <li>\(K(\pi,\sigma)\) is Mann-Whitney test statistic</li>
 <li>\(R^2(\pi,\sigma)\) is equivalent to Wilcoxon test statistic</li>
