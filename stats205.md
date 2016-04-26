@@ -33,7 +33,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures
 * **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method
 * **ENK**: Eklund, Nichols, and Knutsson (2015). Can Parametric Statistical Methods Be Trusted for fMRI Based Group Studies?
-* **F**: Friendly (1994). Mosaic displays for multi-way contingency tables
+* **F**: Friendly (1994). Mosaic Displays for Multi-Way Contingency Tables
 * **GH**: Greenacre and Hastie (1987). The Geometric Interpretation of Correspondence Analysis
 * **H**: Holmes (2008). Multivariate Data Analysis: The French Way
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples
