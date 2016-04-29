@@ -94,7 +94,7 @@ Lecture 11 | [Permutation Tests (Part 2)](Lecture11/PermutationTestPart2.html) a
 Lecture 12 | [Rank-Based Linear Regression](Lecture12/Regression.html)                                                                      | **KM** Chapters 4.1, 4.2, 4.3, 4.4, 4.8
 Lecture 13 | [Nonlinear Regression (Part 1)](Lecture13/NonlinearRegression.pdf)                                                             | **W** Chapter 4
 Lecture 14 | [Nonlinear Regression (Part 2)](Lecture14/NonlinearRegressionPart2.pdf)                                                        | **W** Chapter 5
-Lecture 15 | Nonlinear Regression (Part 3)                                                                                                  | **W** Chapter 5
+Lecture 15 | [Nonlinear Regression (Part 3)](Lecture15/NonlinearRegressionPart3.pdf)                                                        | **W** Chapter 5
 
 ## Homework
 
