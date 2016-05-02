@@ -39,11 +39,11 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples
 * **PT**: Pagano and Tritchler (1983). On Obtaining Permutation Distributions in Polynomial Time
 * **SMN**: Silver, Montana, and Nichols (2011). False Positives in Neuroimaging Genetics Using Voxel-Based Morphometry Data
-* **W16**: Wasserman (2016). [Lecture Notes on Nonparametric Bayesian Methods](http://www.stat.cmu.edu/~larry/=sml/nonparbayes.pdf)
 * **WRR**: Witztum, Rips, and Rosenberg (1994). Equidistant Letter Sequences in the Book of Genesis
 
 ## Suggested Links
 * TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
+* **W16**: Wasserman (2016). [Lecture Notes on Nonparametric Bayesian Methods](http://www.stat.cmu.edu/~larry/=sml/nonparbayes.pdf)
 
 ## Instructor
 Christof Seiler, Sequoia Hall 116 (christof.seiler [at] stanford [dot] edu)  
