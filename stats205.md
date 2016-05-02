@@ -95,6 +95,7 @@ Lecture 12 | [Rank-Based Linear Regression](Lecture12/Regression.html)          
 Lecture 13 | [Nonlinear Regression (Part 1)](Lecture13/NonlinearRegression.pdf)                                                             | **W** Chapter 4
 Lecture 14 | [Nonlinear Regression (Part 2)](Lecture14/NonlinearRegressionPart2.pdf)                                                        | **W** Chapter 5
 Lecture 15 | [Nonlinear Regression (Part 3)](Lecture15/NonlinearRegressionPart3.pdf)                                                        | **W** Chapter 5
+Lecture 16 | Bayesian Nonparametrics                                                                                                        | 
 
 ## Homework
 
@@ -103,6 +104,7 @@ Assignment                              | Deadline              | Solution
 [Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm  | [Solution 1](Homework1/Solution1.html)
 [Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm | [Solution 2](Homework2/Solution2.html)
 [Homework 3](Homework3/Homework3.html)  | April 25th at 1:30 pm | [Solution 3](Homework3/Solution3.html)
+[Homework 4](Homework4/Homework4.html)  | May 10th at 1:30 pm   | 
 
 ## Late Homework Policy
 
