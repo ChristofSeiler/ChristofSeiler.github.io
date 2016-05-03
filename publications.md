@@ -63,7 +63,7 @@ MICCAI, Nice, France, LNCS, Volume 7510, Part I, October 2012, Pages 66-73. (Acc
 
 5. **Geometry-Aware Multiscale Image Registration Via OBBTree-Based Polyaffine Log-Demons** <br>
 **C. Seiler**, X. Pennec and M. Reyes <br>
-MICCAI, Toronto, Canada, LNCS, Volume 6892, Part II, September 2011, Pages 631-638. **Young Scientist Award** (top 5 out of the majority of 819 papers written by PhD students and postdocs), Student Travel Award and **Oral Podium Presentation** (acceptance rate: 34 of 819 papers = 4.2%). [DOI](http://dx.doi.org/10.1007/978-3-642-23629-7_77), [additional material](https://sites.google.com/site/christofseiler/home/additionalmaterial_miccai2011), [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerOBBTreeMultiscalePolyLogDemonsMICCAI2011.pdf)
+MICCAI, Toronto, Canada, LNCS, Volume 6892, Part II, September 2011, Pages 631-638. **Young Scientist Award** (top 5 out of the majority of 819 papers written by PhD students and postdocs), Student Travel Award and **Oral Podium Presentation** (acceptance rate: 34 of 819 papers = 4.2%). [DOI](http://dx.doi.org/10.1007/978-3-642-23629-7_77), [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerOBBTreeMultiscalePolyLogDemonsMICCAI2011.pdf)
 
 6. **Conditional Variability of Statistical Shape Models Based on Surrogate Variables** <br>
 R. Blanc, M. Reyes, **C. Seiler** and G. Sz&eacute;kely <br>
@@ -75,7 +75,6 @@ MICCAI, London, UK, LNCS, Volume 5762, Part II, September 2009, Pages 84-91. (Ac
 **C. Seiler**, X. Pennec and S. Holmes <br>
 GSI2013 - Geometric Science of Information, August, 2013, Paris, France.
 [pdf](https://hal.inria.fr/hal-00847185/document), 
-[additional material](https://christofseiler.github.io/gsi2013/index.html),
 [talk (youtube)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc),
 [discussion (youtube)](https://www.youtube.com/watch?v=B22UeW_wOpg)
 
