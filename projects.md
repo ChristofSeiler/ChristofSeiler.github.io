@@ -23,7 +23,7 @@ In this project, we estimate running times of Hamiltonian Monte Carlo in high di
 
 In this project, we infer regions of interests from a set of deformation vector fields using Bayesian Nonparametrics.
 
-* Paper: [pdf](http://web.stanford.edu/~cseiler/papers/BayesianNonparametricsGeometricDeformationsSeiler2013.pdf)
+* Paper: [pdf](https://hal.inria.fr/hal-00847185/document)
 * Talk: [youtube](https://www.youtube.com/watch?v=KZO-EaJ6Qrc)
 * Software: [github](https://github.com/ChristofSeiler/BayesianNonparametrics.git) 
 
