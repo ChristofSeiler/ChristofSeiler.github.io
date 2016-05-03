@@ -16,7 +16,7 @@ In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-r
 In this project, we estimate running times of Hamiltonian Monte Carlo in high dimensions using Riemannian geometry and coarse Ricci curvature. This has applications in sampling form high dimensional posterior distributions arising in computational anatomy. 
 
 * Paper: [arXiv](http://arxiv.org/abs/1407.1114), [NIPS](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf)
-* Poster: [pdf](http://web.stanford.edu/~cseiler/posters/NIPS-Poster.pdf)
+* Poster: [pdf](https://christofseiler.github.io/NIPS-Poster.pdf)
 * Software: [github](https://christofseiler.github.io/BayesianImageRegistration)
 
 ## Clustering of Deformation Fields in Compuational Anatomy
