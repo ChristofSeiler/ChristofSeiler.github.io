@@ -22,6 +22,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks
 * **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis
 * **PE**: Patrangenaru and Ellingson (2015). Nonparametric Statistics on Manifolds and Their Applications to Object Data Analysis
+* **RW**: Rasmussen and Williams (2006). Gaussian Processes for Machine Learning
 * **S**: Silverman (1986). Density Estimation for Statistics and Data Analysis
 * **T**: Tsybakov (2009). Introduction to Nonparametric Estimation
 * **W**: Wasserman (2006). All of Nonparametric Statistics
@@ -96,7 +97,8 @@ Lecture 12 | [Rank-Based Linear Regression](Lecture12/Regression.html)          
 Lecture 13 | [Nonlinear Regression (Part 1)](Lecture13/NonlinearRegression.pdf)                                                             | **W** Chapter 4
 Lecture 14 | [Nonlinear Regression (Part 2)](Lecture14/NonlinearRegressionPart2.pdf)                                                        | **W** Chapter 5
 Lecture 15 | [Nonlinear Regression (Part 3)](Lecture15/NonlinearRegressionPart3.pdf)                                                        | **W** Chapter 5
-Lecture 16 | [Bayesian Nonparametrics](Lecture16/BayesianNonparametrics.pdf)                                                                | **W16**
+Lecture 16 | [Bayesian Nonparametrics (Part 1)](Lecture16/BayesianNonparametrics.pdf)                                                       | **W16**
+Lecture 17 | Bayesian Nonparametrics (Part 2)                                                                                               | **W16**
 
 ## Homework
 
