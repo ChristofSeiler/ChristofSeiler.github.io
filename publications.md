@@ -47,7 +47,7 @@ Recent Advances in the 3D Physiological Human (N. Magnenat-Thalmann, J. J. Zhang
 
 1. **Positive Curvature and Hamiltonian Monte Carlo** <br>
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
-NIPS, December, 2014, Montreal, Canada. (Acceptance rate: 414 of 1678 papers = 25%). [pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf), [poster](NIPS-Poster.pdf)
+NIPS, December, 2014, Montreal, Canada. (Acceptance rate: 414 of 1678 papers = 25%). [pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf), [poster](http://christofseiler.github.io/NIPS-Poster.pdf)
 
 2. **Spatio-Temporal Dimension Reduction of Cardiac Motion for Group-Wise Analysis and Statistical Testing** <br>
 K. McLeod, **C. Seiler**, M. Sermesant and X. Pennec <br>
