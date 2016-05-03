@@ -74,7 +74,7 @@ MICCAI, London, UK, LNCS, Volume 5762, Part II, September 2009, Pages 84-91. (Ac
 1. **Random Spatial Structure of Geometric Deformations and Bayesian Nonparametrics** <br>
 **C. Seiler**, X. Pennec and S. Holmes <br>
 GSI2013 - Geometric Science of Information, August, 2013, Paris, France.
-[pdf](http://web.stanford.edu/~cseiler/papers/BayesianNonparametricsGeometricDeformationsSeiler2013.pdf), 
+[pdf](https://hal.inria.fr/hal-00847185/document), 
 [additional material](http://web.stanford.edu/~cseiler/gsi2013/index.html),
 [talk (youtube)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc),
 [discussion (youtube)](https://www.youtube.com/watch?v=B22UeW_wOpg)
