@@ -98,7 +98,8 @@ Lecture 13 | [Nonlinear Regression (Part 1)](Lecture13/NonlinearRegression.pdf) 
 Lecture 14 | [Nonlinear Regression (Part 2)](Lecture14/NonlinearRegressionPart2.pdf)                                                        | **W** Chapter 5
 Lecture 15 | [Nonlinear Regression (Part 3)](Lecture15/NonlinearRegressionPart3.pdf)                                                        | **W** Chapter 5
 Lecture 16 | [Bayesian Nonparametrics (Part 1)](Lecture16/BayesianNonparametrics.pdf)                                                       | **W16**
-Lecture 17 | Bayesian Nonparametrics (Part 2)                                                                                               | **W16**
+Lecture 17 | [Bayesian Nonparametrics (Part 2)](Lecture17/BayesianNonparametricsPart2.pdf) and [BNP in Practice](Lecture17/BNPinPractice)   | **W16**
+Lecture 18 | ANOVA                                                                                                                          | **KM** Chapters 5.1, 5.2, 5.3
 
 ## Homework
 
