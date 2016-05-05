@@ -18,6 +18,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **FM**: Friendly and Meyer (2015). Discrete Data Analysis with R
 * **G**: Good (2005). Permutations, Parametric, and Boostrap Test of Hypothesis
 * **HP**: Henderson and Parmeter (2015). Applied Nonparametric Econometrics
+* **HMT**: Hoaglin, Mosteller, and Tukey (1983). Understanding Robust and Exploratory Data Analysis
 * **HWC**: Hollander and Wolfe, and Chicken (2013). Nonparametric Statistical Methods
 * **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks
 * **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis
@@ -99,7 +100,7 @@ Lecture 14 | [Nonlinear Regression (Part 2)](Lecture14/NonlinearRegressionPart2.
 Lecture 15 | [Nonlinear Regression (Part 3)](Lecture15/NonlinearRegressionPart3.pdf)                                                            | **W** Chapter 5
 Lecture 16 | [Bayesian Nonparametrics (Part 1)](Lecture16/BayesianNonparametrics.pdf)                                                           | **W16**
 Lecture 17 | [Bayesian Nonparametrics (Part 2)](Lecture17/BayesianNonparametricsPart2.pdf) and [BNP in Practice](Lecture17/BNPinPractice.pdf)   | **W16**
-Lecture 18 | ANOVA                                                                                                                              | **KM** Chapters 5.1, 5.2, 5.3
+Lecture 18 | ANOVA                                                                                                                              | **KM** Chapters 5.1, 5.2, 8.1, 8.2
 
 ## Homework
 
