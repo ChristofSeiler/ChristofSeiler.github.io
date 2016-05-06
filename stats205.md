@@ -46,6 +46,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 ## Suggested Links
 * TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
 * **W16**: Wasserman (2016). [Lecture Notes on Nonparametric Bayesian Methods](http://www.stat.cmu.edu/~larry/=sml/nonparbayes.pdf)
+* **G16**: Gimond (2016). [Course Notes on Median Polish](http://mgimond.github.io/ES218/Week11a.html)
 
 ## Instructor
 Christof Seiler, Sequoia Hall 116 (christof.seiler [at] stanford [dot] edu)  
@@ -82,7 +83,7 @@ Some optional guidelines:
 ## Slides
 
 No         | Topic(s)                                                                                                                           | Background Material
------------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------
+-----------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------
 Lecture 1  | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)                                                                  | **KM** Chapter 1
 Lecture 2  | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                                                     | **KM** Chapters 2.1, 2.2, 2.3
 Lecture 3  | [Robustness](Lecture3/Robustness.html)                                                                                             | **KM** Chapter 2.5
@@ -100,7 +101,7 @@ Lecture 14 | [Nonlinear Regression (Part 2)](Lecture14/NonlinearRegressionPart2.
 Lecture 15 | [Nonlinear Regression (Part 3)](Lecture15/NonlinearRegressionPart3.pdf)                                                            | **W** Chapter 5
 Lecture 16 | [Bayesian Nonparametrics (Part 1)](Lecture16/BayesianNonparametrics.pdf)                                                           | **W16**
 Lecture 17 | [Bayesian Nonparametrics (Part 2)](Lecture17/BayesianNonparametricsPart2.pdf) and [BNP in Practice](Lecture17/BNPinPractice.pdf)   | **W16**
-Lecture 18 | ANOVA                                                                                                                              | **KM** Chapters 5.1, 5.2, 8.1, 8.2
+Lecture 18 | [ANOVA](Lecture18/ANOVA.pdf)                                                                                                       | **KM** Chapters 5.1, 5.2, 8.1, 8.2, **HMT**, and **G16**
 
 ## Homework
 
