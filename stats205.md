@@ -46,7 +46,8 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 ## Suggested Links
 * TryR provides an adequate initiation to R [http://tryr.codeschool.com/](http://tryr.codeschool.com/)
 * **W16**: Wasserman (2016). [Lecture Notes on Nonparametric Bayesian Methods](http://www.stat.cmu.edu/~larry/=sml/nonparbayes.pdf)
-* **G16**: Gimond (2016). [Course Notes on Median Polish](http://mgimond.github.io/ES218/Week11a.html)
+* **G16**: Gimond (2016). [Lecture Notes on Median Polish](http://mgimond.github.io/ES218/Week11a.html)
+* **I05**: Ibrahim (2005). [Lecture Notes on Surivival Analysis](http://www.amstat.org/chapters/northeasternillinois/pastevents/presentations/summer05_Ibrahim_J.pdf)
 
 ## Instructor
 Christof Seiler, Sequoia Hall 116 (christof.seiler [at] stanford [dot] edu)  
