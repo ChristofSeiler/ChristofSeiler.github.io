@@ -104,7 +104,8 @@ Lecture 16 | [Bayesian Nonparametrics (Part 1)](Lecture16/BayesianNonparametrics
 Lecture 17 | [Bayesian Nonparametrics (Part 2)](Lecture17/BayesianNonparametricsPart2.pdf) and [BNP in Practice](Lecture17/BNPinPractice.pdf)   | **W16**
 Lecture 18 | [ANOVA](Lecture18/ANOVA.pdf)                                                                                                       | **KM** Chapters 5.1, 5.2, 8.1, 8.2, **HMT**, and **G16**
 Lecture 19 | [Survival Analysis (Part 1)](Lecture19/Life.pdf)                                                                                   | **KM** Chapters 6.1 and 6.2
-Lecture 20 | Survival Analysis (Part 2)                                                                                                         | **KM** Chapters 6.1 and 6.2
+Lecture 20 | [Survival Analysis (Part 2)](Lecture20/LifePart2.pdf) [Midterm Proposal Discussion](Lecture20/MidtermProposals.pdf)                | **KM** Chapters 6.1 and 6.2
+Lecture 21 |                                                                                                                                    | 
 
 ## Homework
 
