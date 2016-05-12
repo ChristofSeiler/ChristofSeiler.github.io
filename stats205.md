@@ -105,7 +105,7 @@ Lecture 17 | [Bayesian Nonparametrics (Part 2)](Lecture17/BayesianNonparametrics
 Lecture 18 | [ANOVA](Lecture18/ANOVA.pdf)                                                                                                       | **KM** Chapters 5.1, 5.2, 8.1, 8.2, **HMT**, and **G16**
 Lecture 19 | [Survival Analysis (Part 1)](Lecture19/Life.pdf)                                                                                   | **KM** Chapters 6.1 and 6.2
 Lecture 20 | [Survival Analysis (Part 2)](Lecture20/LifePart2.pdf) and [Midterm Proposal Discussion](Lecture20/MidtermProposals.pdf)            | **KM** Chapters 6.1 and 6.2
-Lecture 21 |                                                                                                                                    | 
+Lecture 21 | Ranked Set Sampling                                                                                                                | 
 
 ## Homework
 
@@ -115,6 +115,8 @@ Assignment                              | Deadline              | Solution
 [Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm | [Solution 2](Homework2/Solution2.html)
 [Homework 3](Homework3/Homework3.html)  | April 25th at 1:30 pm | [Solution 3](Homework3/Solution3.html)
 [Homework 4](Homework4/Homework4.html)  | May 10th at 1:30 pm   | 
+[Homework 5](Homework5/Homework5.html)  | May 19th at 1:30 pm   | 
+Homework 6                              | May 27th at 1:30 pm   | 
 
 ## Late Homework Policy
 
