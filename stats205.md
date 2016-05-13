@@ -38,6 +38,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **F**: Friendly (1994). Mosaic Displays for Multi-Way Contingency Tables
 * **GH**: Greenacre and Hastie (1987). The Geometric Interpretation of Correspondence Analysis
 * **H**: Holmes (2008). Multivariate Data Analysis: The French Way
+* **NWC**: Nahhas, Wolfe, and Chen (2002). Ranked Set Sampling: Cost and Optimal Set Size
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples
 * **PT**: Pagano and Tritchler (1983). On Obtaining Permutation Distributions in Polynomial Time
 * **SMN**: Silver, Montana, and Nichols (2011). False Positives in Neuroimaging Genetics Using Voxel-Based Morphometry Data
@@ -86,17 +87,17 @@ Some optional guidelines:
 No         | Topic(s)                                                                                                                           | Background Material
 -----------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------
 Lecture 1  | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)                                                                  | **KM** Chapter 1
-Lecture 2  | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                                                     | **KM** Chapters 2.1, 2.2, 2.3
+Lecture 2  | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                                                     | **KM** Chapters 2.1, 2.2, and 2.3
 Lecture 3  | [Robustness](Lecture3/Robustness.html)                                                                                             | **KM** Chapter 2.5
 Lecture 4  | [Bootstrap (Part 1)](Lecture4/BootstrapPart1.html) and [Bootstrap (Example)](Lecture4/BootstrapExample.html)                       | **KM** Chapter 2.4
 Lecture 5  | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                                                                                 | **KM** Chapter 2.4
-Lecture 6  | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/ProportionProblemChiSquared.html)                                 | **KM** Chapters 2.6, 2.7
+Lecture 6  | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/ProportionProblemChiSquared.html)                                 | **KM** Chapters 2.6 and 2.7
 Lecture 7  | [\\( \chi^2 \\) Tests (Part 2)](Lecture7/ChiSquaredPart2.html)                                                                     | **KM** Chapter 2.7
-Lecture 8  | [Two-Sample Problems (Part 1)](Lecture8/TwoSampleProblems.html)                                                                    | **KM** Chapters 3.1, 3.2
-Lecture 9  | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html)                                                               | **KM** Chapters 3.2, 3.4
+Lecture 8  | [Two-Sample Problems (Part 1)](Lecture8/TwoSampleProblems.html)                                                                    | **KM** Chapters 3.1 and 3.2
+Lecture 9  | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html)                                                               | **KM** Chapters 3.2 and 3.4
 Lecture 10 | [Permutation Tests (Part 1)](Lecture10/PermutationTest.html)                                                                       | **G** Chapter 1
 Lecture 11 | [Permutation Tests (Part 2)](Lecture11/PermutationTestPart2.html) and [Neuroimaging (Example)](Lecture11/Neuroimaging.html)        | **WRR** and **NH**
-Lecture 12 | [Rank-Based Linear Regression](Lecture12/Regression.html)                                                                          | **KM** Chapters 4.1, 4.2, 4.3, 4.4, 4.8
+Lecture 12 | [Rank-Based Linear Regression](Lecture12/Regression.html)                                                                          | **KM** Chapters 4.1, 4.2, 4.3, 4.4, and 4.8
 Lecture 13 | [Nonlinear Regression (Part 1)](Lecture13/NonlinearRegression.pdf)                                                                 | **W** Chapter 4
 Lecture 14 | [Nonlinear Regression (Part 2)](Lecture14/NonlinearRegressionPart2.pdf)                                                            | **W** Chapter 5
 Lecture 15 | [Nonlinear Regression (Part 3)](Lecture15/NonlinearRegressionPart3.pdf)                                                            | **W** Chapter 5
@@ -105,7 +106,7 @@ Lecture 17 | [Bayesian Nonparametrics (Part 2)](Lecture17/BayesianNonparametrics
 Lecture 18 | [ANOVA](Lecture18/ANOVA.pdf)                                                                                                       | **KM** Chapters 5.1, 5.2, 8.1, 8.2, **HMT**, and **G16**
 Lecture 19 | [Survival Analysis (Part 1)](Lecture19/Life.pdf)                                                                                   | **KM** Chapters 6.1 and 6.2
 Lecture 20 | [Survival Analysis (Part 2)](Lecture20/LifePart2.pdf) and [Midterm Proposal Discussion](Lecture20/MidtermProposals.pdf)            | **KM** Chapters 6.1 and 6.2
-Lecture 21 | Ranked Set Sampling                                                                                                                | 
+Lecture 21 | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)                                                                             | **HWC** and **NWC** 
 
 ## Homework
 
