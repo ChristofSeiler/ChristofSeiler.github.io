@@ -19,7 +19,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **G**: Good (2005). Permutations, Parametric, and Boostrap Test of Hypothesis
 * **HP**: Henderson and Parmeter (2015). Applied Nonparametric Econometrics
 * **HMT**: Hoaglin, Mosteller, and Tukey (1983). Understanding Robust and Exploratory Data Analysis
-* **HWC**: Hollander and Wolfe, and Chicken (2013). Nonparametric Statistical Methods
+* **HWC**: Hollander, Wolfe, and Chicken (2013). Nonparametric Statistical Methods
 * **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks
 * **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis
 * **PE**: Patrangenaru and Ellingson (2015). Nonparametric Statistics on Manifolds and Their Applications to Object Data Analysis
@@ -106,7 +106,7 @@ Lecture 17 | [Bayesian Nonparametrics (Part 2)](Lecture17/BayesianNonparametrics
 Lecture 18 | [ANOVA](Lecture18/ANOVA.pdf)                                                                                                       | **KM** Chapters 5.1, 5.2, 8.1, 8.2, **HMT**, and **G16**
 Lecture 19 | [Survival Analysis (Part 1)](Lecture19/Life.pdf)                                                                                   | **KM** Chapters 6.1 and 6.2
 Lecture 20 | [Survival Analysis (Part 2)](Lecture20/LifePart2.pdf) and [Midterm Proposal Discussion](Lecture20/MidtermProposals.pdf)            | **KM** Chapters 6.1 and 6.2
-Lecture 21 | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)                                                                             | **HWC** and **NWC** 
+Lecture 21 | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)                                                                             | **HWC** Chapter 15 and **NWC**
 
 ## Homework
 
