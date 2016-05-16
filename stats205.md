@@ -107,6 +107,7 @@ Lecture 18 | [ANOVA](Lecture18/ANOVA.pdf)                                       
 Lecture 19 | [Survival Analysis (Part 1)](Lecture19/Life.pdf)                                                                                   | **KM** Chapters 6.1 and 6.2
 Lecture 20 | [Survival Analysis (Part 2)](Lecture20/LifePart2.pdf) and [Midterm Proposal Discussion](Lecture20/MidtermProposals.pdf)            | **KM** Chapters 6.1 and 6.2
 Lecture 21 | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)                                                                             | **HWC** Chapter 15 and **NWC**
+Lecture 22 | Wavelets                                                                                                                           | **HWC** Chapter 13 and **W** Chapter 9
 
 ## Homework
 
