@@ -20,6 +20,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **HP**: Henderson and Parmeter (2015). Applied Nonparametric Econometrics
 * **HMT**: Hoaglin, Mosteller, and Tukey (1983). Understanding Robust and Exploratory Data Analysis
 * **HWC**: Hollander, Wolfe, and Chicken (2013). Nonparametric Statistical Methods
+* **Lo**: Lovasz (2012). Large Networks and Graph Limits
 * **L**: Lehmann (2006). Nonparametrics Statistical Methods Based on Ranks
 * **MQJH**: Müller, Quintana, Jara, and Hanson (2015). Bayesian Nonparametric Data Analysis
 * **PE**: Patrangenaru and Ellingson (2015). Nonparametric Statistics on Manifolds and Their Applications to Object Data Analysis
@@ -30,6 +31,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 
 ## Suggested Journal Articles
 * **B**: Basu (1980). Randomization Analysis of Experimential Data: The Fisher Randomization Test
+* **Ch**: Chatterjee (2012). Matrix Estimation by Universal Singular Value Thresholding
 * **C**: Critchlow (1986), A Unified Approach to Constructing Nonparametric Rank Tests
 * **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics
 * **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures
@@ -108,7 +110,8 @@ Lecture 19 | [Survival Analysis (Part 1)](Lecture19/Life.pdf)                   
 Lecture 20 | [Survival Analysis (Part 2)](Lecture20/LifePart2.pdf) and [Midterm Proposal Discussion](Lecture20/MidtermProposals.pdf)            | **KM** Chapters 6.1 and 6.2
 Lecture 21 | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)                                                                             | **HWC** Chapter 15 and **NWC**
 Lecture 22 | [Wavelets](Lecture22/Wavelets.pdf)                                                                                                 | **HWC** Chapter 13 and **W** Chapter 9
-Lecture 23 | Graph Limits or Graphons                                                                                                           | 
+Lecture 23 | [Graph Limits or Graphons](Lecture22/GraphLimits.pdf)                                                                              | **Lo** Part 1 and **Ch**
+Lecture 24 | Inference for Data Visualization                                                                                                   | 
 
 ## Homework
 
