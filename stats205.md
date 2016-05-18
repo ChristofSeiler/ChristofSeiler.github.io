@@ -110,7 +110,7 @@ Lecture 19 | [Survival Analysis (Part 1)](Lecture19/Life.pdf)                   
 Lecture 20 | [Survival Analysis (Part 2)](Lecture20/LifePart2.pdf) and [Midterm Proposal Discussion](Lecture20/MidtermProposals.pdf)            | **KM** Chapters 6.1 and 6.2
 Lecture 21 | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)                                                                             | **HWC** Chapter 15 and **NWC**
 Lecture 22 | [Wavelets](Lecture22/Wavelets.pdf)                                                                                                 | **HWC** Chapter 13 and **W** Chapter 9
-Lecture 23 | [Graph Limits or Graphons](Lecture22/GraphLimits.pdf)                                                                              | **Lo** Part 1 and **Ch**
+Lecture 23 | [Graph Limits or Graphons](Lecture23/GraphLimits.pdf)                                                                              | **Lo** Part 1 and **Ch**
 Lecture 24 | Inference for Data Visualization                                                                                                   | 
 
 ## Homework
