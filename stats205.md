@@ -115,6 +115,8 @@ Lecture 24 | Inference for Data Visualization                                  |
 
 ## Homework
 
+Homework 6 is the last homework.
+
 Assignment                              | Deadline              | Solution
 ----------------------------------------|-----------------------|----------------------------------------
 [Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm  | [Solution 1](Homework1/Solution1.html)
