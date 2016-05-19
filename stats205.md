@@ -109,8 +109,8 @@ Lecture 18 | ANOVA                                                             |
 Lecture 19 | Survival Analysis (Part 1)                                        | **KM** Chapters 6.1 and 6.2
 Lecture 20 | Survival Analysis (Part 2) and Midterm Proposal Discussion        | **KM** Chapters 6.1 and 6.2
 Lecture 21 | Ranked Set Sampling                                               | **HWC** Chapter 15 and **NWC**
-Lecture 22 | Wavelets                                                          | **HWC** Chapter 13 and **W** Chapter 9
-Lecture 23 | Graph Limits or Graphons                                          | **Lo** Part 1 and **Ch**
+Lecture 22 | [Wavelets](Lecture22/Wavelets.pdf)                                | **HWC** Chapter 13 and **W** Chapter 9
+Lecture 23 | [Graph Limits or Graphons](Lecture23/GraphLimits.pdf)             | **Lo** Part 1 and **Ch**
 Lecture 24 | Inference for Data Visualization                                  | 
 
 ## Homework
