@@ -31,6 +31,7 @@ In this project, we infer regions of interests from a set of deformation vector 
 
 In this project, we introduce structured diffeomorphic deformations to handle multiscale anatomical organs, e.g. mandibles. We propose a novel hierarchical structure and a general linear model for deformations.
 
+* Overview: [link](https://christofseiler.github.io/phd)
 * Paper: [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerPolyaffineTransformationTreesMedIA2012.pdf)
 * Software: [github](https://github.com/ChristofSeiler/PolyaffineTransformationTrees.git)
 
