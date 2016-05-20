@@ -31,8 +31,10 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 
 ## Suggested Journal Articles
 * **B**: Basu (1980). Randomization Analysis of Experimential Data: The Fisher Randomization Test
+* **BHLLSW**: Buja, Cook, Hofmann, Lawrence, Lee, Swayne, and Wickham (2009). Statistical Inference for Exploratory Data Analysis andModel Diagnostics
 * **Ch**: Chatterjee (2012). Matrix Estimation by Universal Singular Value Thresholding
 * **C**: Critchlow (1986), A Unified Approach to Constructing Nonparametric Rank Tests
+* **D83**: Diaconis (1983). Theories of Data Analysis: From MagicalThinking Through Classical Statistics
 * **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics
 * **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures
 * **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method
@@ -40,7 +42,9 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **F**: Friendly (1994). Mosaic Displays for Multi-Way Contingency Tables
 * **GH**: Greenacre and Hastie (1987). The Geometric Interpretation of Correspondence Analysis
 * **H**: Holmes (2008). Multivariate Data Analysis: The French Way
+* **JWH**: Josse, Wager, and Husson (2014). Confidence Areas forFixed-Effects PCA
 * **NWC**: Nahhas, Wolfe, and Chen (2002). Ranked Set Sampling: Cost and Optimal Set Size
+* **MW**: Milan and Whittaker (1995). Application of the ParametricBootstrap to Models that Incorporate a Singular Value Decomposition
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples
 * **PT**: Pagano and Tritchler (1983). On Obtaining Permutation Distributions in Polynomial Time
 * **SMN**: Silver, Montana, and Nichols (2011). False Positives in Neuroimaging Genetics Using Voxel-Based Morphometry Data
@@ -111,7 +115,7 @@ Lecture 20 | [Survival Analysis (Part 2)](Lecture20/LifePart2.pdf) and [Midterm 
 Lecture 21 | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)                                                                             | **HWC** Chapter 15 and **NWC**
 Lecture 22 | [Wavelets](Lecture22/Wavelets.pdf)                                                                                                 | **HWC** Chapter 13 and **W** Chapter 9
 Lecture 23 | [Graph Limits or Graphons](Lecture23/GraphLimits.pdf)                                                                              | **Lo** Part 1 and **Ch**
-Lecture 24 | Inference for Data Visualization                                                                                                   | 
+Lecture 24 | Inference for Data Visualization                                                                                                   | **D83**, **BHLLSW**, and **JWH**
 
 ## Homework
 
