@@ -40,6 +40,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures
 * **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method
 * **ENK**: Eklund, Nichols, and Knutsson (2015). Can Parametric Statistical Methods Be Trusted for fMRI Based Group Studies?
+* **FR**: Friedman and Rafsky (1979). Multivariate Generalizations of the Wolfowitz and Smirnov Two-Sample Tests
 * **F**: Friendly (1994). Mosaic Displays for Multi-Way Contingency Tables
 * **GH**: Greenacre and Hastie (1987). The Geometric Interpretation of Correspondence Analysis
 * **H**: Holmes (2008). Multivariate Data Analysis: The French Way
@@ -120,7 +121,8 @@ Lecture 21 | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)             
 Lecture 22 | [Wavelets](Lecture22/Wavelets.pdf)                                                                                                 | **HWC** Chapter 13 and **W** Chapter 9
 Lecture 23 | [Graph Limits or Graphons](Lecture23/GraphLimits.pdf)                                                                              | **Lo** Part 1 and **Ch**
 Lecture 24 | [Inference for Data Visualization](Lecture24/Visualization.pdf)                                                                    | **D83**, **BHLLSW**, and **JWH**
-Lecture 25 | Multivariate Nonparametric Tests                                                                                                   | **Tu**, **Ho**, and **RH**
+Lecture 25 | [Multivariate Nonparametric Tests](Lecture25/MultivariateTests.pdf)                                                                | **Tu**, **Ho**, **RH**, and **FR**
+Lecture 26 |                                                                                                                                    | 
 
 ## Homework
 
