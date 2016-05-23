@@ -31,6 +31,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 
 ## Suggested Journal Articles
 * **B**: Basu (1980). Randomization Analysis of Experimential Data: The Fisher Randomization Test
+* **Bh**: Bhattacharya (2015). Power of Graph-Based Two-Sample Tests
 * **BHLLSW**: Buja, Cook, Hofmann, Lawrence, Lee, Swayne, and Wickham (2009). Statistical Inference for Exploratory Data Analysis and Model Diagnostics
 * **Ch**: Chatterjee (2012). Matrix Estimation by Universal Singular Value Thresholding
 * **C**: Critchlow (1986), A Unified Approach to Constructing Nonparametric Rank Tests
@@ -47,7 +48,9 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **MW**: Milan and Whittaker (1995). Application of the Parametric Bootstrap to Models that Incorporate a Singular Value Decomposition
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples
 * **PT**: Pagano and Tritchler (1983). On Obtaining Permutation Distributions in Polynomial Time
+* **RH**: Rousseeuw and Hubert (2015). Statistical Depth Meets Computational Geometry: A Short Survey
 * **SMN**: Silver, Montana, and Nichols (2011). False Positives in Neuroimaging Genetics Using Voxel-Based Morphometry Data
+* **Tu**: Tukey (1974). Mathematics and the Picturing of Data
 * **WRR**: Witztum, Rips, and Rosenberg (1994). Equidistant Letter Sequences in the Book of Genesis
 
 ## Suggested Links
@@ -55,6 +58,8 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **W16**: Wasserman (2016). [Lecture Notes on Nonparametric Bayesian Methods](http://www.stat.cmu.edu/~larry/=sml/nonparbayes.pdf)
 * **G16**: Gimond (2016). [Lecture Notes on Median Polish](http://mgimond.github.io/ES218/Week11a.html)
 * **I05**: Ibrahim (2005). [Lecture Notes on Surivival Analysis](http://www.amstat.org/chapters/northeasternillinois/pastevents/presentations/summer05_Ibrahim_J.pdf)
+* **Ho**: Holmes (1997). Lecture Notes on [Computer Intensive Methods in Statistics](http://statweb.stanford.edu/~susan/courses/b494/node3.html#SECTION00390000000000000000)
+
 
 ## Instructor
 Christof Seiler, Sequoia Hall 116 (christof.seiler [at] stanford [dot] edu)  
@@ -116,10 +121,9 @@ Lecture 21 | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)             
 Lecture 22 | [Wavelets](Lecture22/Wavelets.pdf)                                                                                                 | **HWC** Chapter 13 and **W** Chapter 9
 Lecture 23 | [Graph Limits or Graphons](Lecture23/GraphLimits.pdf)                                                                              | **Lo** Part 1 and **Ch**
 Lecture 24 | [Inference for Data Visualization](Lecture24/Visualization.pdf)                                                                    | **D83**, **BHLLSW**, and **JWH**
+Lecture 25 | Multivariate Nonparametric Tests                                                                                                   | **Tu**, **Ho**, and **RH**
 
 ## Homework
-
-Homework 6 is the final homework.
 
 Assignment                              | Deadline              | Solution
 ----------------------------------------|-----------------------|----------------------------------------
