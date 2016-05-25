@@ -17,6 +17,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **ET**: Efron and Tibshirani (1994). An Introduction to the Bootstrap
 * **FM**: Friendly and Meyer (2015). Discrete Data Analysis with R
 * **G**: Good (2005). Permutations, Parametric, and Boostrap Test of Hypothesis
+* **Ha**: Hall (1992). The Bootstrap and Edgeworth Expansion
 * **HP**: Henderson and Parmeter (2015). Applied Nonparametric Econometrics
 * **HMT**: Hoaglin, Mosteller, and Tukey (1983). Understanding Robust and Exploratory Data Analysis
 * **HWC**: Hollander, Wolfe, and Chicken (2013). Nonparametric Statistical Methods
@@ -39,6 +40,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **DE**: Diaconis and Efron (1983). Computer Intensive Methods in Statistics
 * **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures
 * **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method
+* **Ef**: Efron (1987). Better Bootstrap Confidence Intervals
 * **ENK**: Eklund, Nichols, and Knutsson (2015). Can Parametric Statistical Methods Be Trusted for fMRI Based Group Studies?
 * **FR**: Friedman and Rafsky (1979). Multivariate Generalizations of the Wolfowitz and Smirnov Two-Sample Tests
 * **F**: Friendly (1994). Mosaic Displays for Multi-Way Contingency Tables
@@ -122,7 +124,7 @@ Lecture 22 | [Wavelets](Lecture22/Wavelets.pdf)                                 
 Lecture 23 | [Graph Limits or Graphons](Lecture23/GraphLimits.pdf)                                                                              | **Lo** Part 1 and **Ch**
 Lecture 24 | [Inference for Data Visualization](Lecture24/Visualization.pdf)                                                                    | **D83**, **BHLLSW**, and **JWH**
 Lecture 25 | [Multivariate Nonparametric Tests](Lecture25/MultivariateTests.pdf)                                                                | **Tu**, **Ho**, **RH**, and **FR**
-Lecture 26 |                                                                                                                                    | 
+Lecture 26 | Bootstrap (Part 3)                                                                                                                 | **ET** Chapters 12, 14, and **Ha**
 
 ## Homework
 
