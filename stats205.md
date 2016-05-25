@@ -62,6 +62,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **G16**: Gimond (2016). [Lecture Notes on Median Polish](http://mgimond.github.io/ES218/Week11a.html)
 * **I05**: Ibrahim (2005). [Lecture Notes on Surivival Analysis](http://www.amstat.org/chapters/northeasternillinois/pastevents/presentations/summer05_Ibrahim_J.pdf)
 * **Ho**: Holmes (1997). [Lecture Notes on Computer Intensive Methods in Statistics](http://statweb.stanford.edu/~susan/courses/b494/node3.html#SECTION00390000000000000000)
+* **Lo**: Love (2010). Bootstrap-$t$ Confidence Intervals [(Link to blog entry)](https://mikelove.wordpress.com/2010/02/15/bootstrap-t/)
 
 ## Instructor
 Christof Seiler, Sequoia Hall 116 (christof.seiler [at] stanford [dot] edu)  
@@ -124,7 +125,9 @@ Lecture 22 | [Wavelets](Lecture22/Wavelets.pdf)                                 
 Lecture 23 | [Graph Limits or Graphons](Lecture23/GraphLimits.pdf)                                                                              | **Lo** Part 1 and **Ch**
 Lecture 24 | [Inference for Data Visualization](Lecture24/Visualization.pdf)                                                                    | **D83**, **BHLLSW**, and **JWH**
 Lecture 25 | [Multivariate Nonparametric Tests](Lecture25/MultivariateTests.pdf)                                                                | **Tu**, **Ho**, **RH**, and **FR**
-Lecture 26 | Bootstrap (Part 3)                                                                                                                 | **ET** Chapters 12, 14, and **Ha**
+Lecture 26 | [Bootstrap (Part 3)](Lecture26/Pivoting.pdf)                                                                                       | **ET** Chapters 12, and **Ha**
+Lecture 27 | Bootstrap (Part 4)                                                                                                                 | **ET** Chapters 14, and **Ha**
+Lecture 28 | Review                                                                                                                             | 
 
 ## Homework
 
