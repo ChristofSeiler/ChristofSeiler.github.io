@@ -34,6 +34,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **B**: Basu (1980). Randomization Analysis of Experimential Data: The Fisher Randomization Test
 * **Bh**: Bhattacharya (2015). Power of Graph-Based Two-Sample Tests
 * **BHLLSW**: Buja, Cook, Hofmann, Lawrence, Lee, Swayne, and Wickham (2009). Statistical Inference for Exploratory Data Analysis and Model Diagnostics
+* **CB**: Carpenter and Bithell (2000). Bootstrap Conidence Intervals: When, Which, What? A Practical Guide for Medical Statisticians
 * **Ch**: Chatterjee (2012). Matrix Estimation by Universal Singular Value Thresholding
 * **C**: Critchlow (1986), A Unified Approach to Constructing Nonparametric Rank Tests
 * **D83**: Diaconis (1983). Theories of Data Analysis: From Magical Thinking Through Classical Statistics
@@ -41,6 +42,7 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **DHa**: Diaconis and Holmes (1994). Gray Codes for Randomization Procedures
 * **DHb**: Diaconis and Holmes (1994). Three Examples of the Markov Chain Monte Carlo Method
 * **Ef**: Efron (1987). Better Bootstrap Confidence Intervals
+* **Ef14**: Efron (2014). Estimation and Accuracy after Model Selection
 * **ENK**: Eklund, Nichols, and Knutsson (2015). Can Parametric Statistical Methods Be Trusted for fMRI Based Group Studies?
 * **FR**: Friedman and Rafsky (1979). Multivariate Generalizations of the Wolfowitz and Smirnov Two-Sample Tests
 * **F**: Friendly (1994). Mosaic Displays for Multi-Way Contingency Tables
@@ -48,12 +50,14 @@ Nonparametric analogs of the one- and two-sample t-tests and analysis of varianc
 * **H**: Holmes (2008). Multivariate Data Analysis: The French Way
 * **JWH**: Josse, Wager, and Husson (2014). Confidence Areas forFixed-Effects PCA
 * **NWC**: Nahhas, Wolfe, and Chen (2002). Ranked Set Sampling: Cost and Optimal Set Size
+* **MRR**: Marin, Pudlo, Robert, and Ryder (2012). Approximate Bayesian Computational Methods
 * **MW**: Milan and Whittaker (1995). Application of the Parametric Bootstrap to Models that Incorporate a Singular Value Decomposition
 * **NH**: Nichols and Holmes (2001). Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples
 * **PT**: Pagano and Tritchler (1983). On Obtaining Permutation Distributions in Polynomial Time
 * **RH**: Rousseeuw and Hubert (2015). Statistical Depth Meets Computational Geometry: A Short Survey
 * **SMN**: Silver, Montana, and Nichols (2011). False Positives in Neuroimaging Genetics Using Voxel-Based Morphometry Data
 * **Tu**: Tukey (1974). Mathematics and the Picturing of Data
+* **WHE**: Wager, Hastie, and Efron (2014). Confidence Intervals for Random Forests: The Jackknife and the Infinitesimal Jackknife
 * **WRR**: Witztum, Rips, and Rosenberg (1994). Equidistant Letter Sequences in the Book of Genesis
 
 ## Suggested Links
