@@ -130,7 +130,7 @@ Lecture 23 | [Graph Limits or Graphons](Lecture23/GraphLimits.pdf)              
 Lecture 24 | [Inference for Data Visualization](Lecture24/Visualization.pdf)                                                                    | **D83**, **BHLLSW**, and **JWH**
 Lecture 25 | [Multivariate Nonparametric Tests](Lecture25/MultivariateTests.pdf)                                                                | **Tu**, **Ho**, **RH**, and **FR**
 Lecture 26 | [Bootstrap (Part 3)](Lecture26/Pivoting.pdf)                                                                                       | **ET** Chapters 12 and **Ha**, and **Lo**
-Lecture 27 | Bootstrap (Part 4)                                                                                                                 | **ET** Chapters 14 and **Ha**
+Lecture 27 | [Bootstrap (Part 4)](Lecture27/BiasCorrection.pdf)                                                                                 | **ET** Chapters 14 and **Ha**
 Lecture 28 | Review                                                                                                                             | 
 
 ## Homework
