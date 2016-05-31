@@ -131,7 +131,7 @@ Lecture 24 | [Inference for Data Visualization](Lecture24/Visualization.pdf)    
 Lecture 25 | [Multivariate Nonparametric Tests](Lecture25/MultivariateTests.pdf)                                                                | **Tu**, **Ho**, **RH**, and **FR**
 Lecture 26 | [Bootstrap (Part 3)](Lecture26/Pivoting.pdf)                                                                                       | **ET** Chapters 12 and **Ha**, and **Lo**
 Lecture 27 | [Bootstrap (Part 4)](Lecture27/BiasCorrection.pdf)                                                                                 | **ET** Chapters 14 and **Ha**
-Lecture 28 | Review and Outlook                                                                                                                 | 
+Lecture 28 | Wrapup                                                                                                                             | 
 
 ## Homework
 
