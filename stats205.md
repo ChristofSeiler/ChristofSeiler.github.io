@@ -142,7 +142,7 @@ Assignment                              | Deadline              | Solution
 [Homework 3](Homework3/Homework3.html)  | April 25th at 1:30 pm | [Solution 3](Homework3/Solution3.html)
 [Homework 4](Homework4/Homework4.html)  | May 10th at 1:30 pm   | [Solution 4](Homework4/Solution4.html)
 [Homework 5](Homework5/Homework5.html)  | May 19th at 1:30 pm   | [Solution 5](Homework5/Solution5.html)
-[Homework 6](Homework6/Homework6.html)  | May 27th at 1:30 pm   | 
+[Homework 6](Homework6/Homework6.html)  | May 27th at 1:30 pm   | [Solution 6](Homework6/Solution6.html)
 
 ## Late Homework Policy
 
