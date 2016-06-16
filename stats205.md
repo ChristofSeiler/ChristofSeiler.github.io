@@ -100,6 +100,12 @@ Some optional guidelines:
 5. Propose a solution using nonparametric methods
 6. List all the tasks that you plan to do: collecting data, programming, simulating data, estimating, testing, etc.
 
+## Final Project
+
+Example of an excellent final project on using kernel density estimation to predict conflicts in the Congo:
+
+* [https://github.com/jmoore523/STATS205-DRCConflict](https://github.com/jmoore523/STATS205-DRCConflict)
+
 ## Slides
 
 No         | Topic(s)                                                                                                                           | Background Material
