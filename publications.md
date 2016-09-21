@@ -5,11 +5,9 @@ title: Publications
 
 (most of these papers are on [ResearchGate](https://www.researchgate.net/profile/Christof_Seiler/publications/) and some on [PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=christof%20seiler))
 
-## Submitted Journal Articles
+## Submitted Journal Articles and Book Chapters
 
-1. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
-**C. Seiler** (joint work with S. Holmes and S. Rubinstein-Salzedo) <br>
-Submitted. May 2015. [arXiv](http://arxiv.org/abs/1407.1114) (Note: authors are ordered alphabetically following convention for mathematical papers)
+Several journal articles and one book chapter are currenlty under review.
 
 ## Journal Articles
 
@@ -47,7 +45,8 @@ Recent Advances in the 3D Physiological Human (N. Magnenat-Thalmann, J. J. Zhang
 
 1. **Positive Curvature and Hamiltonian Monte Carlo** <br>
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
-NIPS, December, 2014, Montreal, Canada. (Acceptance rate: 414 of 1678 papers = 25%). [pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf), [poster](https://christofseiler.github.io/NIPS-Poster.pdf)
+NIPS, December, 2014, Montreal, Canada. (Acceptance rate: 414 of 1678 papers = 25%). [pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf), [poster](https://christofseiler.github.io/NIPS-Poster.pdf) <br>
+Long version: [arXiv](http://arxiv.org/abs/1407.1114) (Note: authors are ordered alphabetically following convention for mathematical papers)
 
 2. **Spatio-Temporal Dimension Reduction of Cardiac Motion for Group-Wise Analysis and Statistical Testing** <br>
 K. McLeod, **C. Seiler**, M. Sermesant and X. Pennec <br>
