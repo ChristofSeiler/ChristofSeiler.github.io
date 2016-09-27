@@ -9,7 +9,7 @@ In this project, we combine heterogeneous brain data (structural and diffusion i
 
 In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine 
 
-* Paper: in preparation
+* Paper: submitted
 
 ## Markov Chain Monte Carlo in High Dimensions
 
