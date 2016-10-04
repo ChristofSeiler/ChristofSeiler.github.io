@@ -55,14 +55,14 @@ Recent Advances in the 3D Physiological Human (N. Magnenat-Thalmann, J.J. Zhang,
 1. **Positive Curvature and Hamiltonian Monte Carlo** <br>
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
 NIPS, December, 2014, Montreal, Canada <br>
-(Acceptance rate: 414 of 1678 papers = 25\%) <br>
+(Acceptance rate: 414 of 1678 papers = 25%) <br>
 [pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf), [poster](https://christofseiler.github.io/NIPS-Poster.pdf), Long version: [arXiv](http://arxiv.org/abs/1407.1114) <br>
 (Note: authors are ordered alphabetically following convention for mathematical papers)
 
 2. **Spatio-Temporal Dimension Reduction of Cardiac Motion for Group-Wise Analysis and Statistical Testing** <br>
 K. McLeod, **C. Seiler**, M. Sermesant, and X. Pennec <br>
 MICCAI, Nagoya, Japan, LNCS, Volume 8150, Part II, September 2013, Pages 501&ndash;508 <br>
-(Acceptance rate: 262 of 798 papers = 33\%) <br>
+(Acceptance rate: 262 of 798 papers = 33%) <br>
 [pdf](http://hal.inria.fr/hal-00840041/PDF/MICCAI_mcleod_2013.pdf)
 
 3. **Random Spatial Structure of Geometric Deformations and Bayesian Nonparametrics** <br>
@@ -78,13 +78,13 @@ FIMH, London, UK, LNCS, Volume 7945, June 2013, Pages 483&ndash;490 <br>
 5. **Simultaneous Multiscale Polyaffine Registration by Incorporating Deformation Statistics** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
 MICCAI, Nice, France, LNCS, Volume 7511, Part II, October 2012, Pages 130&ndash;137 <br> 
-(Acceptance rate: 248 of 779 papers = 32\%) <br>
+(Acceptance rate: 248 of 779 papers = 32%) <br>
 [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerMultiscaleGroupwisePolyaffineRegistrationMICCAI2012.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-33418-4_17)
 
 6. **Population-Based Design of Mandibular Plates Based on Bone Quality and Morphology** <br>
 H. Bou-Sleiman, **C. Seiler**, T. Iizuka, L. Nolte, and M. Reyes <br>
 MICCAI, Nice, France, LNCS, Volume 7510, Part I, October 2012, Pages 66&ndash;73 <br>
-(Acceptance rate: 248 of 779 papers = 32\%)	<br>
+(Acceptance rate: 248 of 779 papers = 32%)	<br>
 [DOI](http://dx.doi.org/10.1007/978-3-642-33415-3_9)
 
 7. **A Near-Incompressible Poly-Affine Motion Model for Cardiac Function Analysis** <br>
@@ -98,7 +98,7 @@ MICCAI, Toronto, Canada, LNCS, Volume 6892, Part II, September 2011, Pages 631&n
 Young Scientist Award <br>
 (top 5 out of the majority of 819 papers written by PhD students and postdocs) <br>
 Student Travel Award and Oral Podium Presentation <br>
-(acceptance rate: 34 of 819 papers = 4.2\%)	<br>
+(acceptance rate: 34 of 819 papers = 4.2%)	<br>
 [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerOBBTreeMultiscalePolyLogDemonsMICCAI2011.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-23629-7_77)
 
 9. **Mesh-based vs.~Image-based Statistical Model of Appearance of the Human Femur: A Preliminary Comparison Study for the Creation of Finite Element Meshes** <br>
@@ -122,13 +122,13 @@ ISBI, Rotterdam, The Netherlands, April 2010, Pages 452&ndash;455 <br>
 [pdf](http://www.inria.fr/sophia/asclepios/Publications/Xavier.Pennec/Seiler.ISBI2010.pdf), [DOI](http://dx.doi.org/10.1109/ISBI.2010.5490313)
 
 13. **Combined Statistical Model of Bone Shape and Mechanical Properties for Bone and Implant Modeling** <br>
-S. Bonaretti, M. Kistler, **C. Seiler, M. Reyes, and P. B&uuml;chler <br>
+S. Bonaretti, M. Kistler, **C. Seiler**, M. Reyes, and P. B&uuml;chler <br>
 CMBBE, Valencia, Spain, February 2010
 
 14. **Conditional Variability of Statistical Shape Models Based on Surrogate Variables** <br>
 R. Blanc, M. Reyes, **C. Seiler**, and G. Sz&eacute;kely <br>
 MICCAI, London, UK, LNCS, Volume 5762, Part II, September 2009, Pages 84&ndash;91 <br>
-(Acceptance rate: 32\%) <br>
+(Acceptance rate: 32%) <br>
 [pdf](http://www.mauricioreyes.me/Publications/blancMiccai09.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-04271-3_11)
 
 ## Conference Abstracts
