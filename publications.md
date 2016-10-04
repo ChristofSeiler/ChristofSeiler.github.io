@@ -154,4 +154,5 @@ PhD Thesis, University of Nice Sophia Antipolis and University of Bern, Septembe
 
 2. **Displacement Vector Field Regularization for Modelling of Soft Tissue Deformations** <br>
 **C. Seiler** <br>
-MSc Thesis, University of Bern, June 2008
+MSc Thesis, University of Bern, June 2008 <br>
+[pdf](https://christofseiler.github.io/MasterThesis.pdf)
