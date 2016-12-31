@@ -1,52 +1,52 @@
 ---
 layout: page
-title: About
+title: CV
 ---
 
 ## Education
 
-2013-     | **Stanford University**                                 | Postdoc in Statistics
-2009-2012 | **Inria, France & University of Bern, Switzerland**     | PhD in Biomedical Engineering
-2006-2008 | **University of Bern, Switzerland**                     | MSc in Biomedical Engineering
-2001-2005 | **University of Applied Sciences, Biel, Switzerland**   | Dipl. Ing. FH in Computer Science
+2013-     | **Stanford University**                                                                 | Postdoc in Statistics
+2009-2012 | **Inria, France** (French Institute for Research in Computer Science and Automation)    | PhD in Computer Science
+2009-2012 | **University of Bern, Switzerland**                                                     | PhD in Biomedical Engineering
+2006-2008 | **University of Bern, Switzerland**                                                     | MSc in Biomedical Engineering
+2001-2005 | **University of Applied Sciences, Biel, Switzerland**                                   | Dipl. Ing. FH in Computer Science
 
-## Previous Research and Work Experience
+## Positions
 
-* Visiting Graduate Fellow, SAMSI, Analysis of Object Data, Research Triangle Park, NC, USA (2010, 4 months)
-* Software Engineer, ISS AG, Switzerland (2006-2008, 1.5 years, part time 40%)
-* Software Engineer, Institute for Evaluative Research in Medicine, Switzerland (2006, 11 months, part time 40%)
-* Intern Software Engineering, Oridus, Inc., Silicon Valley, California, USA (2003-2004, 1 year)
-* Consultant Software Engineering, Oridus, Inc., Silicon Valley, California, USA (2005, 3 months)
+* 2010: Visiting Graduate Fellow, Statistical and Applied Mathematical Sciences Institute, NC, United States (4 months)
+* 2006: Software Engineer, ISS AG, Integrated Scientific Services, Biel, Switzerland (1.5 years, part time 40%)
+* 2006: Software Engineer, Institute for Evaluative Research in Medicine, University of Bern (11 months, part time 40%)
+* 2005: Consultant Software Engineering, Oridus Inc., Biel (1 year)
+* 2003: Intern Software Engineering, Oridus Inc., Fremont, CA, United States (3 months)
 
 ## Grants and Awards
 
-* ISBA New Researchers Travel Awards 2016, Sardinia, Italy (gratefully declined)
-* Travel award for 10th Conference on Bayesian Nonparametrics 2015 in Raleigh, NC, USA
-* SNSF Advanced Postdoc.Mobility Fellowship (2015, 1 year)
-* France-Stanford collaborative project grant (2013-2014)
-* SNSF Fellowship for Prospective Researchers (2013-2014, 2 years)
-* MICCAI Young Scientist Award 2011
-* Invitation for Medical Image Analysis (MedIA) Special Issue
-* MICCAI Student Travel Award 2011
-* Joint PhD grant from Swiss State Secretariat for Education, Research and Innovation (SERI)
+* 2016: ISBA New Researchers Travel Award, Sardinia, Italy (gratefully declined)
+* 2015: Travel award for 10th Conference on Bayesian Nonparametrics, Raleigh, NC, United States
+* 2015: Swiss NSF Fellowship for Advanced Researchers (one year, topic: Uncertainty in Computational Anatomy)
+* 2013: France-Stanford Collaborative Projects Grant
+* 2013: Swiss NSF Fellowship for Prospective Researchers (two years, topic: Monte Carlo Methods in Computational Anatomy)
+* 2011: MICCAI Young Scientist Award, Toronto, Canada (top five of about 819 submitted papers by PhD students and postdocs)
+* 2011: MICCAI Student Travel Award, Toronto, Canada
+* 2011: Paper invitation for Medical Image Analysis (invitation rate about 1.5%)
+* 2010: Financial support for joint PhD to travel between France and Switzerland (Swiss State Secretariat for Education, Research and Innovation)
 
 ## Invited and Contributed Talks
 
-* Contributed Talk, June, 2015, 10th Conference on Bayesian Nonparametrics, Raleigh NC, USA
-* Poster at the 15th Biomedical Computation at Stanford (BCATS), Stanford, USA
-* CIS Seminar, March, 2015, Center for Imaging Science, Johns Hopkins, USA
-* Workshop in Biostatistics, October, 2014, Stanford, USA
-* JSM (the Joint Statistical Meetings), Special session "Computational Topology and Differential Geometry", August, 2014, Boston, USA
-* Inria Sophia Antipolis, May, 2014, Sophia Antipolis, France
-* Institut de Mathematiques de Toulouse, March, 2014, Universite Paul Sabatier, Toulouse, France
-* Stanford Statistics Seminar, October, 2013, Stanford, USA
-* GSI - Geometric Science of Information, August, 2013, Paris, France talk [(youtube link)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc) discussion [(youtube link)](https://www.youtube.com/watch?v=B22UeW_wOpg)
-* CPUs: Computational People United at Stanford, March, 2013, Stanford, USA
-* Special Co-Me Seminar - Talks by talented PhD students, March, 2013, Bern, Switzerland
-* MICCAI, September, 2011, Toronto, Canada (acceptance rate for oral presentations: 34 of 819 papers = 4.2%)
-* SPIE Medical Imaging, February, 2011, Orlando, USA
-* Shape Stats Meeting at UNC, October, 2010, Chapel Hill, NC, USA
-* Termis, June, 2010, Galway, Ireland
-* Summer School on Manifold Learning in Image and Signal Analysis, August, 2009, Ven, Sweden
-* CAOS, June, 2009, Boston, USA
-* 3D Physiological Human, December, 2008, Zermatt, Switzerland
+* 06/2015: 10th Conference on Bayesian Nonparametrics, Raleigh, NC, United States
+* 03/2015: Center for Imaging Science, Johns Hopkins, Baltimore, MD, United States 
+* 10/2014: Workshop in Biostatistics, Stanford School of Medicine, CA, United States
+* 08/2014: JSM (the Joint Statistical Meetings), Boston, MA, United States
+* 05/2014: Inria Sophia Antipolis, Sophia Antipolis, France
+* 03/2014: Institut de Mathematiques de Toulouse, Universit ́e Paul Sabatier, France
+* 10/2013: Stanford Statistics Seminar, CA, United States
+* 08/2013: Geometric Science of Information, Paris, France, [(youtube link)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc) discussion [(youtube link)](https://www.youtube.com/watch?v=B22UeW_wOpg)
+* 03/2013: Computational People United at Stanford, CA, United States 
+* 03/2013: Co-Me Seminar, Artorg Center, University of Bern, Switzerland
+* 09/2011: MICCAI, Toronto, Canada (acceptance rate 4.2% out of 819 papers) 
+* 02/2011: SPIE Medical Imaging, Orlando, FL, United States
+* 10/2010: Shape Stats Meeting, UNC, Chapel Hill, NC, United States
+* 06/2010: TERMIS, Galway, Ireland
+* 08/2009: Summer School on Manifold Learning in Image and Signal Analysis, Ven, Sweden
+* 06/2009: CAOS, Boston, MA, United States
+* 12/2008: 3D Physiological Human, Zermatt, Switzerland
