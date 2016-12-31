@@ -6,7 +6,8 @@ title: CV
 ## Education
 
 2013-     | **Stanford University**                                                                 | Postdoc in Statistics
-2009-2012 | **Inria, France** (French Institute for Research in Computer Science and Automation)    | PhD in Computer Science
+2009-2012 | **Inria, France** 
+(French Institute for Research in Computer Science and Automation)                                  | PhD in Computer Science
 2009-2012 | **University of Bern, Switzerland**                                                     | PhD in Biomedical Engineering
 2006-2008 | **University of Bern, Switzerland**                                                     | MSc in Biomedical Engineering
 2001-2005 | **University of Applied Sciences, Biel, Switzerland**                                   | Dipl. Ing. FH in Computer Science
@@ -38,7 +39,7 @@ title: CV
 * 10/2014: Workshop in Biostatistics, Stanford School of Medicine, CA, United States
 * 08/2014: JSM (the Joint Statistical Meetings), Boston, MA, United States
 * 05/2014: Inria Sophia Antipolis, Sophia Antipolis, France
-* 03/2014: Institut de Mathematiques de Toulouse, Universit ́e Paul Sabatier, France
+* 03/2014: Institut de Mathematiques de Toulouse, Paul Sabatier University, France
 * 10/2013: Stanford Statistics Seminar, CA, United States
 * 08/2013: Geometric Science of Information, Paris, France, [(youtube link)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc) discussion [(youtube link)](https://www.youtube.com/watch?v=B22UeW_wOpg)
 * 03/2013: Computational People United at Stanford, CA, United States 
