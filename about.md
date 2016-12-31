@@ -6,7 +6,7 @@ title: CV
 ## Education
 
 2013-     | **Stanford University**                                                                                                                  | Postdoc in Statistics
-2009-2012 | **Inria, France** <br/> (French Institute for Research in Computer Science and Automation) and <br/> **University of Bern, Switzerland** | PhD in Computer Science and <br/> Biomedical Engineering
+2009-2012 | **Inria** (French Institute for Research in Computer Science and Automation)**, France** and <br/> **University of Bern, Switzerland**   | PhD in Computer Science and <br/> Biomedical Engineering
 2006-2008 | **University of Bern, Switzerland**                                                                                                      | MSc in Biomedical Engineering
 2001-2005 | **University of Applied Sciences, Biel, Switzerland**                                                                                    | Dipl. Ing. FH in Computer Science
 
