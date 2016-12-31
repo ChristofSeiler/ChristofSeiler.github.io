@@ -5,10 +5,12 @@ title: CV
 
 ## Education
 
-2013-     | **Stanford University**                                                                                                                    | Postdoc in Statistics
-2009-2012 | **Inria, France** (French Institute for Research in <br/> Computer Science and Automation) and <br/> **University of Bern, Switzerland**   | PhD in Computer Science and <br/> Biomedical Engineering
-2006-2008 | **University of Bern, Switzerland**                                                                                                        | MSc in Biomedical Engineering
-2001-2005 | **University of Applied Sciences, Biel, Switzerland**                                                                                      | Dipl. Ing. FH in Computer Science
+2013-     | **Stanford University**                                           | Postdoc in Statistics
+2009-2012 | **Inria, France** and <br/> **University of Bern, Switzerland**   | PhD in Computer Science and <br/> Biomedical Engineering
+2006-2008 | **University of Bern, Switzerland**                               | MSc in Biomedical Engineering
+2001-2005 | **University of Applied Sciences, Biel, Switzerland**             | Dipl. Ing. FH in Computer Science
+
+Inria: French Institute for Research in Computer Science and Automation
 
 ## Positions
 
@@ -39,8 +41,8 @@ title: CV
 * 05/2014: Inria Sophia Antipolis, Sophia Antipolis, France
 * 03/2014: Institut de Mathematiques de Toulouse, Paul Sabatier University, France
 * 10/2013: Stanford Statistics Seminar, CA, United States
-* 08/2013: Geometric Science of Information, Paris, France, [(youtube link)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc) discussion [(youtube link)](https://www.youtube.com/watch?v=B22UeW_wOpg)
-* 03/2013: Computational People United at Stanford, CA, United States 
+* 08/2013: Geometric Science of Information, Paris, France, presentation: [(youtube link)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc) discussion: [(youtube link)](https://www.youtube.com/watch?v=B22UeW_wOpg)
+* 03/2013: Computational People United at Stanford, CA, United States
 * 03/2013: Co-Me Seminar, Artorg Center, University of Bern, Switzerland
 * 09/2011: MICCAI, Toronto, Canada (acceptance rate 4.2% out of 819 papers) 
 * 02/2011: SPIE Medical Imaging, Orlando, FL, United States
