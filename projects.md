@@ -13,9 +13,9 @@ In collaboration with [Catherine Blish](https://sites.stanford.edu/blishlab/) an
 
 A Bayesian analysis of functional Near-Infrared Spectroscopy (fNIRS) data.
 
-* Paper: submitted
+In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine
 
-In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine 
+* Paper: submitted
 
 ## Data Integration and Analysis in Neuroscience
 
