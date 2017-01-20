@@ -22,6 +22,7 @@ Inria: French Institute for Research in Computer Science and Automation
 
 ## Grants and Awards
 
+* 2017: EPFL-Stanford Exchange Program Fellowship (funded by Firmenich)
 * 2016: ISBA New Researchers Travel Award, Sardinia, Italy (gratefully declined)
 * 2015: Travel award for 10th Conference on Bayesian Nonparametrics, Raleigh, NC, United States
 * 2015: Swiss NSF Fellowship for Advanced Researchers (one year, topic: Uncertainty in Computational Anatomy)

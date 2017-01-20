@@ -3,6 +3,20 @@ layout: page
 title: Research Projects
 ---
 
+## Computational Immunology
+
+Statistical consulting and methods developement for several projects in immunology using RNA-seq, microarrays, and CyTOF data.
+
+In collaboration with [Catherine Blish](https://sites.stanford.edu/blishlab/) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine
+
+## Bayesian Functional Brain Connectivity
+
+A Bayesian analysis of functional Near-Infrared Spectroscopy (fNIRS) data.
+
+* Paper: submitted
+
+In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine 
+
 ## Data Integration and Analysis in Neuroscience
 
 In this project, we combine heterogeneous brain data (structural and diffusion images with cognitive tests) to explain how neuroanatomical differences are associated with cognition in girls with Turner syndrome. 
