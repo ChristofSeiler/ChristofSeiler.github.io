@@ -7,7 +7,7 @@ title: Research Projects
 
 Statistical consulting and methods developement for several projects in immunology using RNA-seq, microarrays, and CyTOF data.
 
-In collaboration with [Catherine Blish](https://sites.stanford.edu/blishlab/) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine
+In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine
 
 ## Bayesian Functional Brain Connectivity
 
