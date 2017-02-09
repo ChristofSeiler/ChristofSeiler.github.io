@@ -43,7 +43,7 @@ R. Blanc, **C. Seiler**, G. Sz&eacute;kely, L. Nolte, and M. Reyes <br>
 Medical Image Analysis, Volume 16, Issue 6, August 2012, Pages 1156&ndash;1166 <br>
 [pdf](http://www-sop.inria.fr/asclepios/Publications/Christof.Seiler/BlancSeilerMedIA2012.pdf), [DOI](http://dx.doi.org/10.1016/j.media.2012.04.004)
 
-## Peer-Reviewed Book Chapter
+## Peer-Reviewed Book Chapters
 
 1. **Bayesian Statistics in Computational Anatomy** <br>
 **C. Seiler** <br>
