@@ -45,7 +45,11 @@ Medical Image Analysis, Volume 16, Issue 6, August 2012, Pages 1156&ndash;1166 <
 
 ## Peer-Reviewed Book Chapter
 
-1. **Hierarchical Markov Random Fields Applied to Model Soft Tissue Deformations on Graphics Hardware** <br>
+1. **Bayesian Statistics in Computational Anatomy** <br>
+**C. Seiler** <br>
+Statistical Shape and Deformation Analysis: Methods, Implementations & Applications (G. Zheng, S. Li, and G. Sz&eacute;kely, eds.), Forthcoming 2017
+
+2. **Hierarchical Markov Random Fields Applied to Model Soft Tissue Deformations on Graphics Hardware** <br>
 **C. Seiler**, P. Büchler, L.-P. Nolte, R. Paulsen, and M. Reyes <br>
 Recent Advances in the 3D Physiological Human (N. Magnenat-Thalmann, J.J. Zhang, and D.D. Feng, eds.), Chapter 9, Springer London, July 2009, Pages 133&ndash;148 <br>
 [pdf](https://christofseiler.github.io/PaperHMRFDeformationGPU.pdf), [DOI](http://dx.doi.org/10.1007/978-1-84882-565-9_9)
