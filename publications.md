@@ -7,7 +7,7 @@ title: Publications
 
 ## Submitted Journal Articles and Book Chapters
 
-Several journal articles and one book chapter are currenlty under review.
+Two journal articles are currenlty under review.
 
 ## Peer-Reviewed Journal Articles
 
