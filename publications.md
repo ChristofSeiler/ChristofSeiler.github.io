@@ -5,7 +5,7 @@ title: Publications
 
 (most of these papers are on [ResearchGate](https://www.researchgate.net/profile/Christof_Seiler/publications/) and some on [PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=christof%20seiler))
 
-## Submitted Journal Articles and Book Chapters
+## Submitted Journal Articles
 
 Two journal articles are currenlty under review.
 
