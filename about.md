@@ -14,6 +14,7 @@ Inria: French Institute for Research in Computer Science and Automation
 
 ## Positions
 
+* 2017: EPFL-Stanford Exchange Fellow hosted by (Dimitri Van De Ville)[http://miplab.epfl.ch/index.php/people/vandeville] (up to three months)
 * 2010: Visiting Graduate Fellow, Statistical and Applied Mathematical Sciences Institute, NC, United States (4 months)
 * 2006: Software Engineer, ISS AG, Integrated Scientific Services, Biel, Switzerland (1.5 years, part time 40%)
 * 2006: Software Engineer, Institute for Evaluative Research in Medicine, University of Bern (11 months, part time 40%)
