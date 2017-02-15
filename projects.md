@@ -9,6 +9,9 @@ Statistical consulting and methods developement for several projects in immunolo
 
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine
 
+* Paper: in preparation
+* Software: R package in preparation
+
 ## Bayesian Functional Brain Connectivity
 
 A Bayesian analysis of functional Near-Infrared Spectroscopy (fNIRS) data.
@@ -16,6 +19,7 @@ A Bayesian analysis of functional Near-Infrared Spectroscopy (fNIRS) data.
 In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine
 
 * Paper: submitted
+* Software: R Markdown will be available as soon as paper is accepted
 
 ## Data Integration and Analysis in Neuroscience
 
@@ -24,6 +28,7 @@ In this project, we combine heterogeneous brain data (structural and diffusion i
 In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine 
 
 * Paper: submitted
+* Software: R Markdown will be available as soon as paper is accepted
 
 ## Markov Chain Monte Carlo in High Dimensions
 
