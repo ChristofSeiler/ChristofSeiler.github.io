@@ -7,7 +7,11 @@ title: Publications
 
 ## Submitted Journal Articles
 
-Two journal articles are currenlty under review.
+1. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
+S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
+[arXiv](http://arxiv.org/abs/1407.1114)
+
+Additionally, two neuroscience articles are currenlty under review.
 
 ## Peer-Reviewed Journal Articles
 
@@ -60,7 +64,7 @@ Recent Advances in the 3D Physiological Human (N. Magnenat-Thalmann, J.J. Zhang,
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
 NIPS, December, 2014, Montreal, Canada <br>
 (Acceptance rate: 414 of 1678 papers = 25%) <br>
-[pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf), [poster](https://christofseiler.github.io/NIPS-Poster.pdf), Long version (authors are ordered alphabetically): [arXiv](http://arxiv.org/abs/1407.1114) <br>
+[pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf), [poster](https://christofseiler.github.io/NIPS-Poster.pdf)
 
 2. **Spatio-Temporal Dimension Reduction of Cardiac Motion for Group-Wise Analysis and Statistical Testing** <br>
 K. McLeod, **C. Seiler**, M. Sermesant, and X. Pennec <br>
