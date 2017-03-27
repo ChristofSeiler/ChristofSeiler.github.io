@@ -18,13 +18,13 @@ Additionally, two neuroscience articles are currenlty under review.
 1. **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, M. Reyes, and P. B&uuml;chler <br>
 Medical Engineering and Physics, Volume 36, Issue 12, December 2014, Pages 1626&ndash;1635 <br>
-[DOI](http://dx.doi.org/10.1016/j.medengphy.2014.09.006)
+[pdf](https://www.researchgate.net/profile/Philippe_Buechler/publication/266380792_Image-based_vs_mesh-based_statistical_appearance_models_of_the_human_femur_Implications_for_finite_element_simulations/links/55019de00cf24cee39f80ee2/Image-based-vs-mesh-based-statistical-appearance-models-of-the-human-femur-Implications-for-finite-element-simulations.pdf), [DOI](http://dx.doi.org/10.1016/j.medengphy.2014.09.006)
 
 2. **Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation** <br>
 **C. Seiler**, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
 Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, September 2014, Pages 737&ndash;746 <br> 
 (2011 Impact Factor: 3.278) <br>
-[DOI](http://dx.doi.org/10.1002/term.1575)
+[pdf](https://www.researchgate.net/profile/Benjamin_Gantenbein/publication/229427399_Time-Lapse_Microscopy_and_Classification_of_2D_Human_Mesenchymal_Stem_Cells_Based_on_Cell_Shape_Picks_Up_Myogenic_from_Osteogenic_and_Adipogenic_Differentiation/links/09e41507ea44c26fb5000000/Time-Lapse-Microscopy-and-Classification-of-2D-Human-Mesenchymal-Stem-Cells-Based-on-Cell-Shape-Picks-Up-Myogenic-from-Osteogenic-and-Adipogenic-Differentiation.pdf), [DOI](http://dx.doi.org/10.1002/term.1575)
 
 3. **Discussion of "Geodesic Monte Carlo on Embedded Manifolds"** <br>
 P. Diaconis, **C. Seiler**, and S. Holmes <br>
@@ -34,7 +34,7 @@ Scandinavian Journal of Statistics, Volume 41, Issue 1, March 2014, Pages 3&ndas
 4. **Validity of an Automatic Measure Protocol in Distal Femur for Allograft Selection from a Three-Dimensional Virtual Bone Bank System** <br>
 L. Ritacco, **C. Seiler**, G. Farfalli, L. Nolte, M. Reyes, D. Muscolo, and L. Tinao <br>
 Cell and Tissue Banking, Volume 14, Issue 2, June 2013, Pages 213&ndash;220 <br>
-[DOI](http://dx.doi.org/10.1007/s10561-012-9307-3)
+[pdf](http://www-sop.inria.fr/asclepios/Publications/Christof.Seiler/RitaccoSeilerCTB2012.pdf), [DOI](http://dx.doi.org/10.1007/s10561-012-9307-3)
 
 5. **Capturing the Multiscale Anatomical Shape Variability with Polyaffine Transformation Trees** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
@@ -93,7 +93,7 @@ MICCAI, Nice, France, LNCS, Volume 7511, Part II, October 2012, Pages 130&ndash;
 H. Bou-Sleiman, **C. Seiler**, T. Iizuka, L. Nolte, and M. Reyes <br>
 MICCAI, Nice, France, LNCS, Volume 7510, Part I, October 2012, Pages 66&ndash;73 <br>
 (Acceptance rate: 248 of 779 papers = 32%)	<br>
-[DOI](http://dx.doi.org/10.1007/978-3-642-33415-3_9)
+[pdf](http://www.mauricioreyes.me/Publications/BouMiccai2012.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-33415-3_9)
 
 7. **A Near-Incompressible Poly-Affine Motion Model for Cardiac Function Analysis** <br>
 K. McLeod, **C. Seiler**, A. Prakosa, M. Sermesant, and X. Pennec <br>
