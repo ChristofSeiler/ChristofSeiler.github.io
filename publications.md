@@ -51,7 +51,7 @@ Medical Image Analysis, Volume 16, Issue 6, August 2012, Pages 1156&ndash;1166 <
 
 1. **Bayesian Statistics in Computational Anatomy** <br>
 **C. Seiler** <br>
-Statistical Shape and Deformation Analysis: Methods, Implementations & Applications (G. Zheng, S. Li, and G. Sz&eacute;kely, eds.), Forthcoming 2017
+Statistical Shape and Deformation Analysis: Methods, Implementations & Applications (G. Zheng, S. Li, and G. Sz&eacute;kely, eds.), Forthcoming 2017 <br>
 [pdf](https://christofseiler.github.io/Preprint_Bayesian_CA.pdf), [DOI](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4)
 
 2. **Hierarchical Markov Random Fields Applied to Model Soft Tissue Deformations on Graphics Hardware** <br>
