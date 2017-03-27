@@ -109,7 +109,7 @@ Student Travel Award and Oral Podium Presentation <br>
 (acceptance rate: 34 of 819 papers = 4.2%)	<br>
 [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerOBBTreeMultiscalePolyLogDemonsMICCAI2011.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-23629-7_77)
 
-9. **Mesh-based vs.~Image-based Statistical Model of Appearance of the Human Femur: A Preliminary Comparison Study for the Creation of Finite Element Meshes** <br>
+9. **Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: A Preliminary Comparison Study for the Creation of Finite Element Meshes** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, P. B&uuml;chler, and M. Reyes <br>
 MeshMed Workshop, MICCAI, Toronto, Canada, September 2011 <br>
 [pdf](http://www2.imm.dtu.dk/projects/MeshMed/2011/MeshMed2011Proceedings.pdf)
