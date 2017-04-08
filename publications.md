@@ -5,13 +5,11 @@ title: Publications
 
 (most of these papers are on [ResearchGate](https://www.researchgate.net/profile/Christof_Seiler/publications/) and some on [PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=christof%20seiler))
 
-## Submitted Journal Articles
+## Preprints
 
 1. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
 S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 [arXiv](http://arxiv.org/abs/1407.1114)
-
-Additionally, two neuroscience articles are currenlty under review.
 
 ## Peer-Reviewed Journal Articles
 
@@ -51,7 +49,7 @@ Medical Image Analysis, Volume 16, Issue 6, August 2012, Pages 1156&ndash;1166 <
 
 1. **Bayesian Statistics in Computational Anatomy** <br>
 **C. Seiler** <br>
-Statistical Shape and Deformation Analysis: Methods, Implementations & Applications (G. Zheng, S. Li, and G. Sz&eacute;kely, eds.), Forthcoming 2017 <br>
+Statistical Shape and Deformation Analysis: Methods, Implementations & Applications (G. Zheng, S. Li, and G. Sz&eacute;kely, eds.), Chapter 8, Academic Press, March 2017, Pages 193&ndash;214 <br>
 [pdf](https://christofseiler.github.io/Preprint_Bayesian_CA.pdf), [DOI](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4)
 
 2. **Hierarchical Markov Random Fields Applied to Model Soft Tissue Deformations on Graphics Hardware** <br>
