@@ -40,7 +40,7 @@ Inria: French Institute for Research in Computer Science and Automation
 * 04/2017: Division of Immunology and Allergy, Lausanne University Hospital (CHUV), Lausanne, Switzerland
 * 04/2017: Institute for Immunity, Transplantation and Infection (ITI), CyTOF Working Group, Stanford, United States
 * 03/2017: MIP:Lab, EPFL and University of Geneva, Campus Biotech, Geneva, Switzerland
-* 03/2017: Bioinformatics Core Facility, SIB Swiss Institute of Bioinformatics, Lausanne
+* 03/2017: Bioinformatics Core Facility, SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland
 * 06/2015: Conference on Bayesian Nonparametrics, Raleigh, NC, United States
 * 03/2015: Center for Imaging Science, Johns Hopkins, Baltimore, MD, United States 
 * 10/2014: Workshop in Biostatistics, Stanford School of Medicine, CA, United States
