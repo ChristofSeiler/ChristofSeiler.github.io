@@ -37,11 +37,11 @@ Inria: French Institute for Research in Computer Science and Automation
 ## Invited and Contributed Talks
 
 * 05/2017: Workshop on [Statistical Challenges in Single-Cell Biology](https://www.bsse.ethz.ch/cbg/cbg-news/ascona-2017.html), Ascona, Switzerland
-* 04/2017: Pantaleo Lab, Lausanne University Hospital (CHUV), Lausanne, Switzerland
-* 04/2017: Institute for Immunity, Transplantation and Infection (ITI) CyTOF Working Group, Stanford, United States
-* 03/2017: MIP:Lab, EPFL and University of Geneva, Geneva, Switzerland
+* 04/2017: Division of Immunology and Allergy, Lausanne University Hospital (CHUV), Lausanne, Switzerland
+* 04/2017: Institute for Immunity, Transplantation and Infection (ITI), CyTOF Working Group, Stanford, United States
+* 03/2017: MIP:Lab, EPFL and University of Geneva, Campus Biotech, Geneva, Switzerland
 * 03/2017: Bioinformatics Core Facility, SIB Swiss Institute of Bioinformatics, Lausanne
-* 06/2015: 10th Conference on Bayesian Nonparametrics, Raleigh, NC, United States
+* 06/2015: Conference on Bayesian Nonparametrics, Raleigh, NC, United States
 * 03/2015: Center for Imaging Science, Johns Hopkins, Baltimore, MD, United States 
 * 10/2014: Workshop in Biostatistics, Stanford School of Medicine, CA, United States
 * 08/2014: JSM (the Joint Statistical Meetings), Boston, MA, United States
