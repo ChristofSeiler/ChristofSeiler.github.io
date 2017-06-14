@@ -3,18 +3,18 @@ layout: page
 title: Research Projects
 ---
 
-## Computational Immunology
+## Immunology
 
 Statistical consulting and methods developement for several projects in immunology using RNA-seq, microarrays, and CyTOF data.
 
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine
 
-* Paper: in preparation
+* Paper: [bioRxiv](https://doi.org/10.1101/148528)
 * Software: R package in preparation
 
 ## Bayesian Functional Brain Connectivity
 
-A Bayesian analysis of functional Near-Infrared Spectroscopy (fNIRS) data.
+A Bayesian analysis of functional MRI and functional Near-Infrared Spectroscopy data.
 
 In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine
 
