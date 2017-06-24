@@ -7,11 +7,15 @@ title: Publications
 
 ## Preprints
 
-1. **Strain-Specific Human Natural Killer Cell Recognition of Influenza A Virus** <br>
+1. Multivariate Heteroscedasticity Models for Functional Brain Connectivity <br>
+**C. Seiler** and S. Holmes <br>
+[bioRxiv](http://biorxiv.org/content/early/2017/06/23/154468)
+
+2. **Strain-Specific Human Natural Killer Cell Recognition of Influenza A Virus** <br>
 L. M Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
 [bioRxiv](https://doi.org/10.1101/148528)
 
-2. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
+3. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
 S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 [arXiv](http://arxiv.org/abs/1407.1114)
 
