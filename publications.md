@@ -9,7 +9,7 @@ title: Publications
 
 1. **Multivariate Heteroscedasticity Models for Functional Brain Connectivity** <br>
 **C. Seiler** and S. Holmes <br>
-[bioRxiv](http://biorxiv.org/content/early/2017/06/23/154468)
+[bioRxiv](https://doi.org/10.1101/154468)
 
 2. **Strain-Specific Human Natural Killer Cell Recognition of Influenza A Virus** <br>
 L. M Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
