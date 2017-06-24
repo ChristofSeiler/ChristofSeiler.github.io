@@ -7,7 +7,7 @@ title: Publications
 
 ## Preprints
 
-1. Multivariate Heteroscedasticity Models for Functional Brain Connectivity <br>
+1. **Multivariate Heteroscedasticity Models for Functional Brain Connectivity** <br>
 **C. Seiler** and S. Holmes <br>
 [bioRxiv](http://biorxiv.org/content/early/2017/06/23/154468)
 
