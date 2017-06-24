@@ -12,7 +12,7 @@ In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/cather
 * Paper: [bioRxiv](https://doi.org/10.1101/148528)
 * Software: R package in preparation
 
-## Multivariate Heteroscedasticity Models for Functional Brain Connectivity
+## Functional Brain Connectivity
 
 A Bayesian analysis of functional MRI data.
 
@@ -36,6 +36,11 @@ In this project, we estimate running times of Hamiltonian Monte Carlo in high di
 
 * Paper: [arXiv](http://arxiv.org/abs/1407.1114), [NIPS](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf)
 * Poster: [pdf](https://christofseiler.github.io/NIPS-Poster.pdf)
+
+## Bayesian Image Registration
+
+In this project, we are trying to quantify uncertainty in medical image registration algorithms.
+
 * Software: [github](https://christofseiler.github.io/BayesianImageRegistration)
 
 ## Clustering of Deformation Fields in Compuational Anatomy
