@@ -17,9 +17,9 @@ In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/cather
 A Bayesian analysis of functional MRI data.
 
 * Paper: [bioRxiv](http://biorxiv.org/content/early/2017/06/23/154468)
-* Supplementary material: [Power Analysis](https://christofseiler.github.io/CovRegFC_HCP/Power.html) [Low-Dimensional Model Analysis](https://christofseiler.github.io/CovRegFC_HCP/Low_Dimensional.html) [Full Model Analysis](https://christofseiler.github.io/CovRegFC_HCP/Full.html)
-* R package: [https://github.com/ChristofSeiler/CovRegFC](https://github.com/ChristofSeiler/CovRegFC) 
-* Data analysis workflow: [https://github.com/ChristofSeiler/CovRegFC_HCP](https://github.com/ChristofSeiler/CovRegFC_HCP)
+* Supplementary material: [Power Analysis](https://christofseiler.github.io/CovRegFC_HCP/Power.html), [Low-Dimensional Model Analysis](https://christofseiler.github.io/CovRegFC_HCP/Low_Dimensional.html), and [Full Model Analysis](https://christofseiler.github.io/CovRegFC_HCP/Full.html)
+* R package: [github](https://github.com/ChristofSeiler/CovRegFC) 
+* Data analysis workflow: [github](https://github.com/ChristofSeiler/CovRegFC_HCP)
 
 ## Data Integration and Analysis in Neuroscience
 
