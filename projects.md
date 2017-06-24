@@ -10,7 +10,7 @@ Statistical consulting and methods developement for several projects in immunolo
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine
 
 * Paper: [bioRxiv](https://doi.org/10.1101/148528)
-* Software: R package in preparation
+* R package: in preparation
 
 ## Functional Brain Connectivity
 
@@ -39,7 +39,7 @@ In this project, we estimate running times of Hamiltonian Monte Carlo in high di
 
 ## Bayesian Image Registration
 
-In this project, we are trying to quantify uncertainty in medical image registration algorithms.
+In this project, we quantify uncertainty in medical image registration algorithms.
 
 * Software: [github](https://christofseiler.github.io/BayesianImageRegistration)
 
