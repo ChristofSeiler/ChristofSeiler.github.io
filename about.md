@@ -21,6 +21,13 @@ Inria: French Institute for Research in Computer Science and Automation
 * 2005: Consultant Software Engineering, Oridus Inc., Biel (1 year)
 * 2003: Intern Software Engineering, Oridus Inc., Fremont, CA, United States (3 months)
 
+## Teaching
+
+* Summer 2017: Stats 366 - Bios 221, Modern Statistics for Modern Biology, Stanford University, Teaching Assistant (TA), responsible for labs, [course website](http://web.stanford.edu/class/bios221/index.html) 
+* Spring 2016: Stats 205, Introduction to Nonparametric Statistics, Stanford University, full course as a sole instructor, [course website](http://christofseiler.github.io/stats205/)
+* Fall 2009: Medical Image Analysis (master course), ETHZ and University of Bern, invited guest lecture on computational anatomy
+* Fall 2008: Medical Image Analysis (master course), ETHZ, invited guest lecture on shape representation
+
 ## Grants and Awards
 
 * 2017: [EPFL-Stanford Exchange Program Fellowship](https://neuroscience.stanford.edu/christof-seiler) (funded by Firmenich)
