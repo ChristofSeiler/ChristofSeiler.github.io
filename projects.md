@@ -41,6 +41,7 @@ We estimate running times of Hamiltonian Monte Carlo in high dimensions using Ri
 
 We quantify uncertainty in medical image registration algorithms.
 
+* Book chapter: [pdf](https://christofseiler.github.io/Preprint_Bayesian_CA.pdf), [DOI](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4)
 * Software: [github](https://christofseiler.github.io/BayesianImageRegistration)
 
 ## Clustering of Deformation Fields in Compuational Anatomy
