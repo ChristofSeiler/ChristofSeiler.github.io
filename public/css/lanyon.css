@@ -38,6 +38,13 @@
 html,
 body {
   overflow-x: hidden;
+  font-size: 12px;
+  line-height: 1.5;
+}
+@media (min-width: 38em) {
+  html {
+    font-size: 14px;
+  }
 }
 
 html {
