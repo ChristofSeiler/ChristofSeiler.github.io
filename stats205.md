@@ -108,36 +108,36 @@ Example of an excellent final project on using kernel density estimation to pred
 
 ## Slides
 
-No         | Topic(s)                                                                                                                           | Background Material
------------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------
-Lecture 1  | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)                                                                  | **KM** Chapter 1
-Lecture 2  | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                                                     | **KM** Chapters 2.1, 2.2, and 2.3
-Lecture 3  | [Robustness](Lecture3/Robustness.html)                                                                                             | **KM** Chapter 2.5
-Lecture 4  | [Bootstrap (Part 1)](Lecture4/BootstrapPart1.html) and [Bootstrap (Example)](Lecture4/BootstrapExample.html)                       | **KM** Chapter 2.4
-Lecture 5  | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                                                                                 | **KM** Chapter 2.4
-Lecture 6  | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/ProportionProblemChiSquared.html)                                 | **KM** Chapters 2.6 and 2.7
-Lecture 7  | [\\( \chi^2 \\) Tests (Part 2)](Lecture7/ChiSquaredPart2.html)                                                                     | **KM** Chapter 2.7
-Lecture 8  | [Two-Sample Problems (Part 1)](Lecture8/TwoSampleProblems.html)                                                                    | **KM** Chapters 3.1 and 3.2
-Lecture 9  | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html)                                                               | **KM** Chapters 3.2 and 3.4
-Lecture 10 | [Permutation Tests (Part 1)](Lecture10/PermutationTest.html)                                                                       | **G** Chapter 1
-Lecture 11 | [Permutation Tests (Part 2)](Lecture11/PermutationTestPart2.html) and [Neuroimaging (Example)](Lecture11/Neuroimaging.html)        | **WRR** and **NH**
-Lecture 12 | [Rank-Based Linear Regression](Lecture12/Regression.html)                                                                          | **KM** Chapters 4.1, 4.2, 4.3, 4.4, and 4.8
-Lecture 13 | [Nonlinear Regression (Part 1)](Lecture13/NonlinearRegression.pdf)                                                                 | **W** Chapter 4
-Lecture 14 | [Nonlinear Regression (Part 2)](Lecture14/NonlinearRegressionPart2.pdf)                                                            | **W** Chapter 5
-Lecture 15 | [Nonlinear Regression (Part 3)](Lecture15/NonlinearRegressionPart3.pdf)                                                            | **W** Chapter 5
-Lecture 16 | [Bayesian Nonparametrics (Part 1)](Lecture16/BayesianNonparametrics.pdf)                                                           | **W16**
-Lecture 17 | [Bayesian Nonparametrics (Part 2)](Lecture17/BayesianNonparametricsPart2.pdf) and [BNP in Practice](Lecture17/BNPinPractice.pdf)   | **W16**
-Lecture 18 | [ANOVA](Lecture18/ANOVA.pdf)                                                                                                       | **KM** Chapters 5.1, 5.2, 8.1, 8.2, **HMT**, and **G16**
-Lecture 19 | [Survival Analysis (Part 1)](Lecture19/Life.pdf)                                                                                   | **KM** Chapters 6.1 and 6.2
-Lecture 20 | [Survival Analysis (Part 2)](Lecture20/LifePart2.pdf) and [Midterm Proposal Discussion](Lecture20/MidtermProposals.pdf)            | **KM** Chapters 6.1 and 6.2
-Lecture 21 | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)                                                                             | **HWC** Chapter 15 and **NWC**
-Lecture 22 | [Wavelets](Lecture22/Wavelets.pdf)                                                                                                 | **HWC** Chapter 13 and **W** Chapter 9
-Lecture 23 | [Graph Limits or Graphons](Lecture23/GraphLimits.pdf)                                                                              | **Lo** Part 1 and **Ch**
-Lecture 24 | [Inference for Data Visualization](Lecture24/Visualization.pdf)                                                                    | **D83**, **BHLLSW**, and **JWH**
-Lecture 25 | [Multivariate Nonparametric Tests](Lecture25/MultivariateTests.pdf)                                                                | **Tu**, **Ho**, **RH**, and **FR**
-Lecture 26 | [Bootstrap (Part 3)](Lecture26/Pivoting.pdf)                                                                                       | **ET** Chapters 12 and **Ha**, and **Lo**
-Lecture 27 | [Bootstrap (Part 4)](Lecture27/BiasCorrection.pdf)                                                                                 | **ET** Chapters 14 and **Ha**
-Lecture 28 | [Wrapup](Lecture28/Wrapup.pdf)                                                                                                     | 
+Lecture | Topic(s)                                                                                                                           | Background Material
+--------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------
+ 1      | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)                                                                  | **KM** Chapter 1
+ 2      | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                                                     | **KM** Chapters 2.1, 2.2, and 2.3
+ 3      | [Robustness](Lecture3/Robustness.html)                                                                                             | **KM** Chapter 2.5
+ 4      | [Bootstrap (Part 1)](Lecture4/BootstrapPart1.html) and [Bootstrap (Example)](Lecture4/BootstrapExample.html)                       | **KM** Chapter 2.4
+ 5      | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                                                                                 | **KM** Chapter 2.4
+ 6      | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/ProportionProblemChiSquared.html)                                 | **KM** Chapters 2.6 and 2.7
+ 7      | [\\( \chi^2 \\) Tests (Part 2)](Lecture7/ChiSquaredPart2.html)                                                                     | **KM** Chapter 2.7
+ 8      | [Two-Sample Problems (Part 1)](Lecture8/TwoSampleProblems.html)                                                                    | **KM** Chapters 3.1 and 3.2
+ 9      | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html)                                                               | **KM** Chapters 3.2 and 3.4
+10      | [Permutation Tests (Part 1)](Lecture10/PermutationTest.html)                                                                       | **G** Chapter 1
+11      | [Permutation Tests (Part 2)](Lecture11/PermutationTestPart2.html) and [Neuroimaging (Example)](Lecture11/Neuroimaging.html)        | **WRR** and **NH**
+12      | [Rank-Based Linear Regression](Lecture12/Regression.html)                                                                          | **KM** Chapters 4.1, 4.2, 4.3, 4.4, and 4.8
+13      | [Nonlinear Regression (Part 1)](Lecture13/NonlinearRegression.pdf)                                                                 | **W** Chapter 4
+14      | [Nonlinear Regression (Part 2)](Lecture14/NonlinearRegressionPart2.pdf)                                                            | **W** Chapter 5
+15      | [Nonlinear Regression (Part 3)](Lecture15/NonlinearRegressionPart3.pdf)                                                            | **W** Chapter 5
+16      | [Bayesian Nonparametrics (Part 1)](Lecture16/BayesianNonparametrics.pdf)                                                           | **W16**
+17      | [Bayesian Nonparametrics (Part 2)](Lecture17/BayesianNonparametricsPart2.pdf) and [BNP in Practice](Lecture17/BNPinPractice.pdf)   | **W16**
+18      | [ANOVA](Lecture18/ANOVA.pdf)                                                                                                       | **KM** Chapters 5.1, 5.2, 8.1, 8.2, **HMT**, and **G16**
+19      | [Survival Analysis (Part 1)](Lecture19/Life.pdf)                                                                                   | **KM** Chapters 6.1 and 6.2
+20      | [Survival Analysis (Part 2)](Lecture20/LifePart2.pdf) and [Midterm Proposal Discussion](Lecture20/MidtermProposals.pdf)            | **KM** Chapters 6.1 and 6.2
+21      | [Ranked Set Sampling](Lecture21/RankedSetSampling.pdf)                                                                             | **HWC** Chapter 15 and **NWC**
+22      | [Wavelets](Lecture22/Wavelets.pdf)                                                                                                 | **HWC** Chapter 13 and **W** Chapter 9
+23      | [Graph Limits or Graphons](Lecture23/GraphLimits.pdf)                                                                              | **Lo** Part 1 and **Ch**
+24      | [Inference for Data Visualization](Lecture24/Visualization.pdf)                                                                    | **D83**, **BHLLSW**, and **JWH**
+25      | [Multivariate Nonparametric Tests](Lecture25/MultivariateTests.pdf)                                                                | **Tu**, **Ho**, **RH**, and **FR**
+26      | [Bootstrap (Part 3)](Lecture26/Pivoting.pdf)                                                                                       | **ET** Chapters 12 and **Ha**, and **Lo**
+27      | [Bootstrap (Part 4)](Lecture27/BiasCorrection.pdf)                                                                                 | **ET** Chapters 14 and **Ha**
+28      | [Wrapup](Lecture28/Wrapup.pdf)                                                                                                     | 
 
 ## Homework
 
