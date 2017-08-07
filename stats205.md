@@ -110,15 +110,15 @@ Example of an excellent final project on using kernel density estimation to pred
 
 Lecture | Topic(s)                                                                                                                           | Background Material
 --------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------
- 1      | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)                                                                  | **KM** Chapter 1
- 2      | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                                                     | **KM** Chapters 2.1, 2.2, and 2.3
- 3      | [Robustness](Lecture3/Robustness.html)                                                                                             | **KM** Chapter 2.5
- 4      | [Bootstrap (Part 1)](Lecture4/BootstrapPart1.html) and [Bootstrap (Example)](Lecture4/BootstrapExample.html)                       | **KM** Chapter 2.4
- 5      | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                                                                                 | **KM** Chapter 2.4
- 6      | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/ProportionProblemChiSquared.html)                                 | **KM** Chapters 2.6 and 2.7
- 7      | [\\( \chi^2 \\) Tests (Part 2)](Lecture7/ChiSquaredPart2.html)                                                                     | **KM** Chapter 2.7
- 8      | [Two-Sample Problems (Part 1)](Lecture8/TwoSampleProblems.html)                                                                    | **KM** Chapters 3.1 and 3.2
- 9      | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html)                                                               | **KM** Chapters 3.2 and 3.4
+1       | [Logistics and Introduction](Lecture1/LogisticsIntroduction.html)                                                                  | **KM** Chapter 1
+2       | [Sign Test and Signed-Rank Wilcoxon](Lecture2/SignTestSignedRankWilcoxon.html)                                                     | **KM** Chapters 2.1, 2.2, and 2.3
+3       | [Robustness](Lecture3/Robustness.html)                                                                                             | **KM** Chapter 2.5
+4       | [Bootstrap (Part 1)](Lecture4/BootstrapPart1.html) and [Bootstrap (Example)](Lecture4/BootstrapExample.html)                       | **KM** Chapter 2.4
+5       | [Bootstrap (Part 2)](Lecture5/BootstrapPart2.html)                                                                                 | **KM** Chapter 2.4
+6       | [Proportion Problems and \\( \chi^2 \\) Tests (Part 1)](Lecture6/ProportionProblemChiSquared.html)                                 | **KM** Chapters 2.6 and 2.7
+7       | [\\( \chi^2 \\) Tests (Part 2)](Lecture7/ChiSquaredPart2.html)                                                                     | **KM** Chapter 2.7
+8       | [Two-Sample Problems (Part 1)](Lecture8/TwoSampleProblems.html)                                                                    | **KM** Chapters 3.1 and 3.2
+9       | [Two-Sample Problems (Part 2)](Lecture9/TwoSampleProblemsPart2.html)                                                               | **KM** Chapters 3.2 and 3.4
 10      | [Permutation Tests (Part 1)](Lecture10/PermutationTest.html)                                                                       | **G** Chapter 1
 11      | [Permutation Tests (Part 2)](Lecture11/PermutationTestPart2.html) and [Neuroimaging (Example)](Lecture11/Neuroimaging.html)        | **WRR** and **NH**
 12      | [Rank-Based Linear Regression](Lecture12/Regression.html)                                                                          | **KM** Chapters 4.1, 4.2, 4.3, 4.4, and 4.8
