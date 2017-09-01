@@ -10,7 +10,7 @@ Methods developement and statistical consulting for several projects in immunolo
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine
 
 * Paper: [bioRxiv](https://doi.org/10.1101/148528)
-* R package: in preparation
+* R package: in revision
 
 ## Functional Brain Connectivity
 
@@ -27,8 +27,8 @@ We combine heterogeneous brain data (structural and diffusion images with cognit
 
 In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine 
 
-* Paper: submitted
-* Software: R package and R Markdown will be available as soon as paper is accepted
+* Paper: in revision
+* R package: [github](https://github.com/ChristofSeiler/braincog)
 
 ## Markov Chain Monte Carlo in High Dimensions
 
@@ -36,13 +36,14 @@ We estimate running times of Hamiltonian Monte Carlo in high dimensions using Ri
 
 * Paper: [arXiv](http://arxiv.org/abs/1407.1114), [NIPS](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf)
 * Poster: [pdf](https://christofseiler.github.io/NIPS-Poster.pdf)
+* R package: [github](https://github.com/ChristofSeiler/curvature), [vignette](https://christofseiler.github.io/vignettes/curvature.html)
 
 ## Bayesian Image Registration
 
 We quantify uncertainty in medical image registration algorithms.
 
 * Book chapter: [pdf](https://christofseiler.github.io/Preprint_Bayesian_CA.pdf), [DOI](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4)
-* Software: [github](https://christofseiler.github.io/BayesianImageRegistration)
+* Software: [github](https://github.com/ChristofSeiler/BayesianImageRegistration)
 
 ## Clustering of Deformation Fields in Compuational Anatomy
 
