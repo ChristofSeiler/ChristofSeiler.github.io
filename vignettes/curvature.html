@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="author" content="Christof Seiler" />
+
+<meta name="date" content="2017-08-31" />
+
+<title>Curvature Vignette</title>
+
+
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code > span.dt { color: #902000; } /* DataType */
+code > span.dv { color: #40a070; } /* DecVal */
+code > span.bn { color: #40a070; } /* BaseN */
+code > span.fl { color: #40a070; } /* Float */
+code > span.ch { color: #4070a0; } /* Char */
+code > span.st { color: #4070a0; } /* String */
+code > span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code > span.ot { color: #007020; } /* Other */
+code > span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code > span.fu { color: #06287e; } /* Function */
+code > span.er { color: #ff0000; font-weight: bold; } /* Error */
+code > span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+code > span.cn { color: #880000; } /* Constant */
+code > span.sc { color: #4070a0; } /* SpecialChar */
+code > span.vs { color: #4070a0; } /* VerbatimString */
+code > span.ss { color: #bb6688; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { color: #19177c; } /* Variable */
+code > span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code > span.op { color: #666666; } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { color: #bc7a00; } /* Preprocessor */
+code > span.at { color: #7d9029; } /* Attribute */
+code > span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code > span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code > span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+</style>
+
+
+
+<link href="data:text/css;charset=utf-8,body%20%7B%0Abackground%2Dcolor%3A%20%23fff%3B%0Amargin%3A%201em%20auto%3B%0Amax%2Dwidth%3A%20700px%3B%0Aoverflow%3A%20visible%3B%0Apadding%2Dleft%3A%202em%3B%0Apadding%2Dright%3A%202em%3B%0Afont%2Dfamily%3A%20%22Open%20Sans%22%2C%20%22Helvetica%20Neue%22%2C%20Helvetica%2C%20Arial%2C%20sans%2Dserif%3B%0Afont%2Dsize%3A%2014px%3B%0Aline%2Dheight%3A%201%2E35%3B%0A%7D%0A%23header%20%7B%0Atext%2Dalign%3A%20center%3B%0A%7D%0A%23TOC%20%7B%0Aclear%3A%20both%3B%0Amargin%3A%200%200%2010px%2010px%3B%0Apadding%3A%204px%3B%0Awidth%3A%20400px%3B%0Aborder%3A%201px%20solid%20%23CCCCCC%3B%0Aborder%2Dradius%3A%205px%3B%0Abackground%2Dcolor%3A%20%23f6f6f6%3B%0Afont%2Dsize%3A%2013px%3B%0Aline%2Dheight%3A%201%2E3%3B%0A%7D%0A%23TOC%20%2Etoctitle%20%7B%0Afont%2Dweight%3A%20bold%3B%0Afont%2Dsize%3A%2015px%3B%0Amargin%2Dleft%3A%205px%3B%0A%7D%0A%23TOC%20ul%20%7B%0Apadding%2Dleft%3A%2040px%3B%0Amargin%2Dleft%3A%20%2D1%2E5em%3B%0Amargin%2Dtop%3A%205px%3B%0Amargin%2Dbottom%3A%205px%3B%0A%7D%0A%23TOC%20ul%20ul%20%7B%0Amargin%2Dleft%3A%20%2D2em%3B%0A%7D%0A%23TOC%20li%20%7B%0Aline%2Dheight%3A%2016px%3B%0A%7D%0Atable%20%7B%0Amargin%3A%201em%20auto%3B%0Aborder%2Dwidth%3A%201px%3B%0Aborder%2Dcolor%3A%20%23DDDDDD%3B%0Aborder%2Dstyle%3A%20outset%3B%0Aborder%2Dcollapse%3A%20collapse%3B%0A%7D%0Atable%20th%20%7B%0Aborder%2Dwidth%3A%202px%3B%0Apadding%3A%205px%3B%0Aborder%2Dstyle%3A%20inset%3B%0A%7D%0Atable%20td%20%7B%0Aborder%2Dwidth%3A%201px%3B%0Aborder%2Dstyle%3A%20inset%3B%0Aline%2Dheight%3A%2018px%3B%0Apadding%3A%205px%205px%3B%0A%7D%0Atable%2C%20table%20th%2C%20table%20td%20%7B%0Aborder%2Dleft%2Dstyle%3A%20none%3B%0Aborder%2Dright%2Dstyle%3A%20none%3B%0A%7D%0Atable%20thead%2C%20table%20tr%2Eeven%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0A%7D%0Ap%20%7B%0Amargin%3A%200%2E5em%200%3B%0A%7D%0Ablockquote%20%7B%0Abackground%2Dcolor%3A%20%23f6f6f6%3B%0Apadding%3A%200%2E25em%200%2E75em%3B%0A%7D%0Ahr%20%7B%0Aborder%2Dstyle%3A%20solid%3B%0Aborder%3A%20none%3B%0Aborder%2Dtop%3A%201px%20solid%20%23777%3B%0Amargin%3A%2028px%200%3B%0A%7D%0Adl%20%7B%0Amargin%2Dleft%3A%200%3B%0A%7D%0Adl%20dd%20%7B%0Amargin%2Dbottom%3A%2013px%3B%0Amargin%2Dleft%3A%2013px%3B%0A%7D%0Adl%20dt%20%7B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0Aul%20%7B%0Amargin%2Dtop%3A%200%3B%0A%7D%0Aul%20li%20%7B%0Alist%2Dstyle%3A%20circle%20outside%3B%0A%7D%0Aul%20ul%20%7B%0Amargin%2Dbottom%3A%200%3B%0A%7D%0Apre%2C%20code%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0Aborder%2Dradius%3A%203px%3B%0Acolor%3A%20%23333%3B%0Awhite%2Dspace%3A%20pre%2Dwrap%3B%20%0A%7D%0Apre%20%7B%0Aborder%2Dradius%3A%203px%3B%0Amargin%3A%205px%200px%2010px%200px%3B%0Apadding%3A%2010px%3B%0A%7D%0Apre%3Anot%28%5Bclass%5D%29%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0A%7D%0Acode%20%7B%0Afont%2Dfamily%3A%20Consolas%2C%20Monaco%2C%20%27Courier%20New%27%2C%20monospace%3B%0Afont%2Dsize%3A%2085%25%3B%0A%7D%0Ap%20%3E%20code%2C%20li%20%3E%20code%20%7B%0Apadding%3A%202px%200px%3B%0A%7D%0Adiv%2Efigure%20%7B%0Atext%2Dalign%3A%20center%3B%0A%7D%0Aimg%20%7B%0Abackground%2Dcolor%3A%20%23FFFFFF%3B%0Apadding%3A%202px%3B%0Aborder%3A%201px%20solid%20%23DDDDDD%3B%0Aborder%2Dradius%3A%203px%3B%0Aborder%3A%201px%20solid%20%23CCCCCC%3B%0Amargin%3A%200%205px%3B%0A%7D%0Ah1%20%7B%0Amargin%2Dtop%3A%200%3B%0Afont%2Dsize%3A%2035px%3B%0Aline%2Dheight%3A%2040px%3B%0A%7D%0Ah2%20%7B%0Aborder%2Dbottom%3A%204px%20solid%20%23f7f7f7%3B%0Apadding%2Dtop%3A%2010px%3B%0Apadding%2Dbottom%3A%202px%3B%0Afont%2Dsize%3A%20145%25%3B%0A%7D%0Ah3%20%7B%0Aborder%2Dbottom%3A%202px%20solid%20%23f7f7f7%3B%0Apadding%2Dtop%3A%2010px%3B%0Afont%2Dsize%3A%20120%25%3B%0A%7D%0Ah4%20%7B%0Aborder%2Dbottom%3A%201px%20solid%20%23f7f7f7%3B%0Amargin%2Dleft%3A%208px%3B%0Afont%2Dsize%3A%20105%25%3B%0A%7D%0Ah5%2C%20h6%20%7B%0Aborder%2Dbottom%3A%201px%20solid%20%23ccc%3B%0Afont%2Dsize%3A%20105%25%3B%0A%7D%0Aa%20%7B%0Acolor%3A%20%230033dd%3B%0Atext%2Ddecoration%3A%20none%3B%0A%7D%0Aa%3Ahover%20%7B%0Acolor%3A%20%236666ff%3B%20%7D%0Aa%3Avisited%20%7B%0Acolor%3A%20%23800080%3B%20%7D%0Aa%3Avisited%3Ahover%20%7B%0Acolor%3A%20%23BB00BB%3B%20%7D%0Aa%5Bhref%5E%3D%22http%3A%22%5D%20%7B%0Atext%2Ddecoration%3A%20underline%3B%20%7D%0Aa%5Bhref%5E%3D%22https%3A%22%5D%20%7B%0Atext%2Ddecoration%3A%20underline%3B%20%7D%0A%0Acode%20%3E%20span%2Ekw%20%7B%20color%3A%20%23555%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%0Acode%20%3E%20span%2Edt%20%7B%20color%3A%20%23902000%3B%20%7D%20%0Acode%20%3E%20span%2Edv%20%7B%20color%3A%20%2340a070%3B%20%7D%20%0Acode%20%3E%20span%2Ebn%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Efl%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Ech%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Est%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Eco%20%7B%20color%3A%20%23888888%3B%20font%2Dstyle%3A%20italic%3B%20%7D%20%0Acode%20%3E%20span%2Eot%20%7B%20color%3A%20%23007020%3B%20%7D%20%0Acode%20%3E%20span%2Eal%20%7B%20color%3A%20%23ff0000%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%0Acode%20%3E%20span%2Efu%20%7B%20color%3A%20%23900%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%20code%20%3E%20span%2Eer%20%7B%20color%3A%20%23a61717%3B%20background%2Dcolor%3A%20%23e3d2d2%3B%20%7D%20%0A" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+
+
+
+<h1 class="title toc-ignore">Curvature Vignette</h1>
+<h4 class="author"><em>Christof Seiler</em></h4>
+<h4 class="date"><em>2017-08-31</em></h4>
+
+
+
+<p>This vignette shows how to calculate sectional curvature from an <code>rstan</code> object for the multivariate <span class="math inline">\(t\)</span> distribution with 50 degrees of freedom in 100 dimensions.</p>
+<p>We need these packages.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(<span class="st">&quot;rstan&quot;</span>)
+<span class="kw">library</span>(<span class="st">&quot;curvature&quot;</span>)</code></pre></div>
+<div id="stan-model" class="section level2">
+<h2>Stan Model</h2>
+<p>Stan code for <span class="math inline">\(t\)</span> distribution.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">model_code &lt;-<span class="st"> &quot;</span>
+<span class="st">  data {</span>
+<span class="st">    int&lt;lower=1&gt; nu;</span>
+<span class="st">    int&lt;lower=1&gt; K;</span>
+<span class="st">    vector[K] mu;</span>
+<span class="st">    cov_matrix[K] Sigma;</span>
+<span class="st">  } </span>
+<span class="st">  parameters {</span>
+<span class="st">    vector[K] y;</span>
+<span class="st">  } </span>
+<span class="st">  model {</span>
+<span class="st">    y ~ multi_student_t(nu, mu, Sigma);</span>
+<span class="st">  } </span>
+<span class="st">&quot;</span>
+model =<span class="st"> </span><span class="kw">stan_model</span>(<span class="dt">model_code =</span> model_code)</code></pre></div>
+<pre><code>## In file included from file314c33534b3d.cpp:8:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/src/stan/model/model_header.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/mat.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/core.hpp:12:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/core/gevv_vvv_vari.hpp:5:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/core/var.hpp:7:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/math/tools/config.hpp:13:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/config.hpp:39:
+## /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/config/compiler/clang.hpp:200:11: warning: 'BOOST_NO_CXX11_RVALUE_REFERENCES' macro redefined [-Wmacro-redefined]
+## #  define BOOST_NO_CXX11_RVALUE_REFERENCES
+##           ^
+## &lt;command line&gt;:6:9: note: previous definition is here
+## #define BOOST_NO_CXX11_RVALUE_REFERENCES 1
+##         ^
+## In file included from file314c33534b3d.cpp:8:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/src/stan/model/model_header.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/mat.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/core.hpp:42:
+## /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/core/set_zero_all_adjoints.hpp:14:17: warning: unused function 'set_zero_all_adjoints' [-Wunused-function]
+##     static void set_zero_all_adjoints() {
+##                 ^
+## In file included from file314c33534b3d.cpp:8:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/src/stan/model/model_header.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/mat.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/core.hpp:43:
+## /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/core/set_zero_all_adjoints_nested.hpp:17:17: warning: 'static' function 'set_zero_all_adjoints_nested' declared in header file should be declared 'static inline' [-Wunneeded-internal-declaration]
+##     static void set_zero_all_adjoints_nested() {
+##                 ^
+## In file included from file314c33534b3d.cpp:8:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/src/stan/model/model_header.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/mat.hpp:12:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/prim/mat.hpp:58:
+## /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/prim/mat/fun/autocorrelation.hpp:17:14: warning: function 'fft_next_good_size' is not needed and will not be emitted [-Wunneeded-internal-declaration]
+##       size_t fft_next_good_size(size_t N) {
+##              ^
+## In file included from file314c33534b3d.cpp:8:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/src/stan/model/model_header.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math.hpp:4:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/rev/mat.hpp:12:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/prim/mat.hpp:298:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/prim/arr.hpp:38:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/StanHeaders/include/stan/math/prim/arr/functor/integrate_ode_rk45.hpp:13:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/numeric/odeint.hpp:61:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/numeric/odeint/util/multi_array_adaption.hpp:29:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/multi_array.hpp:21:
+## In file included from /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/multi_array/base.hpp:28:
+## /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/multi_array/concept_checks.hpp:42:43: warning: unused typedef 'index_range' [-Wunused-local-typedef]
+##       typedef typename Array::index_range index_range;
+##                                           ^
+## /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/multi_array/concept_checks.hpp:43:37: warning: unused typedef 'index' [-Wunused-local-typedef]
+##       typedef typename Array::index index;
+##                                     ^
+## /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/multi_array/concept_checks.hpp:53:43: warning: unused typedef 'index_range' [-Wunused-local-typedef]
+##       typedef typename Array::index_range index_range;
+##                                           ^
+## /Library/Frameworks/R.framework/Versions/3.4/Resources/library/BH/include/boost/multi_array/concept_checks.hpp:54:37: warning: unused typedef 'index' [-Wunused-local-typedef]
+##       typedef typename Array::index index;
+##                                     ^
+## 8 warnings generated.</code></pre>
+</div>
+<div id="simulation" class="section level2">
+<h2>Simulation</h2>
+<p>Prepare parameters for simulations.</p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">d =<span class="st"> </span><span class="dv">100</span> <span class="co"># dimension of distribution</span>
+mu =<span class="st"> </span><span class="kw">rep</span>(<span class="dv">0</span>,d) <span class="co"># mean</span>
+Sigma =<span class="st"> </span><span class="kw">diag</span>(<span class="dv">1</span>,d) <span class="co"># covariance</span>
+nu =<span class="st"> </span><span class="dv">50</span> <span class="co"># degrees of freedom</span>
+T0 =<span class="st"> </span><span class="dv">1000</span> <span class="co"># burn-in</span>
+T =<span class="st"> </span><span class="dv">100</span> <span class="co"># after burn-in</span>
+noOfSecs =<span class="st"> </span><span class="dv">1000</span>
+data =<span class="st"> </span><span class="kw">list</span>(<span class="dt">nu =</span> nu,
+            <span class="dt">mu =</span> mu, 
+            <span class="dt">Sigma =</span> Sigma, 
+            <span class="dt">K =</span> d)
+fit =<span class="st"> </span><span class="kw">sampling</span>(model, 
+               <span class="dt">data =</span> data,
+               <span class="dt">chains =</span> <span class="dv">1</span>, 
+               <span class="dt">iter =</span> T+T0, 
+               <span class="dt">warmup =</span> T0,
+               <span class="dt">algorithm =</span> <span class="st">&quot;HMC&quot;</span>,
+               <span class="dt">control =</span> <span class="kw">list</span>(<span class="dt">metric =</span> <span class="st">&quot;unit_e&quot;</span>))</code></pre></div>
+<pre><code>## 
+## SAMPLING FOR MODEL 'ef5e7059909d18d29ab9ddcad2812d10' NOW (CHAIN 1).
+## 
+## Gradient evaluation took 0.000112 seconds
+## 1000 transitions using 10 leapfrog steps per transition would take 1.12 seconds.
+## Adjust your expectations accordingly!
+## 
+## 
+## Iteration:    1 / 1100 [  0%]  (Warmup)
+## Iteration:  110 / 1100 [ 10%]  (Warmup)
+## Iteration:  220 / 1100 [ 20%]  (Warmup)
+## Iteration:  330 / 1100 [ 30%]  (Warmup)
+## Iteration:  440 / 1100 [ 40%]  (Warmup)
+## Iteration:  550 / 1100 [ 50%]  (Warmup)
+## Iteration:  660 / 1100 [ 60%]  (Warmup)
+## Iteration:  770 / 1100 [ 70%]  (Warmup)
+## Iteration:  880 / 1100 [ 80%]  (Warmup)
+## Iteration:  990 / 1100 [ 90%]  (Warmup)
+## Iteration: 1001 / 1100 [ 91%]  (Sampling)
+## Iteration: 1100 / 1100 [100%]  (Sampling)
+## 
+##  Elapsed Time: 0.711928 seconds (Warm-up)
+##                0.08055 seconds (Sampling)
+##                0.792478 seconds (Total)</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">res =<span class="st"> </span><span class="kw">curvature</span>(<span class="dt">fit =</span> fit)</code></pre></div>
+<pre><code>## computing gradients will take approx. 3 secs.</code></pre>
+<pre><code>## computing Hessians will take approx. 143 secs.</code></pre>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">plot</span>(res)</code></pre></div>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASAAAAEgCAYAAAAUg66AAAAEDWlDQ1BJQ0MgUHJvZmlsZQAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VVBg/m8AACERSURBVHgB7Z0NkBTF+f8fhIM7OIQDQaU0wUQgopBAkIAaC2NhiC9IFBND+YIVQgStUqGCJBUSYxlFTamRUKWkEkj5EstARDRYQNComAQEgoieGAsRBeQlwB2HvLO/ffr/n3F2b2d2dm6nZ9n9dNXd9vR09/P0p2e/Oy893a1S6SAECEAAAgkQOCEBm5iEAAQgYAggQBwIEIBAYgQQoMTQYxgCEECAOAYgAIHECCBAiaHHMAQggABxDEAAAokRaJOY5TyG9+3bJwcPHsyTK/fuqqoqOXz4cO6dFlLV/gknnBDZ/2K42LZtWzl06FAxqopUh9rXER5J9kPSDNq1aydHjx6VI0eORGJYjEJJfxdqampE//xCyQqQdlpUAdIGNzU1+bU59vTq6mrRjm9sbIzdlp+B9u3by969e/12x57eoUMHOXbsWKL9kDSDTp06yf79+yMfxy3tJP0RVBGM+j1qqf1WrVpJbW1tYDVcggXiYScEIBAnAQQoTrrUDQEIBBJAgALxsBMCEIiTAAIUJ13qhgAEAgkgQIF42AkBCMRJwKoAbdiwQV577bXE7srHCZK6IQCBwglYE6D77rtPZsyYIevWrZMxY8bIli1bCveWEhCAQFkRsDIOaM+ePfLqq6/K888/b8YltGnTRhYsWCA333xzWcGkMRCAQGEErAiQDkbSgXkrV66Uc845x5wFDRs2LMPTzZs3ywsvvOCmDRo0SHr37u1uFxJRgdOBcEkFta+DwJL0oXXr1onbr3QGOhBPj/ukjgPln6R9/f4pg6BgRYD0CzllyhSZOnWq6PB4FZaRI0dm+LV161aZNWuWm9a5c2cZOHCgu11IJMwIzELqKzSvA91vFOill15aaJVu/oULF7rx7Ei+eoPKZtfV0u18DFpaf5jypXAc6PGuIpBUUAb6/Usq6Gj4oGDFs//+97/ywAMPyOzZs6VHjx4yc+ZM0XtC06ZNc33TM57Vq1e72w0NDbJt2zZ3u5CIipde9iUVdAi+HnQ7d+4sugtRmagjLSlbaEO6dOliXsVIsh/q6upk9+7dhbpetPzdu3c3r2Ik9UqMngHpj2BSrwSp+OlxEBSs3IRes2aNDB06VM4880zR93O+//3vy/Lly4P8Yh8EIFABBKwI0JAhQ6S+vt78GihTFR9NI0AAApVNwMol2Omnny6XXXaZTJ482UwRoaemEyZMqGzytB4CEBArAqScr732WnPppdMT6GUYAQIQgICVSzAHs96UQnwcGnxCAAJWBQjcEIAABLwEECAvDeIQgIBVAgiQVdwYgwAEvAQQIC8N4hCAgFUCCJBV3BiDAAS8BBAgLw3iEICAVQIIkFXcGIMABLwEECAvDeIQgIBVAgiQVdwYgwAEvAQQIC8N4hCAgFUCCJBV3BiDAAS8BBAgLw3iEICAVQIIkFXcGIMABLwEECAvDeIQgIBVAgiQVdwYgwAEvAQQIC8N4hCAgFUCCJBV3BiDAAS8BBAgLw3iEICAVQIIkFXcGIMABLwEECAvDeIQgIBVAtZWxSi0Vbq2ua5sGSXoqqRRy0axl13GWRs+Dh9aUmdLyma3Md+2sxywTZvZPiV9HOjKpNXV1Ykujaz9kGQfKIOgULICdPToUYm6pG2pLM0cx7LALamzJWWDDqJc+1iaWUTXvztw4EDk4zgX10LSWJq5EFrkhQAEKo5A8PlRxeGgwRCAgE0CCJBN2tiCAAQyCCBAGTjYgAAEbBJAgGzSxhYEIJBBAAHKwMEGBCBgkwACZJM2tiAAgQwCCFAGDjYgAAGbBBAgm7SxBQEIZBBAgDJwsAEBCNgkgADZpI0tCEAggwAClIGDDQhAwCYBBMgmbWxBAAIZBBCgDBxsQAACNgkgQDZpYwsCEMgggABl4GADAhCwSQABskkbWxCAQAYBBCgDBxsQgIBNAgiQTdrYggAEMgggQBk42IAABGwSQIBs0sYWBCCQQQABysDBBgQgYJOAVQF65513ZNGiRWJzeRibMLEFAQgURsCaAD322GPy6KOPyqZNm2TcuHGyatWqwjwlNwQgUHYErCxMuGXLFlm6dKnMnj1bamtr5etf/7q8++675rPsiNIgCEAgNAErAqRnO/369ZMdO3bIsmXL5Pzzz5eBAwdmOLl27VqZOnWqmzZ+/Hi57LLL3O1CIrqs80knnVRIkaLmVfutWrWKxYeWtKslZQsFpAw02LSZ7WPSx4GuTFpTUyPt2rXLds3Kth6D6kPbtm2t2MtlRH0IClYESIVn48aNMn36dOndu7fMmjVLpkyZIkOGDHF969ixowwePNjd7tq1qxw6dMjdLiSiHR61bCF2/PJqh+vBH4cPV1xxhZ/ZvOlBZefNm5e3fCEZdE30VCoVC4OwfiR9HOgxoEuMHz58OKzLRc2nX/6qqqrE+yCoUVYE6NixY7Jr1y7Rg1w7pX///vLcc89lCNAZZ5whd911l+trQ0ODNDY2utuFRHRt+KhlC7Hjl7dTp05mV5I++Pnml15sX9u0aSPa78Wu18//XOl1dXWJ2lcR1h+hvXv35nIv9rRSWBteBTAoWLkJ3a1bN+nTp48RH3VGz4L0HhABAhCobAJWBGjo0KFSX18v27ZtM7T1hrTeEyJAAAKVTcDKJVj37t1l4sSJ5k+fgunp+QMPPFDZ5Gk9BCAgVgRIOY8YMUKGDx8uTU1N4twjgT8EIFDZBKxcgjmI9QY04uPQ4BMCELAqQOCGAAQg4CWAAHlpEIcABKwSQICs4sYYBCDgJYAAeWkQhwAErBJAgKzixhgEIOAlgAB5aRCHAASsEkCArOLGGAQg4CWAAHlpEIcABKwSQICs4sYYBCDgJYAAeWkQhwAErBJAgKzixhgEIOAlgAB5aRCHAASsEkCArOLGGAQg4CWAAHlpEIcABKwSQICs4sYYBCDgJYAAeWkQhwAErBJAgKzixhgEIOAlgAB5aRCHAASsEkCArOLGGAQg4CVgbVJ6r9GwcZ1DOkrQFSGjlo1iL7uM2k/ah2yf8m0Xm1cpMCiFPkjSB12YUP+K3bf5jqVC9pesACm49u3bF9IWN68u+xO1rFtJiMjo0aN9c/3tb3+z4oOvAwXuuOGGGwJLzJ0713d/EIegcr4VFmmHfvFsHAd+7qr46MqgSfmg9m19F4IY+O3T9JIVIF3W97PPPgvy3XefHnhJLYfrOKX+J+2D40sxPqO2JWq5YvisX74k7dfU1JTE0sxJMVABbNu2bWBXcg8oEA87IQCBOAkgQHHSpW4IQCCQAAIUiIedEIBAnAQQoDjpUjcEIBBIAAEKxMNOCEAgTgIIUJx0qRsCEAgkgAAF4mEnBCAQJwEEKE661A0BCAQSCC1Aw4cPl6ampmaVzZkzR8aMGdMsnQQIQAAC+QgEjoRevny5LFmyxNSxbNkymT59ulRXV7t1Hj16VObPny+9evVy04hAAAIQCEsgUIDOPPNMmTRpkhw8eFAOHz4s+n6T98U2fc+lZ8+e8rOf/SysPfJBAAIQcAkEClDXrl3ljTfeMJlHjhwpTz/9tNTW1rqFiUAAAhBoCYFAAfJWvGDBAnMmtGnTJvPp3aeidOqpp3qTiEMAAhDISyC0AM2bN0/GjRsne/bsaVbpNddcI88++2yzdBIgAAEIBBEILUATJ06UUaNGyYQJE6RLly4ZdXJZloGDDQhAICSBUALU2Ngo27dvl/vvv1+6d+8esmqyQQACEAgmEGoc0IknnihnnHGGrFy5Mrg29kIAAhAogECoMyCt75577pE77rhDPvnkEyNGOtucE/Ss6Oyzz3Y2+YQABCAQisDnKpInu94DamhokB//+MfNcnITuhkSEiAAgRAEQgvQtm3bJJVK5azSOzgxZwYSIQABCOQgEFqAdu3a5StAOvl2XV1djupJggAEIOBPILQAnXXWWeYSLFdVhVyC6Qz9ejP7oosuylUVaRCAQAURCC1A+jKqvnzqBBWS1atXy8yZM83jeSc93+dDDz0kGzZsQIDygWI/BCqAQGgBOuecc5rhuOCCC8zaXffee6/8/ve/b7Y/O2Hx4sXy0UcfZSezDQEIVCiB0ALkx0ffAdMpOfIFvYmtL7PeeuutMmPGjGbZ9+3blyFOOrpa7y1FCc6KkFHKFqtMKfhQrLZoPd5hF4XUG7VcITb88pZCH+gKv0kxcJZmTsq+X79400ML0IoVK+TIkSNuWY1/+umn8utf/1qGDRvmpueK6Cqhmu/222+Xdu3a5coib7/9ttx4443uvp///Ody/fXXu9uFRrzzFhVathj5tdO7detWjKpKoo6obYlarliNTtq+Lsuc1NLMDsOoP+RO+ZZ8ejUjVz2t0o/Wcz9bz8rduXPnnDeh9TJM1/8++eSTs0p8vvnUU0+ZsjqWqL6+3kxs9qc//enzDOmYzrb4/vvvu2n6VK1jx47udiERLVeM5Wivu+66QsySNwKBJ598MkKpcEWKdRyEs9Y8lx7DOpdW1CXGm9dYWIqeAan46NVFUkHfoghanjn0GZBOw5GtVR06dAh1erlw4ULZsWOHuVTTOrRTrrzySnn++eddLnrJNXDgQHdbBz1G7Tg949IJ1AilTyDOftJjLc76w9BN8lhUAdIrjqQY6CVwvhBagFTJogY9A3KC3xmQs59PCECgcgiEFiBFonMB6Y1kvVQ65ZRTZMCAAeZxetApVuWgpKUQgEChBEIL0Nq1a+WSSy4RfZrVv39/c0m1detWGTFihDz33HMZk9UHOaEDGrPv/wTlZx8EIFC+BEJNx6HNHz9+vAwdOlQ+/vhjeeutt2Tz5s1mIOJ7770nv/3tb8uXEC2DAARiIxBKgPRmsL4+oY/STzvtNOOM3mDSSzBdNePll1+OzUEqhgAEypdAKAHSu+n6RCHXUyl9xJfvWX/54qNlEIBASwiEEiAd1Dds2DC588475c033zRidODAAXnppZfk0UcfFV01lQABCECgUAKhBEgrfeyxx8wN6MGDB5tBhzox/aWXXiqDBg2SyZMnF2qX/BCAAAQk9FMwXX551apVZqnm9evXm6deX/nKV+Tiiy8GIwQgAIFIBEKfAekj95tvvll27txpznjGjh0rY8aMkYcffph7QJHQUwgCEAgtQDoh/caNG+W8884z1PQdk0ceecTcA9JVUwkQgAAECiUQ6hLs0KFDsmjRInnnnXekR48exoY+GfvBD35gXvrU0dFXXXVVobbJDwEIVDiBUGdAOuZHX2jTwYfZQRct1PmiCRCAAAQKJRBKgKqqquRb3/qWTJ061YyEdozo4ES9B6SvYxAgAAEIFEoglABppXPmzBEd+/OFL3xBOnXqZOYZOffcc834IB0NTYAABCBQKIFQ94C0Uh338/rrr4s+gl+zZo3oPaB+/fpJ3759C7VJfghAAAKGQGgB0twqOvo2u/4RIAABCLSUQOhLsJYaojwEIACBbAIIUDYRtiEAAWsEECBrqDEEAQhkE0CAsomwDQEIWCOAAFlDjSEIQCCbAAKUTYRtCEDAGgEEyBpqDEEAAtkEChoHlF04zm0dc6SLFUYJuixy1LJR7FEmOoE4+ynp40DfodTXmOJsYxD5pO2rb+pDUAi9NHNQJXHs05dcdQXVKEEXUdTyTmjJGvNOHXzaJ/DEE0/4Gs3Xp1o2+zhwKstX1smX6zOqT0HlctkpRpr+iOu69LrseVJBX9sKWjewZM+AdBL8qJPd63K4Ucsm1VHYbU6gJX2oZVtyDDX35v+lRPUpajk/P8KkqwAl+V3Id/ajbeAeUJieJA8EIBALAQQoFqxUCgEIhCGAAIWhRB4IQCAWAghQLFipFAIQCEMAAQpDiTwQgEAsBBCgWLBSKQQgEIYAAhSGEnkgAIFYCCBAsWClUghAIAwBBCgMJfJAAAKxEECAYsFKpRCAQBgCCFAYSuSBAARiIYAAxYKVSiEAgTAEEKAwlMgDAQjEQgABigUrlUIAAmEIIEBhKJEHAhCIhQACFAtWKoUABMIQQIDCUCIPBCAQCwEEKBasVAoBCIQhgACFoUQeCEAgFgIIUCxYqRQCEAhDAAEKQ4k8EIBALASsCtAHH3wgr7zyiuzfvz+WxlApBCBwfBGwJkCTJk2Sxx9/XNavXy9jx46VFStWHF+k8BYCECg6ASvrgq1bt0527NghzuJsffr0kWeeeUYGDx5c9AZRIQQgcPwQsCJAffv2lVmzZrlUGhoa5MCBA+62RjZt2iRPP/20m3bhhRdK//793e1CIrokb8eOHQspQt4SJNCSPtSycRwHUX2KWq4l3aILA+qqpEnYdvzOtzihFQHSFRpramqMT9u3bzdnQj/5yU8cH83nrl27ZMmSJW5ar169Qp8hXX755W45IuVDYPTo0ZEb05KyQUarq6uDdvvuy1cu6Bh+8cUXfesN2qFffv3LZzuojrj3WREgpxEffvih3HnnnXLTTTfJkCFDnGTz+bWvfU2WLl3qpulZkl62ESBQSgSiHpNRy2nbo5bVH/7a2lppbGxMBKGKX5cuXQJtW7sJXV9fL3fccYfccsstEqT2gd6yEwIQKCsCVs6Adu7cKVOmTJG7775bBgwYUFYAaQwEIBCdgBUBevbZZ2XPnj1y2223uZ7qqdn8+fPdbSIQgEDlEbAiQBMnThT9I0AAAhDwErB2D8hrlDgEIAABJYAAcRxAAAKJEUCAEkOPYQhAAAHiGIAABBIjgAAlhh7DEIAAAsQxAAEIJEYAAUoMPYYhAAEEiGMAAhBIjAAClBh6DEMAAggQxwAEIJAYAQQoMfQYhgAEECCOAQhAIDECCFBi6DEMAQggQBwDEIBAYgQQoMTQYxgCEECAOAYgAIHECCBAiaHHMAQggABxDEAAAokRQIASQ49hCEAAAeIYgAAEEiOAACWGHsMQgICVVTGiYG7durXU1dVFKUoZCMRGIOoxqasBRw0tKavLOkfxedSoUYHuhl1SS1dnDQolK0BHjx6VvXv3BvnOPghYJ7B7927rNlti8ODBg7EszRyGQ0ktzdwSiJSFAATKk0Dw+VF5tplWQQACJUIAASqRjsANCFQiAQSoEnudNkOgRAggQCXSEbgBgUokgABVYq/TZgiUCAEEqEQ6AjcgUIkEEKBK7HXaDIESIYAAlUhH4AYEKpEAAlSJvU6bIVAiBBCgEukI3IBAJRJAgCqx12kzBEqEAAJUIh2BGxCoRAIIUCX2Om2GQIkQQIBKpCNwAwKVSAABqsRep80QKBECCFCJdARuQKASCSBAldjrtBkCJUIAASqRjsANCFQiAQSoEnudNkOgRAggQCXSEbgBgUokYFWA1q9fL4sXL5adO3dWImvaDAEIZBGwJkAPP/ywPPjgg/Kf//xHfvjDH8qmTZuyXGETAhCoNAJW1gXbuHGjvP766zJ37lzRhcqeeeYZeeqpp+SnP/1ppfGmvRCAgIeAlTOgDRs2SP/+/Y34qO2BAwfKu+++63GDKAQgUIkErJwBbd26VTp16uTyPfHEE+V///ufu62RVatWya233uqm3X777TJ69Gh3mwgESoFA9+7dS8GN0D60b99eqqurQ+cPmzEsh1QqFVilFQHSdd51qWUnHDlyRGpqapxN86kNuvbaa920nj17ymeffeZuB0X+8pe/ZOxW4AcOHMhIs7nRrl070TaH9T8O35Tv/v3746g6VJ1qXw++JPshDgZBfZp9HHbo0EEOHz4shw4dCsWs2Jl0aWS1r8szFxqy25JdPoiDN28+8bMiQN26dZO1a9e6fu3atUtOPfVUd1sjp59+utx2221uWkNDgzQ1NbnbhUTatGkTuWwhdvzyqvho50f136/eQtKrqqoStd+2bVs5duxYoj4kzUDPPlQAkjoO9H5rkseh2tYf46Bg5R7QueeeK+vWrZOPP/5Y9OznhRdekMGDBwf5xT4IQKACCFg5A9J7PuPHj5dx48ZJly5d5Itf/KKMGTOmAvDSRAhAIIiAFQFSBy6//HL59re/ba5Ha2trg3xiHwQgUCEErAmQ8tRrcv0jQAACEFACVu4BgRoCEIBALgIIUC4qpEEAAlYIIEBWMGMEAhDIRQABykWFNAhAwAqBVunRqsFjpa240dzIvn37Io+i1UFwSY0+1ZZ88sknZhR07969mzfMUooOAIsyArZY7un7fzogU4dcJBWSZqDvO+qwk1NOOSURBDoQUAfl6mDIJIIORH377bfl7LPPlpNPPjmnCyUrQDm9PU4Sp02bJmvWrDEDLo8Tl4vu5vXXXy+dO3eWGTNmFL3u46XCb37zmzJq1CiZPHny8eJyUf3U1zUGDBgg9957r1x99dU56+YSLCcWEiEAARsEECAblLEBAQjkJND6rnTIuYfEyAT00uOrX/2qfOlLX4pcx/Fe8KSTTjKn36eddtrx3pTI/ut9j0GDBknYqSsiGyrRgnoPSvtfGeh3IlfgHlAuKqRBAAJWCHAJZgUzRiAAgVwEuAT7/1T0kfXy5cvNI3R9bKqPkHOFoHy66sfq1avN7I86F4wTopb597//baYw0bmT/PxxbBTjM8hPb/26qonO8a2TzOmlljf4MYhSRueEeuONN0RnU/Dy9NordjzIT68tv3xBDP3KOPUuWbLEDFvQeXyckK+Mk6+Yn2Ft+vV1EIPsMghQuud05sCbbrpJdOyRHvCvvPKKeXNfr2G9ISifrvoxf/58M/5o5syZcv755xshilJGH19OmDDBjCXSMUVa38iRI82YDq8/xYwH+em1o6ua6HS5ek3/+OOPm+k+zzrrLJPFj0GUMtoPv/jFL4ydP/zhD2ZyM8eO159ixoP89NrxyxfE0K+MU++8efPk/vvvFx2+oGN3NOQr45Qt5mdYm359HcQgVxmdNrPiw+zZs1NpOC6H9NxFqX/961/uthPxy/fhhx+mvvvd76bSZwQm65///OdUeuyDiUcp4y2vlfzxj39MvfXWW6a+uP75+Zlt74YbbkilxziZ5E8//TSVnmYllf7FSwUxiFImLXKpf/zjH8bO+++/n/re976X7UrRt/38zDbkly+IoV+Z9CDBVHp1mJQecxdccEEqPYWta86vjJshhkgYm0F97cfAr8zn53rFlNHjrK4PPvjArNThuO23aodfvqBVP6KUWbFihTmD0kswPRO48cYbzaoijn9xfPr56bWls1nqGZmucKJBn/LopdHmzZvFj0GUMlp3jx49RDno2aBeGsf9JCnIT/XHCUH5/BgGldHL2CFDhpizXMeGfgaV8eYrZjysTb++Vl/8GPiVQYDS0NK/5OY+g9OZuVbt0H1++YJW/YhSZseOHZI+C5KFCxfKiy++KNddd13sE8z7+ekw0c/t27eLTrTuvTTV1U50jm8/BlHKqC2dPTN9FipXXHGFzJkzJ/bRxEF+qj9OCMrnxzCojL4ukuvyOqiM40uxP8Pa9Otr9cePgV8ZBCgNTW/w5lu1Q+H65fNLj1pGfenVq5fcfffdct9990nP9Aohr776qlYXWwhqg2M0O4+m66+mrnyQvU/TdVWK7PQwZTSPLtGk0/YuWrRIfvnLX8rEiRNjFeEgP9UfJwTly94XhoFTb/Zndl2632GdnbdY22FtZudz2ql++O3zS0eA0tD0SY7+ijtB43oJkB388umqH9nlnVU/opTRy42+ffu65vWl1rgXcvTz03UiHenatau5Ua9POZzgsPJjEKWMPoXRv/R9NXNDVt+pUib19fWO2aJ/BvnpNRaUz49hUBlv3d54lDLe8lHiYW369bXa9GPgVwYBSkPTA/yll14yb9/rgf/Pf/7TjOJVoM6XQeN++YJW/YhS5sILL5S///3v5smPvtW/bNky976L+hFH8PNTbW1ML62t63vp05lvfOMbsmDBAuPCa6+9JnV1debPj0GUMnoQ6whafWSrQU/rd+/ebd6qNgkx/AvyU82FYeDHMF/duZoTpUyuegpJC7KpT7c++ugjU51fX+tOPwZ+ZRgJnYamp5C/+tWvzNJBOgZDF0i85pprDOwHH3zQzGOtj56D8um9Gn3z21n145577jFf2ChldPoEfSSrZz16tqGP9CdNmmT8ietfkJ/f+c53ZPr06eb1Ej0Ip0yZYk61lZU+KnemHfFjEKWMzibw5JNPmjW10g97TJ9cdNFFcTXf1BvkZxgGQQyD6nYapV9e/eFx1tIKU8YpW6xPP5srV640twScHx+/vg5ikKsMAuTpub1795r7FvpLEBT88qlwqGDkWvUjShl9AqRf8nyrSwb5Wug+Pz+z69mzZ0/O93uCGEQpo2Oz9Ma3zeDnZ7YPfvmCGPqVya7bux2ljLd8lHgYm0F97ccguwwCFKV3KAMBCBSFAPeAioKRSiAAgSgEEKAo1CgDAQgUhQACVBSMVAIBCEQhgABFoUYZCECgKAQQoKJgpBIIQCAKAQQoCjXKQAACRSGAABUFI5VAAAJRCCBAUahRBgIQKAoBBKgoGKnES0Bn1dMZJi+++GL50Y9+ZOb18e7X1yw0/ZJLLjGzK27ZssW7W958803z6olOU6Gvt2zbti1jPxvlQwABKp++LImWqFgMGzbMvD6iIqNzB+m7bO+9957x7+WXX5ahQ4ead7z0fTudbEwnOHNESLdVuHQCK30b/q9//avvqpol0WCcaBmBGGZ1pMoKJpB+mTKVfpculRYiQyG9PnjqoYceSqVfrDXb6aV6zfS1XkSadsstt5gknZbUiWtCenK2VPol1FR6Kg5vEeJlQoB3wVqm35TOItDU1GQWotMZ8PQSS98iv/LKK81cQvqirk7hOmLECOnXr59bcunSpebtep0BUWej1LfgtQyh/AlwCVb+fWy1hToTgM7lrDM56tv8OpOhrhCrK400NjaaOY40j77l7/wNHz7cXGbpm+8qYLbffrcKCGOZBMrkTI5mlAiB9CRiqfQZjOtNem2vVHoSs9RVV11l0tJnOCld8cIb0tOuptL3hkxSeubD1O9+9zt3t640cvXVV7srZLg7iJQFAc6AMvWYrSIQGDt2rMydO9fMs61nPTqb4Ze//GVTs6539sQTT5hZFXXua51VUS+3dOZJDXrj+je/+Y0sXrzYrLGmT8F0RkidUY9QhgTKQkZpREkReOSRR1J9+vRJpS+lzA1pPYPRMyEN6csyc5O5qqoqlZ60PpWecD81bdo013/dr2tkpScxT6UnYkudd955qfTqIO5+IuVFgJvQZfijUipN0rmcdQXVXDM66sx4+she537OFfSGtc7Kp2uPEcqXAAJUvn1LyyBQ8gS4B1TyXYSDEChfAghQ+fYtLYNAyRNAgEq+i3AQAuVLAAEq376lZRAoeQIIUMl3EQ5CoHwJ/B9M0rxYh7+0WAAAAABJRU5ErkJggg==" /><!-- --></p>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">summary</span>(res)</code></pre></div>
+<pre><code>## sectional curvature stats:</code></pre>
+<pre><code>## # A tibble: 1 x 5
+##           mean       median           sd          min          max
+##          &lt;dbl&gt;        &lt;dbl&gt;        &lt;dbl&gt;        &lt;dbl&gt;        &lt;dbl&gt;
+## 1 7.394523e-05 7.071074e-05 1.490309e-05 4.944604e-05 0.0001151109</code></pre>
+</div>
+
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
