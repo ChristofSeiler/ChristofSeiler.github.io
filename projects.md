@@ -10,7 +10,7 @@ Methods developement and statistical consulting for several projects in immunolo
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine
 
 * Paper: [bioRxiv](https://doi.org/10.1101/148528)
-* R package: in revision
+* R package: in preparation
 
 ## Functional Brain Connectivity
 
