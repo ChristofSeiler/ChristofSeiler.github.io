@@ -30,7 +30,9 @@ Inria: French Institute for Research in Computer Science and Automation
 
 ## Grants and Awards
 
-* 2017: [EPFL-Stanford Exchange Program Fellowship](https://neuroscience.stanford.edu/christof-seiler) (funded by Firmenich)
+https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying
+
+* 2017: [EPFL-Stanford Exchange Program Fellowship](https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying) (funded by Firmenich)
 * 2016: ISBA New Researchers Travel Award, Sardinia, Italy (gratefully declined)
 * 2015: Travel award for 10th Conference on Bayesian Nonparametrics, Raleigh, NC, United States
 * 2015: Swiss NSF Fellowship for Advanced Researchers (one year, topic: Uncertainty in Computational Anatomy)
