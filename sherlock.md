@@ -9,7 +9,7 @@ Let's go through the most important steps.
 
 ## Step 1: Request Acccount
 
-To get access to the cluster, you need to request an account (here)[http://www.sherlock.stanford.edu/docs/getting-started/prerequisites/#how-to-request-an-account].
+To get access to the cluster, you need to request an account [here](http://www.sherlock.stanford.edu/docs/getting-started/prerequisites/#how-to-request-an-account).
 
 ## Step 2: Upload Your Script
 
