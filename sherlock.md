@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to Computing Clusters Using Sherlock
+title: Introduction to Working on the Sherlock Computing Clusters
 ---
 
 This is a practical tutorial on how to use the Sherlock in your research. Sherlock is a computing cluster open to researchers at Stanford University. It's based on the `slurm` scheduler environment that handles all the computing resources for you. The only thing we need to do is to submit computing jobs to the cluster and the rest will be handled by `slurm`. You can submit hundrets or even thousands of jobs to the cluster simultaneously. This means that you can compute things on the cluster in hours that would take you weeks to compute on a laptop.
