@@ -24,7 +24,7 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 1. **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, M. Reyes, and P. B&uuml;chler <br>
 Medical Engineering and Physics, Volume 36, Issue 12, December 2014, Pages 1626&ndash;1635 <br>
-[pdf](https://s3.amazonaws.com/academia.edu.documents/40638593/Image-based_vs._mesh-based_statistical_a20151204-2085-1v3bcci.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1510936550&Signature=qeojZMgq1nGnytUu1BEya91PkRw%3D&response-content-disposition=inline%3B%20filename%3DImage-based_vs._mesh-based_statistical_a.pdf), [DOI](http://dx.doi.org/10.1016/j.medengphy.2014.09.006)
+[pdf](http://www.mauricioreyes.me/Publications/BonarettiMEP2014.pdf), [DOI](http://dx.doi.org/10.1016/j.medengphy.2014.09.006)
 
 2. **Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation** <br>
 **C. Seiler**, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
