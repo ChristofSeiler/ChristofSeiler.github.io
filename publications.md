@@ -22,7 +22,7 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 ## Peer-Reviewed Journal Articles
 
 1. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br> 
-**C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, A.L. Reiss <br>
+**C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
 accepted for publication in the journal Neuroinformatics
 
 2. **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
