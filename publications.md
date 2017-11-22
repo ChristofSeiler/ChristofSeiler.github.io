@@ -21,9 +21,10 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 
 ## Peer-Reviewed Journal Articles
 
-1. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br> 
+1. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
 **C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
-accepted for publication in the journal Neuroinformatics
+Accepted for publication in the journal Neuroinformatics <br>
+[pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf), [DOI](http://dx.doi.org/10.1007/s12021-017-9351-z)
 
 2. **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, M. Reyes, and P. B&uuml;chler <br>
@@ -32,7 +33,7 @@ Medical Engineering and Physics, Volume 36, Issue 12, December 2014, Pages 1626&
 
 3. **Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation** <br>
 **C. Seiler**, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
-Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, September 2014, Pages 737&ndash;746 <br> 
+Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, September 2014, Pages 737&ndash;746 <br>
 (2011 Impact Factor: 3.278) <br>
 [pdf](https://pdfs.semanticscholar.org/a1f2/856b339318fd751d77a9cde70ffc07d9e863.pdf), [DOI](http://dx.doi.org/10.1002/term.1575)
 
@@ -50,7 +51,7 @@ Cell and Tissue Banking, Volume 14, Issue 2, June 2013, Pages 213&ndash;220 <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
 Medical Image Analysis, Volume 16, Issue 7, October 2012, Pages 1371&ndash;1384 <br>
 (2011 5-Year Impact Factor: 4.512, top ranked journal in medical image analysis) <br>
-[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerPolyaffineTransformationTreesMedIA2012.pdf), [DOI](http://dx.doi.org/10.1016/j.media.2012.05.011) 
+[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerPolyaffineTransformationTreesMedIA2012.pdf), [DOI](http://dx.doi.org/10.1016/j.media.2012.05.011)
 
 7. **Statistical Model Based Shape Prediction from a Combination of Direct Observations and Various Surrogates: Application to Orthopaedic Research** <br>
 R. Blanc, **C. Seiler**, G. Sz&eacute;kely, L. Nolte, and M. Reyes <br>
@@ -95,7 +96,7 @@ FIMH, London, UK, LNCS, Volume 7945, June 2013, Pages 483&ndash;490 <br>
 
 5. **Simultaneous Multiscale Polyaffine Registration by Incorporating Deformation Statistics** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
-MICCAI, Nice, France, LNCS, Volume 7511, Part II, October 2012, Pages 130&ndash;137 <br> 
+MICCAI, Nice, France, LNCS, Volume 7511, Part II, October 2012, Pages 130&ndash;137 <br>
 (Acceptance rate: 248 of 779 papers = 32%) <br>
 [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerMultiscaleGroupwisePolyaffineRegistrationMICCAI2012.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-33418-4_17)
 
@@ -112,7 +113,7 @@ STATCOM Workshop, MICCAI, Nice, France, October 2012 <br>
 
 8. **Geometry-Aware Multiscale Image Registration Via OBBTree-Based Polyaffine Log-Demons** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
-MICCAI, Toronto, Canada, LNCS, Volume 6892, Part II, September 2011, Pages 631&ndash;638 <br> 
+MICCAI, Toronto, Canada, LNCS, Volume 6892, Part II, September 2011, Pages 631&ndash;638 <br>
 Young Scientist Award <br>
 (top 5 out of the majority of 819 papers written by PhD students and postdocs) <br>
 Student Travel Award and Oral Podium Presentation <br>

@@ -18,21 +18,23 @@ We model functional brain connectivity using multivariate heteroscedasticity.
 
 * Paper: [bioRxiv](https://doi.org/10.1101/154468)
 * Supplementary material: [Power Analysis](https://christofseiler.github.io/CovRegFC_HCP/Power.html), [Low-Dimensional Model Analysis](https://christofseiler.github.io/CovRegFC_HCP/Low_Dimensional.html), and [Full Model Analysis](https://christofseiler.github.io/CovRegFC_HCP/Full.html)
-* R package: [github](https://github.com/ChristofSeiler/CovRegFC) 
+* R package: [github](https://github.com/ChristofSeiler/CovRegFC)
 * Data analysis workflow: [github](https://github.com/ChristofSeiler/CovRegFC_HCP)
 
 ## Data Integration and Analysis in Neuroscience
 
-We combine heterogeneous brain data (structural and diffusion images with cognitive tests) to explain how neuroanatomical differences are associated with cognition in girls with Turner syndrome. 
+We combine heterogeneous brain data (structural and diffusion images with cognitive tests) to explain how neuroanatomical differences are associated with cognition in girls with Turner syndrome.
 
-In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine 
+In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine
 
-* Paper: accepted for publication in the journal Neuroinformatics
+* Paper: [pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf)
+* Supplementary material repository: [github](https://github.com/ChristofSeiler/braincog_manuscript)
 * R package: [github](https://github.com/ChristofSeiler/braincog)
+* Data analysis worflow: [Interactions](https://christofseiler.github.io/braincog/supplementary_materials/Interactions_2.html)
 
 ## Markov Chain Monte Carlo in High Dimensions
 
-We estimate running times of Hamiltonian Monte Carlo in high dimensions using Riemannian geometry and coarse Ricci curvature. This has applications in sampling form high dimensional posterior distributions arising in computational anatomy. 
+We estimate running times of Hamiltonian Monte Carlo in high dimensions using Riemannian geometry and coarse Ricci curvature. This has applications in sampling form high dimensional posterior distributions arising in computational anatomy.
 
 * Paper: [arXiv](http://arxiv.org/abs/1407.1114), [NIPS](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf)
 * Poster: [pdf](https://christofseiler.github.io/NIPS-Poster.pdf)
@@ -51,7 +53,7 @@ We infer regions of interests from a set of deformation vector fields using Baye
 
 * Paper: [pdf](https://hal.inria.fr/hal-00847185/document)
 * Talk: [youtube](https://www.youtube.com/watch?v=KZO-EaJ6Qrc)
-* Software: [github](https://github.com/ChristofSeiler/BayesianNonparametrics.git) 
+* Software: [github](https://github.com/ChristofSeiler/BayesianNonparametrics.git)
 
 ## Hierarchical Modeling in Compuational Anatomy
 
