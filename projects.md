@@ -27,7 +27,7 @@ We combine heterogeneous brain data (structural and diffusion images with cognit
 
 In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine 
 
-* Paper: in revision
+* Paper: accepted for publication in the journal Neuroinformatics
 * R package: [github](https://github.com/ChristofSeiler/braincog)
 
 ## Markov Chain Monte Carlo in High Dimensions
@@ -65,7 +65,7 @@ We introduce structured diffeomorphic deformations to handle multiscale anatomic
 
 We classify stem cells during differentiation based on their shape from time-lapse video microscopy.
 
-* Paper: [pdf](https://www.researchgate.net/profile/Benjamin_Gantenbein/publication/229427399_Time-Lapse_Microscopy_and_Classification_of_2D_Human_Mesenchymal_Stem_Cells_Based_on_Cell_Shape_Picks_Up_Myogenic_from_Osteogenic_and_Adipogenic_Differentiation/links/09e41507ea44c26fb5000000/Time-Lapse-Microscopy-and-Classification-of-2D-Human-Mesenchymal-Stem-Cells-Based-on-Cell-Shape-Picks-Up-Myogenic-from-Osteogenic-and-Adipogenic-Differentiation.pdf)
+* Paper: [pdf](https://pdfs.semanticscholar.org/a1f2/856b339318fd751d77a9cde70ffc07d9e863.pdf)
 * Software: [github](https://github.com/ChristofSeiler/CellShapeClassifier)
 
 ## Modeling of Soft Tissue Deformations with Markov Random Fields
@@ -73,5 +73,5 @@ We classify stem cells during differentiation based on their shape from time-lap
 We implement fast GPU code using shader processing to model soft tissue deformations with Markov Random Fields.
 
 * Wikipedia entry citing our work: [link](https://en.wikipedia.org/wiki/Write-only_memory_(engineering)#cite_ref-7)
-* Paper: [pdf](http://link.springer.com/chapter/10.1007%2F978-1-84882-565-9_9)
+* Paper: [pdf](https://christofseiler.github.io/PaperHMRFDeformationGPU.pdf)
 * Software: [github](https://github.com/ChristofSeiler/SoftTissueDeformations.git)
