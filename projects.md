@@ -5,14 +5,14 @@ title: Research Projects
 
 ## Immunology
 
-Methods developement and statistical consulting for several projects in immunology using RNA-seq, microarrays, and CyTOF data.
+Methods development and statistical consulting for several projects in immunology using RNA-seq, microarrays, and CyTOF data.
 
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine
 
 * Paper: [bioRxiv](https://doi.org/10.1101/148528)
 * R package: in preparation
 
-## Functional Brain Connectivity
+## Heteroscedasticity: Functional Brain Connectivity
 
 We model functional brain connectivity using multivariate heteroscedasticity.
 
@@ -21,7 +21,7 @@ We model functional brain connectivity using multivariate heteroscedasticity.
 * R package: [github](https://github.com/ChristofSeiler/CovRegFC)
 * Data analysis workflow: [github](https://github.com/ChristofSeiler/CovRegFC_HCP)
 
-## Data Integration and Analysis in Neuroscience
+## Heterogeneity: Data Integration and Analysis in Neuroscience
 
 We combine heterogeneous brain data (structural and diffusion images with cognitive tests) to explain how neuroanatomical differences are associated with cognition in girls with Turner syndrome.
 
