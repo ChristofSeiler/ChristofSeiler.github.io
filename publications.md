@@ -100,7 +100,7 @@ MICCAI, Nice, France, LNCS, Volume 7511, Part II, October 2012, Pages 130&ndash;
 [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerMultiscaleGroupwisePolyaffineRegistrationMICCAI2012.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-33418-4_17)
 
 6. **Population-Based Design of Mandibular Plates Based on Bone Quality and Morphology** <br>
-H. Bou-Sleiman, **C. Seiler**, T. Iizuka, L. Nolte, and M. Reyes <br>
+H. Bousleiman, **C. Seiler**, T. Iizuka, L. Nolte, and M. Reyes <br>
 MICCAI, Nice, France, LNCS, Volume 7510, Part I, October 2012, Pages 66&ndash;73 <br>
 (Acceptance rate: 248 of 779 papers = 32%)	<br>
 [pdf](http://www.mauricioreyes.me/Publications/BouMiccai2012.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-33415-3_9)
