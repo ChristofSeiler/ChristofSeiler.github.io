@@ -11,7 +11,7 @@ title: CV
 2001-2005 | **University of Applied Sciences, Biel, Switzerland**      | Dipl. Ing. FH in Computer Science
 
 * Inria: French Institute for Research in Computer Science and Automation
-* I received a [joint PhD]([joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html)) from two universities
+* I received a [joint PhD](joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) from two universities
 
 ## Positions
 
