@@ -5,10 +5,10 @@ title: CV
 
 ## Education
 
-2013-     | **Stanford University**                                    | Postdoc in Statistics
-2009-2012 | **Inria, France** <br >and **University of Bern, Switzerland**  | PhD in Computer Science and Biomedical Engineering
-2006-2008 | **University of Bern, Switzerland**                        | MSc in Biomedical Engineering
-2001-2005 | **University of Applied Sciences, Biel, Switzerland**      | Dipl. Ing. FH in Computer Science
+2013-     | **Stanford University**                                         | Postdoc in Statistics
+2009-2012 | **Inria, France** and <br> **University of Bern, Switzerland**  | PhD in Computer Science and <br> Biomedical Engineering
+2006-2008 | **University of Bern, Switzerland**                             | MSc in Biomedical Engineering
+2001-2005 | **University of Applied Sciences, Biel, Switzerland**           | Dipl. Ing. FH in Computer Science
 
 * Inria: French Institute for Research in Computer Science and Automation
 * I received a [joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) from two universities
@@ -35,7 +35,7 @@ title: CV
 * 2016: [ISBA](http://www.corsiecongressi.com/isba2016/) New Researchers Travel Award, Sardinia, Italy (gratefully declined)
 * 2015: Travel award for 10th [Conference on Bayesian Nonparametrics](https://www2.stat.duke.edu/bnp10/index.html), Raleigh, NC, United States
 * 2015: [Swiss NSF Fellowship for Advanced Researchers](http://p3.snf.ch/project-158500) (one year, topic: Uncertainty in Computational Anatomy)
-* 2013: France-Stanford Collaborative Projects Grant
+* 2013: [France-Stanford Collaborative Projects Grant](http://francestanford.stanford.edu/collaborative_projects/grant_recipients/2013_2014)
 * 2013: [Swiss NSF Fellowship for Prospective Researchers](http://p3.snf.ch/project-146281) (two years, topic: Monte Carlo Methods in Computational Anatomy)
 * 2011: [MICCAI Young Scientist Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada (top five of about 819 submitted papers by PhD students and postdocs)
 * 2011: [MICCAI Student Travel Award]((http://www.miccai.org/miccai-2011-toronto)), Toronto, Canada
