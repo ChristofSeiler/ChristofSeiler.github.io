@@ -38,7 +38,7 @@ title: CV
 * 2013: [France-Stanford Collaborative Projects Grant](http://francestanford.stanford.edu/collaborative_projects/grant_recipients/2013_2014)
 * 2013: [Swiss NSF Fellowship for Prospective Researchers](http://p3.snf.ch/project-146281) (two years, topic: Monte Carlo Methods in Computational Anatomy)
 * 2011: [MICCAI Young Scientist Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada (top five of about 819 submitted papers by PhD students and postdocs)
-* 2011: [MICCAI Student Travel Award]((http://www.miccai.org/miccai-2011-toronto)), Toronto, Canada
+* 2011: [MICCAI Student Travel Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada
 * 2011: Paper invitation for [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/) (invitation rate about 1.5%)
 * 2010: Financial support for [joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) to travel between France and Switzerland [(SERI)](https://www.sbfi.admin.ch/sbfi/en/home.html)
 
