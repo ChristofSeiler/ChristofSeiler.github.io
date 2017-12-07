@@ -37,7 +37,7 @@ In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-r
 * Paper: [pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf)
 * Supplementary material: [github](https://github.com/ChristofSeiler/braincog_manuscript)
 * R package: [github](https://github.com/ChristofSeiler/braincog)
-* Data analysis worflow: [Interactions](https://christofseiler.github.io/braincog/supplementary_materials/Interactions_2.html)
+* Data analysis workflow: [Interactions](https://christofseiler.github.io/braincog/supplementary_materials/Interactions_2.html)
 
 ## Biomedical Image Analysis
 
