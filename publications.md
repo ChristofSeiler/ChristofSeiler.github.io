@@ -19,7 +19,7 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 
 1. **Multivariate Heteroscedasticity Models for Functional Brain Connectivity** <br>
 **C. Seiler** and S. Holmes <br>
-Accepted for publication in the journal Frontiers in Neuroscience, section Brain Imaging Methods <br>
+Frontiers in Neuroscience, Section Brain Imaging Methods, Volume 11, Article 696, December 2017, Pages 1&ndash;11 <br>
 [open access](https://www.frontiersin.org/articles/10.3389/fnins.2017.00696), [bioRxiv](https://doi.org/10.1101/154468)
 
 2. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
