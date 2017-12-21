@@ -25,7 +25,7 @@ Volume 11, Article 696, December 2017, Pages 1&ndash;11 <br>
 
 2. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
 **C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
-Accepted for publication in the journal Neuroinformatics <br>
+Neuroinformatics, December 2017, Pages 1&ndash;13 <br>
 [pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf), [view](http://rdcu.be/CZGQ), [DOI](http://dx.doi.org/10.1007/s12021-017-9351-z)
 
 3. **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
