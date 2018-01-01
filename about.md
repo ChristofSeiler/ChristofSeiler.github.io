@@ -3,9 +3,13 @@ layout: page
 title: CV
 ---
 
+## Current Positions
+
+* Since 2018: **Research Scientist in Statistics at Stanford University**
+
 ## Education
 
-2013-     | **Stanford University**                                         | Postdoc in Statistics
+2013-2017 | **Stanford University**                                         | Postdoc in Statistics
 2009-2012 | **Inria, France** and <br> **University of Bern, Switzerland**  | PhD in Computer Science and <br> Biomedical Engineering
 2006-2008 | **University of Bern, Switzerland**                             | MSc in Biomedical Engineering
 2001-2005 | **University of Applied Sciences, Biel, Switzerland**           | Dipl. Ing. FH in Computer Science
@@ -13,7 +17,7 @@ title: CV
 * Inria: French Institute for Research in Computer Science and Automation
 * I received a [joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) from two universities
 
-## Positions
+## Past Positions
 
 * 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville) (Spring quarter)
 * 2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States (Fall quarter)
