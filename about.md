@@ -3,10 +3,6 @@ layout: page
 title: CV
 ---
 
-## Current Positions
-
-* Since 2018: **Research Scientist in Statistics at Stanford University**
-
 ## Education
 
 2013-2017 | **Stanford University**                                         | Postdoc in Statistics
@@ -16,6 +12,10 @@ title: CV
 
 * Inria: French Institute for Research in Computer Science and Automation
 * I received a [joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) from two universities
+
+## Current Position
+
+* Since 2018: **Research Scientist in Statistics at Stanford University**
 
 ## Past Positions
 
