@@ -15,7 +15,7 @@ In collaboration with the with [Catherine Blish](https://med.stanford.edu/profil
 
 ### Functional Brain Connectivity
 
-In this applied statistics project, I modeled brain connectivity for functional resting-state Magnetic Resonance Imaging (rfMRI) studies using two multivariate **heteroscedasticity** models. I applied our models to processed brain connectivity data from the Human Connectome Project (HCP) to compare short and conventional sleepers.
+In this applied statistics project, I modeled brain connectivity for functional resting-state Magnetic Resonance Imaging (rfMRI) studies using two multivariate heteroscedasticity models. I applied our models to processed brain connectivity data from the Human Connectome Project (HCP) to compare short and conventional sleepers.
 
 * Paper: [open access](https://doi.org/10.3389/fnins.2017.00696)
 * Supplementary material: [Power Analysis](https://christofseiler.github.io/CovRegFC_HCP/Power.html), [Low-Dimensional Model Analysis](https://christofseiler.github.io/CovRegFC_HCP/Low_Dimensional.html), and [Full Model Analysis](https://christofseiler.github.io/CovRegFC_HCP/Full.html)
