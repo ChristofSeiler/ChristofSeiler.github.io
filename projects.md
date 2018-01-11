@@ -22,14 +22,6 @@ In this applied statistics project, I modeled brain connectivity for functional 
 * R package: [github](https://github.com/ChristofSeiler/CovRegFC)
 * Data analysis workflow: [github](https://github.com/ChristofSeiler/CovRegFC_HCP)
 
-### Hamiltonian Monte Carlo
-
-In this mathematical statistics project, I estimated running times of Hamiltonian Monte Carlo in high dimensions using Riemannian geometry and coarse Ricci curvature. I proposed a new metric based on the generalization of curvature to Riemannian manifolds, namely sectional curvature. I derived asymptotic sectional curvature for the multivariate normal distribution and showed simulation results for the multivariate t distribution with varying degrees of freedom. My results suggest sectional curvature as a quality control tool during Hamiltonian Monte Carlo simulations.
-
-* Paper: [arXiv](http://arxiv.org/abs/1407.1114), [NIPS](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf)
-* Poster: [pdf](https://christofseiler.github.io/NIPS-Poster.pdf)
-* R package: [github](https://github.com/ChristofSeiler/curvature), [vignette](https://christofseiler.github.io/vignettes/curvature.html)
-
 ### Heterogeneous Data Integration
 
 In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine, I studied interactions between brain imaging and cognitive data in girls with Turner syndrome. The procedure combines multi-table methods with permutation tests by constructing cluster size test statistics that incorporate spatial dependencies.
@@ -38,6 +30,14 @@ In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-r
 * Supplementary material: [github](https://github.com/ChristofSeiler/braincog_manuscript)
 * R package: [github](https://github.com/ChristofSeiler/braincog)
 * Data analysis workflow: [Interactions](https://christofseiler.github.io/braincog/supplementary_materials/Interactions_2.html)
+
+### Hamiltonian Monte Carlo
+
+In this mathematical statistics project, I estimated running times of Hamiltonian Monte Carlo in high dimensions using Riemannian geometry and coarse Ricci curvature. I proposed a new metric based on the generalization of curvature to Riemannian manifolds, namely sectional curvature. I derived asymptotic sectional curvature for the multivariate normal distribution and showed simulation results for the multivariate t distribution with varying degrees of freedom. My results suggest sectional curvature as a quality control tool during Hamiltonian Monte Carlo simulations.
+
+* Paper: [arXiv](http://arxiv.org/abs/1407.1114), [NIPS](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf)
+* Poster: [pdf](https://christofseiler.github.io/NIPS-Poster.pdf)
+* R package: [github](https://github.com/ChristofSeiler/curvature), [vignette](https://christofseiler.github.io/vignettes/curvature.html)
 
 ## Biomedical Image Analysis
 
