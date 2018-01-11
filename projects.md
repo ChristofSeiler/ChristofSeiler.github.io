@@ -12,6 +12,7 @@ In collaboration with the with [Catherine Blish](https://med.stanford.edu/profil
 * Paper on statistical methods and workflow: in preparation
 * Paper on NK cells and influenza: [bioRxiv](https://doi.org/10.1101/148528)
 * R package: in preparation
+* Latent class regression: [github](https://github.com/ChristofSeiler/Ascona_Talk)
 
 ### Functional Brain Connectivity
 
