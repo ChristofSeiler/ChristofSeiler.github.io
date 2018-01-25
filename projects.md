@@ -5,7 +5,7 @@ title: Research Projects
 
 ## Biomedical Data Analysis
 
-### Natural Killer Cells
+### Regression for Mass Cytometry
 
 In collaboration with the with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine, I am investigating how NK cells can be harnessed for therapeutic purposes. I develop and consult for several projects using RNA-seq, microarrays, and CyTOF data.
 
@@ -14,7 +14,7 @@ In collaboration with the with [Catherine Blish](https://med.stanford.edu/profil
 * R package: in preparation
 * Latent class regression: [github](https://github.com/ChristofSeiler/Ascona_Talk)
 
-### Functional Brain Connectivity
+### Regression for Functional Brain Connectivity
 
 In this applied statistics project, I modeled brain connectivity for functional resting-state Magnetic Resonance Imaging (rfMRI) studies using two multivariate heteroscedasticity models. I applied our models to processed brain connectivity data from the Human Connectome Project (HCP) to compare short and conventional sleepers.
 
@@ -23,7 +23,7 @@ In this applied statistics project, I modeled brain connectivity for functional 
 * R package: [github](https://github.com/ChristofSeiler/CovRegFC)
 * Data analysis workflow: [github](https://github.com/ChristofSeiler/CovRegFC_HCP)
 
-### Heterogeneous Data Integration
+### Heterogeneous Data Integration for Neuroimaging
 
 In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine, I studied interactions between brain imaging and cognitive data in girls with Turner syndrome. The procedure combines multi-table methods with permutation tests by constructing cluster size test statistics that incorporate spatial dependencies.
 
@@ -32,7 +32,7 @@ In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-r
 * R package: [github](https://github.com/ChristofSeiler/braincog)
 * Data analysis workflow: [Interactions](https://christofseiler.github.io/braincog/supplementary_materials/Interactions_2.html)
 
-### Hamiltonian Monte Carlo
+### Diagnostics of Hamiltonian Monte Carlo
 
 In this mathematical statistics project, I estimated running times of Hamiltonian Monte Carlo in high dimensions using Riemannian geometry and coarse Ricci curvature. I proposed a new metric based on the generalization of curvature to Riemannian manifolds, namely sectional curvature. I derived asymptotic sectional curvature for the multivariate normal distribution and showed simulation results for the multivariate t distribution with varying degrees of freedom. My results suggest sectional curvature as a quality control tool during Hamiltonian Monte Carlo simulations.
 
