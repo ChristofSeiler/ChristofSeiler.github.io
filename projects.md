@@ -5,7 +5,7 @@ title: Research Projects
 
 ## Biomedical Data Analysis
 
-### Regression for Mass Cytometry
+### Regression Models for Mass Cytometry
 
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine, I am investigating how NK cells can be harnessed for therapeutic purposes. I evaluated whether NK cells express different sets of proteins in response to influenza-infected monocytes. We used mass cytometry to measure protein expression at single cell resolution, and RNA sequencing to capture gene expression. My major contribution was building a Generalized Linear Mixed Effect Model (GLMM) that relates protein expression to experimental conditions while accounting for donor-specific variation. This approach was essential for identifying a previous unrecognized influenza immunoevasion strategy. I am currently implementing and applying a new R package in multiple on-going projects on NK response to influenza, a drug, and to HIV.
 
@@ -14,7 +14,7 @@ In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/cather
 * R package: in preparation
 * Latent class regression: [github](https://github.com/ChristofSeiler/Ascona_Talk)
 
-### Regression for Functional Brain Connectivity
+### Regression Models for Functional Brain Connectivity
 
 In this applied statistics project, I modeled brain connectivity for functional resting-state Magnetic Resonance Imaging (rfMRI) studies using two multivariate heteroscedasticity models. I applied our models to processed brain connectivity data from the Human Connectome Project (HCP) to compare short and conventional sleepers.
 
