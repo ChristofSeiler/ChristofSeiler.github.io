@@ -17,16 +17,16 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 
 ## Peer-Reviewed Journal Articles
 
-1. **Multivariate Heteroscedasticity Models for Functional Brain Connectivity** <br>
+1. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
+**C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
+Neuroinformatics, Volume 16, Issue 1, January 2018, Pages 81&ndash;93 <br>
+[pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf), [view](http://rdcu.be/CZGQ), [DOI](http://dx.doi.org/10.1007/s12021-017-9351-z)
+
+2. **Multivariate Heteroscedasticity Models for Functional Brain Connectivity** <br>
 **C. Seiler** and S. Holmes <br>
 Frontiers in Neuroscience, Section Brain Imaging Methods <br>
 Volume 11, Article 696, December 2017, Pages 1&ndash;11 <br>
 [open access](https://doi.org/10.3389/fnins.2017.00696)
-
-2. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
-**C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
-Neuroinformatics, December 2017, Pages 1&ndash;13 <br>
-[pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf), [view](http://rdcu.be/CZGQ), [DOI](http://dx.doi.org/10.1007/s12021-017-9351-z)
 
 3. **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, M. Reyes, and P. B&uuml;chler <br>
