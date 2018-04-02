@@ -23,8 +23,8 @@ title: CV
 * 2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States (Fall quarter)
 * 2006: Software Engineer, ISS AG, [Integrated Scientific Services](http://www.iss-ag.ch/en), Biel, Switzerland (1.5 years, part time 40%)
 * 2006: Software Engineer, [Institute for Evaluative Research in Medicine](http://www.memcenter.unibe.ch/), University of Bern (11 months, part time 40%)
-* 2005: Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel (1 year)
-* 2003: Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States (3 months)
+* 2005: Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel (3 months)
+* 2003: Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States (1 year)
 
 ## Teaching
 
