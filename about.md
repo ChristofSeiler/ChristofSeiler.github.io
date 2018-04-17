@@ -48,6 +48,8 @@ title: CV
 
 ## Invited and Contributed Talks
 
+* 03/2018: [Department of Statistics](http://www.en.statistik.uni-muenchen.de/index.html), LMU - Ludwig-Maximilians-Universität München, Germany
+* 02/2018: [School of Mathematical Sciences](https://www.qmul.ac.uk/maths/), Queen Mary University of London, UK
 * 05/2017: [Workshop on Statistical Challenges in Single-Cell Biology](https://www.bsse.ethz.ch/cbg/cbg-news/ascona-2017.html), Ascona, Switzerland
 * 04/2017: [Division of Immunology and Allergy](http://www.immunologyresearch.ch/), Lausanne University Hospital (CHUV), Lausanne, Switzerland
 * 04/2017: [Institute for Immunity, Transplantation and Infection (ITI)](https://iti.stanford.edu/), CyTOF Working Group, Stanford, United States
