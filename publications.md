@@ -12,7 +12,7 @@ M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Starosvetsky, L. Moore, S. She
 [bioRxiv](https://doi.org/10.1101/349084)
 
 2. **Strain-Specific Human Natural Killer Cell Recognition of Influenza A Virus** <br>
-L. M Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
+L. Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
 [bioRxiv](https://doi.org/10.1101/148528)
 
 3. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
