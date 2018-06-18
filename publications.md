@@ -8,7 +8,7 @@ title: Publications
 ## Preprints
 
 1. **CD38 is a key regulator of enhanced NK cell immune responses during pregnancy through its role in immune synapse formation** <br>
-Mathieu Le Gars, Christof Seiler, Alexander Kay, Nicholas Bayless, Elina Starosvetsky, Lindsay Moore, Shai Shen-Orr, Natali Aziz, Cornelia Dekker, Purvesh Khatri, Gary Swan, Mark Davis, Susan Holmes, Catherine Blish <br>
+M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, C. Dekker, P. Khatri, G. Swan, M. Davis, S. Holmes, C. Blish <br>
 [bioRxiv](https://doi.org/10.1101/349084)
 
 2. **Strain-Specific Human Natural Killer Cell Recognition of Influenza A Virus** <br>
