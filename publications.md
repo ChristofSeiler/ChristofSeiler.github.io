@@ -7,7 +7,7 @@ title: Publications
 
 ## Preprints
 
-1. **CD38 is a key regulator of enhanced NK cell immune responses during pregnancy through its role in immune synapse formation** <br>
+1. **CD38 Is a Key Regulator of Enhanced NK Cell Immune Responses During Pregnancy Through its Role in Immune Synapse Formation** <br>
 M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, C. Dekker, P. Khatri, G. Swan, M. Davis, S. Holmes, C. Blish <br>
 [bioRxiv](https://doi.org/10.1101/349084)
 
