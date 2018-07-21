@@ -28,6 +28,7 @@ title: CV
 
 ## Teaching
 
+* Summer 2018: Stats 366 - Bios 221, Modern Statistics for Modern Biology, Stanford University, invited guest lecture on image data, [course website](http://web.stanford.edu/class/bios221/index.html)
 * Summer 2017: Stats 366 - Bios 221, Modern Statistics for Modern Biology, Stanford University, Teaching Assistant (TA), responsible for labs, [course website](http://web.stanford.edu/class/bios221/index.html)
 * Spring 2016: Stats 205, Introduction to Nonparametric Statistics, Stanford University, full course as a sole instructor, [course website](http://christofseiler.github.io/stats205/)
 * Fall 2009: Medical Image Analysis (master course), [ETHZ](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2018S&lerneinheitId=122115&lang=en) and [University of Bern](http://www.bme.master.unibe.ch/studies/curriculum/list_of_courses/medical_image_analysis/), invited guest lecture on computational anatomy
