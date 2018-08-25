@@ -11,53 +11,53 @@ title: Publications
 M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, C. Dekker, P. Khatri, G. Swan, M. Davis, S. Holmes, C. Blish <br>
 [bioRxiv](https://doi.org/10.1101/349084)
 
-2. **Strain-Specific Human Natural Killer Cell Recognition of Influenza A Virus** <br>
-L. Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
-[bioRxiv](https://doi.org/10.1101/148528)
-
-3. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
+2. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
 S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 [arXiv](http://arxiv.org/abs/1407.1114)
 
 ## Peer-Reviewed Journal Articles
 
-1. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
+1. **Differential Induction of IFN-α and Modulation of CD112 and CD54 Expression Govern the Magnitude of NK Cell IFN-γ Response to Influenza A Viruses** <br>
+L. Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
+[bioRxiv](https://doi.org/10.1101/148528), [DOI](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
+
+2. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
 **C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
 Neuroinformatics, Volume 16, Issue 1, January 2018, Pages 81&ndash;93 <br>
 [pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf), [view](http://rdcu.be/CZGQ), [DOI](http://dx.doi.org/10.1007/s12021-017-9351-z)
 
-2. **Multivariate Heteroscedasticity Models for Functional Brain Connectivity** <br>
+3. **Multivariate Heteroscedasticity Models for Functional Brain Connectivity** <br>
 **C. Seiler** and S. Holmes <br>
 Frontiers in Neuroscience, Section Brain Imaging Methods <br>
 Volume 11, Article 696, December 2017, Pages 1&ndash;11 <br>
 [open access](https://doi.org/10.3389/fnins.2017.00696)
 
-3. **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
+4. **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, M. Reyes, and P. B&uuml;chler <br>
 Medical Engineering and Physics, Volume 36, Issue 12, December 2014, Pages 1626&ndash;1635 <br>
 [pdf](http://www.mauricioreyes.me/Publications/BonarettiMEP2014.pdf), [DOI](http://dx.doi.org/10.1016/j.medengphy.2014.09.006)
 
-4. **Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation** <br>
+5. **Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation** <br>
 **C. Seiler**, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
 Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, September 2014, Pages 737&ndash;746 <br>
 [pdf](https://pdfs.semanticscholar.org/a1f2/856b339318fd751d77a9cde70ffc07d9e863.pdf), [DOI](http://dx.doi.org/10.1002/term.1575)
 
-5. **Discussion of "Geodesic Monte Carlo on Embedded Manifolds"** <br>
+6. **Discussion of "Geodesic Monte Carlo on Embedded Manifolds"** <br>
 P. Diaconis, **C. Seiler**, and S. Holmes <br>
 Scandinavian Journal of Statistics, Volume 41, Issue 1, March 2014, Pages 3&ndash;7	<br>
 [pdf](http://arxiv.org/abs/1311.1129), [journal](http://onlinelibrary.wiley.com/doi/10.1111/sjos.12070/abstract)
 
-6. **Validity of an Automatic Measure Protocol in Distal Femur for Allograft Selection from a Three-Dimensional Virtual Bone Bank System** <br>
+7. **Validity of an Automatic Measure Protocol in Distal Femur for Allograft Selection from a Three-Dimensional Virtual Bone Bank System** <br>
 L. Ritacco, **C. Seiler**, G. Farfalli, L. Nolte, M. Reyes, D. Muscolo, and L. Tinao <br>
 Cell and Tissue Banking, Volume 14, Issue 2, June 2013, Pages 213&ndash;220 <br>
 [pdf](http://www-sop.inria.fr/asclepios/Publications/Christof.Seiler/RitaccoSeilerCTB2012.pdf), [DOI](http://dx.doi.org/10.1007/s10561-012-9307-3)
 
-7. **Capturing the Multiscale Anatomical Shape Variability with Polyaffine Transformation Trees** <br>
+8. **Capturing the Multiscale Anatomical Shape Variability with Polyaffine Transformation Trees** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
 Medical Image Analysis, Volume 16, Issue 7, October 2012, Pages 1371&ndash;1384 <br>
 [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerPolyaffineTransformationTreesMedIA2012.pdf), [DOI](http://dx.doi.org/10.1016/j.media.2012.05.011)
 
-8. **Statistical Model Based Shape Prediction from a Combination of Direct Observations and Various Surrogates: Application to Orthopaedic Research** <br>
+9. **Statistical Model Based Shape Prediction from a Combination of Direct Observations and Various Surrogates: Application to Orthopaedic Research** <br>
 R. Blanc, **C. Seiler**, G. Sz&eacute;kely, L. Nolte, and M. Reyes <br>
 Medical Image Analysis, Volume 16, Issue 6, August 2012, Pages 1156&ndash;1166 <br>
 [pdf](http://www-sop.inria.fr/asclepios/Publications/Christof.Seiler/BlancSeilerMedIA2012.pdf), [DOI](http://dx.doi.org/10.1016/j.media.2012.04.004)

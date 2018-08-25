@@ -11,7 +11,7 @@ In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/cather
 
 * Paper on statistical methods and workflow: in preparation
 * Paper on NK cells and pregnancy: [bioRxiv](https://doi.org/10.1101/349084)
-* Paper on NK cells and influenza: [bioRxiv](https://doi.org/10.1101/148528)
+* Paper on NK cells and influenza: [bioRxiv](https://doi.org/10.1101/148528), [DOI](http://dx.doi.org/10.4049/jimmunol.1800161), and data analysis workflow [github](https://github.com/ChristofSeiler/nk_influenza)
 * R package: in preparation
 * Latent class regression: [github](https://github.com/ChristofSeiler/Ascona_Talk)
 
