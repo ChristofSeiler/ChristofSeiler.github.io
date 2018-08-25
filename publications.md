@@ -19,6 +19,7 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 
 1. **Differential Induction of IFN-α and Modulation of CD112 and CD54 Expression Govern the Magnitude of NK Cell IFN-γ Response to Influenza A Viruses** <br>
 L. Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
+The Journal of Immunology, 2018 <br>
 [bioRxiv](https://doi.org/10.1101/148528), [DOI](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
 
 2. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
