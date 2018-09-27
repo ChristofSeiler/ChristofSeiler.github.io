@@ -25,7 +25,7 @@ title: CV
 
 ## Teaching
 
-* See [teaching page](http://christofseiler.github.io/teaching/)
+* See [teaching page](teaching/)
 
 ## Grants and Awards
 
@@ -69,4 +69,4 @@ title: CV
 
 ## Publications
 
-* See [publication page](http://christofseiler.github.io/publications/)
+* See [publication page](publications/)
