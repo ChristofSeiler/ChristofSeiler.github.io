@@ -10,14 +10,14 @@ title: CV
 2006-2008 | **University of Bern, Switzerland**                             | MSc in Biomedical Engineering
 2001-2005 | **University of Applied Sciences, Biel, Switzerland**           | Dipl. Ing. FH in Computer Science
 
-* My postdoctoral mentor was [Susan Holmes](http://www-stat.stanford.edu/~susan/)
+* My postdoctoral mentor was [Susan Holmes](https://statweb.stanford.edu/~susan/susan_person.html)
 * My PhD advisors were [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) and [Mauricio Reyes](http://www.mauricioreyes.me/)
 * Inria: French Institute for Research in Computer Science and Automation
 * I received a [joint PhD](http://www.unibe.ch/studies/programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) from two universities
 
 ## Positions
 
-* 2018-present: **Research Scientist**, [Holmes Lab](http://www-stat.stanford.edu/~susan/), Department of Statistics, Stanford University
+* 2018-present: **Research Scientist**, [Holmes Lab](https://statweb.stanford.edu/~susan/susan_person.html), Department of Statistics, Stanford University
 * 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
 * 2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States
 * 2006: Software Engineer, ISS AG, [Integrated Scientific Services](http://www.iss-ag.ch/en), Biel, Switzerland
