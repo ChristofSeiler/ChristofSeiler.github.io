@@ -5,7 +5,7 @@ title: CV
 
 ## Education
 
-2013-2017 | **Stanford University**                                         | Postdoc in Statistics
+2013-2017 | **Stanford University**                                         | Postdoctoral Fellow in Statistics
 2009-2012 | **Inria, France** and <br> **University of Bern, Switzerland**  | PhD in Computer Science and <br> Biomedical Engineering
 2006-2008 | **University of Bern, Switzerland**                             | MSc in Biomedical Engineering
 2001-2005 | **University of Applied Sciences, Biel, Switzerland**           | Dipl. Ing. FH in Computer Science
@@ -13,13 +13,10 @@ title: CV
 * Inria: French Institute for Research in Computer Science and Automation
 * I received a [joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) from two universities
 
-## Current Position
+## Positions
 
-* Since 2018: **Research Scientist in Statistics at Stanford University**
-
-## Past Positions
-
-* 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville) (Spring quarter)
+* 2018-present: **Research Scientist in Statistics at Stanford University**
+* 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland (Spring quarter)
 * 2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States (Fall quarter)
 * 2006: Software Engineer, ISS AG, [Integrated Scientific Services](http://www.iss-ag.ch/en), Biel, Switzerland (1.5 years, part time 40%)
 * 2006: Software Engineer, [Institute for Evaluative Research in Medicine](http://www.memcenter.unibe.ch/), University of Bern (11 months, part time 40%)
@@ -28,11 +25,7 @@ title: CV
 
 ## Teaching
 
-* Summer 2018: Stats 366 - Bios 221, Modern Statistics for Modern Biology, Stanford University, invited guest lecture on image data, [course website](http://web.stanford.edu/class/bios221/index.html)
-* Summer 2017: Stats 366 - Bios 221, Modern Statistics for Modern Biology, Stanford University, Teaching Assistant (TA), responsible for labs, [course website](http://web.stanford.edu/class/bios221/index.html)
-* Spring 2016: Stats 205, Introduction to Nonparametric Statistics, Stanford University, full course as a sole instructor, [course website](http://christofseiler.github.io/stats205/)
-* Fall 2009: Medical Image Analysis (master course), [ETHZ](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2018S&lerneinheitId=122115&lang=en) and [University of Bern](http://www.bme.master.unibe.ch/studies/curriculum/list_of_courses/medical_image_analysis/), invited guest lecture on computational anatomy
-* Fall 2008: Medical Image Analysis (master course), [ETHZ](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2018S&lerneinheitId=122115&lang=en), invited guest lecture on shape representation
+* See [teaching page](http://christofseiler.github.io/teaching/) for more details
 
 ## Grants and Awards
 
