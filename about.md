@@ -15,7 +15,7 @@ title: CV
 
 ## Positions
 
-* 2018-present: **Research Scientist in Statistics at Stanford University**
+* 2018-present: **Research Scientist, Department of Statistics, Stanford University**
 * 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
 * 2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States
 * 2006: Software Engineer, ISS AG, [Integrated Scientific Services](http://www.iss-ag.ch/en), Biel, Switzerland
@@ -25,7 +25,7 @@ title: CV
 
 ## Teaching
 
-* See [teaching page](http://christofseiler.github.io/teaching/) for more details
+* See [teaching page](http://christofseiler.github.io/teaching/)
 
 ## Grants and Awards
 
@@ -66,3 +66,7 @@ title: CV
 * 08/2009: [Summer School on Manifold Learning in Image and Signal Analysis](http://www2.imm.dtu.dk/projects/manifold/), Ven, Sweden
 * 06/2009: [CAOS](http://www.caos-international.org/2009/), Boston, MA, United States
 * 12/2008: [3D Physiological Human](http://3dph.miralab.unige.ch/), Zermatt, Switzerland
+
+## Publications
+
+* See [publication page](http://christofseiler.github.io/publications/)
