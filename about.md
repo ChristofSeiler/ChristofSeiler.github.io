@@ -19,7 +19,7 @@ title: CV
 * 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
 * 2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States
 * 2006: Software Engineer, ISS AG, [Integrated Scientific Services](http://www.iss-ag.ch/en), Biel, Switzerland
-* 2006: Software Engineer, [Institute for Evaluative Research in Medicine](http://www.memcenter.unibe.ch/), University of Bern
+* 2006: Software Engineer, [Institute for Evaluative Research in Orthopaedics](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern
 * 2005: Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel
 * 2003: Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States
 
