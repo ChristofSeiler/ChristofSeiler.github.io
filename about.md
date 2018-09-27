@@ -11,17 +11,17 @@ title: CV
 2001-2005 | **University of Applied Sciences, Biel, Switzerland**           | Dipl. Ing. FH in Computer Science
 
 * Inria: French Institute for Research in Computer Science and Automation
-* I received a [joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) from two universities
+* I received a [joint PhD](http://www.unibe.ch/studies/programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) from two universities
 
 ## Positions
 
 * 2018-present: **Research Scientist in Statistics at Stanford University**
-* 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland (Spring quarter)
-* 2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States (Fall quarter)
-* 2006: Software Engineer, ISS AG, [Integrated Scientific Services](http://www.iss-ag.ch/en), Biel, Switzerland (1.5 years, part time 40%)
-* 2006: Software Engineer, [Institute for Evaluative Research in Medicine](http://www.memcenter.unibe.ch/), University of Bern (11 months, part time 40%)
-* 2005: Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel (3 months)
-* 2003: Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States (1 year)
+* 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
+* 2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States
+* 2006: Software Engineer, ISS AG, [Integrated Scientific Services](http://www.iss-ag.ch/en), Biel, Switzerland
+* 2006: Software Engineer, [Institute for Evaluative Research in Medicine](http://www.memcenter.unibe.ch/), University of Bern
+* 2005: Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel
+* 2003: Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States
 
 ## Teaching
 
@@ -32,12 +32,12 @@ title: CV
 * 2017: [EPFL-Stanford Exchange Program Fellowship](https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying) (funded by Firmenich)
 * 2016: [ISBA](http://www.corsiecongressi.com/isba2016/) New Researchers Travel Award, Sardinia, Italy (gratefully declined)
 * 2015: Travel award for 10th [Conference on Bayesian Nonparametrics](https://www2.stat.duke.edu/bnp10/index.html), Raleigh, NC, United States
-* 2015: [Swiss NSF Fellowship for Advanced Researchers](http://p3.snf.ch/project-158500) (one year, topic: Uncertainty in Computational Anatomy)
+* 2015: [Swiss NSF Fellowship for Advanced Researchers](http://p3.snf.ch/project-158500)
 * 2013: [France-Stanford Collaborative Projects Grant](http://francestanford.stanford.edu/collaborative_projects/grant_recipients/2013_2014)
-* 2013: [Swiss NSF Fellowship for Prospective Researchers](http://p3.snf.ch/project-146281) (two years, topic: Monte Carlo Methods in Computational Anatomy)
-* 2011: [MICCAI Young Scientist Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada (top five of about 819 submitted papers by PhD students and postdocs)
+* 2013: [Swiss NSF Fellowship for Prospective Researchers](http://p3.snf.ch/project-146281)
+* 2011: [MICCAI Young Scientist Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada
 * 2011: [MICCAI Student Travel Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada
-* 2011: Paper invitation for [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/) (invitation rate about 1.5%)
+* 2011: Paper invitation for [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/)
 * 2010: Financial support for [joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) to travel between France and Switzerland [(SERI)](https://www.sbfi.admin.ch/sbfi/en/home.html)
 
 ## Invited and Contributed Talks

@@ -17,7 +17,7 @@ Teaching Assistant (TA) responsible for labs <br>
 
 * Spring 2016: <br>
 Introduction to Nonparametric Statistics (Stats 205) <br>
-Full course as a sole instructor <br>
+**Full course as a sole instructor** <br>
 [Course website](http://christofseiler.github.io/stats205/)
 
 ## Courses at University of Bern and ETH Zurich
