@@ -17,7 +17,7 @@ title: CV
 
 ## Positions
 
-* 2018-present: **Research Scientist**, [Holmes Lab](https://statweb.stanford.edu/~susan/susan_person.html), Department of Statistics, Stanford University
+* 2018-present: Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University
 * 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
 * 2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States
 * 2006: Software Engineer, ISS AG, [Integrated Scientific Services](http://www.iss-ag.ch/en), Biel, Switzerland
