@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Test
 ---
 
-## Test
-
-This is a test.
+This is where course overview goes.
