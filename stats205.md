@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Teaching - Stats 205
+layout: default
+title: Stats 205
 ---
 
 # Introduction to Nonparametric Statistics
@@ -78,9 +78,9 @@ Office hours:
   * Wednesdays from 2:30 to 3:30 pm in 420-147
   * Thursdays from 10:30 to 11:30 am in Fishbowl at Sequoia
 * Lexi Guan (lguan [at] stanford [dot] edu)  
-Office hours: 
+Office hours:
   * Monday from 10:00 to 11:00 am in Bowker at Sequoia
-  * Friday from 4:00 to 5:00 pm in Fishbowl at Sequoia 
+  * Friday from 4:00 to 5:00 pm in Fishbowl at Sequoia
 
 ## Grading
 * Midterm Project Proposal (3 pages with references, 10%, due by April 29th)
@@ -137,7 +137,7 @@ Lecture | Topic(s)                                                              
 25      | [Multivariate Nonparametric Tests](Lecture25/MultivariateTests.pdf)                                                                | **Tu**, **Ho**, **RH**, and **FR**
 26      | [Bootstrap (Part 3)](Lecture26/Pivoting.pdf)                                                                                       | **ET** Chapters 12 and **Ha**, and **Lo**
 27      | [Bootstrap (Part 4)](Lecture27/BiasCorrection.pdf)                                                                                 | **ET** Chapters 14 and **Ha**
-28      | [Wrapup](Lecture28/Wrapup.pdf)                                                                                                     | 
+28      | [Wrapup](Lecture28/Wrapup.pdf)                                                                                                     |
 
 ## Homework
 

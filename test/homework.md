@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Homework
-exclude: true
 ---
 
 This is where homework goes.
