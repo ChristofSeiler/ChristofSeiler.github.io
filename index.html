@@ -4,72 +4,19 @@ title: Home
 ---
 
 <style>
-.left {
-    float: left;
-    width: 25%;
-}
-.right {
-    float: right;
-    width: 70%;
-}
-img {
-    max-width: 100%;
-    height: auto;
-}
-.group:after {
-    content:"";
-    display: table;
-    clear: both;
-}
-@media screen and (max-width: 480px) {
-    .left, .right {
-        float: none;
-        width: auto;
-    }
+p.narrow {
+    max-width: 400px;
 }
 </style>
 
-        <h1 class="page-title">Welcome</h1>
+<h1 class="page-title">Welcome</h1>
 
-<br>
+<img src="public/portrait.jpg" alt="" border="0" width="200px"/>
 
-<img src="public/portrait.jpg" alt="" border="0" width="200" />
+<p class="narrow">
+  My main research interest is in developing and applying computer intensive statistical methods to answer questions in the biomedical sciences.
+</p>
 
-<p>My main research interest is in developing and applying computer intensive statistical methods to answer questions in the biomedical sciences. Currently, I am collaborating with immunologists to analyze mass cytometry data and with neuroscientists to analyze medical imaging data.</p>
-
-<br>
-
-<!--
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
--->
+<p class="narrow">
+Currently, I am collaborating with immunologists to analyze mass cytometry data and with neuroscientists to analyze medical imaging data.
+</p>
