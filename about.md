@@ -3,6 +3,8 @@ layout: page
 title: CV
 ---
 
+(also available on [LinkedIn](https://www.linkedin.com/in/christof-seiler-2419294/))
+
 ## Education
 
 2013-2017 | **Stanford University**                                        | Postdoctoral Fellow in Statistics
