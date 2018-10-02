@@ -5,7 +5,7 @@ title: CV
 
 ## Education
 
-2013-2017 | **Stanford University**                                         | Postdoctoral Fellow in Statistics
+01/2013-12/2017 | **Stanford University**                                         | Postdoctoral Fellow in Statistics
 2009-2012 | **Inria, France** and <br> **University of Bern, Switzerland**  | PhD in Computer Science and <br> Biomedical Engineering
 2006-2008 | **University of Bern, Switzerland**                             | MSc in Biomedical Engineering
 2001-2005 | **University of Applied Sciences, Biel, Switzerland**           | Dipl. Ing. FH in Computer Science
@@ -20,7 +20,7 @@ title: CV
 * 2018-present: **Tenure-Track Assistant Professor**, [Department of Data Science and Knowledge Engineering](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
 * 2018: Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University
 * 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
-* 2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States
+* 06/2010-10/2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States
 * 2006: Software Engineer, ISS AG, [Integrated Scientific Services](http://www.iss-ag.ch/en), Biel, Switzerland
 * 2006: Software Engineer, [Institute for Evaluative Research in Orthopaedics](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern
 * 2005: Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel
