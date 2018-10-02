@@ -5,10 +5,10 @@ title: CV
 
 ## Education
 
-01/2013-12/2017 | **Stanford University**                                         | Postdoctoral Fellow in Statistics
-2009-2012 | **Inria, France** and <br> **University of Bern, Switzerland**  | PhD in Computer Science and <br> Biomedical Engineering
-2006-2008 | **University of Bern, Switzerland**                             | MSc in Biomedical Engineering
-2001-2005 | **University of Applied Sciences, Biel, Switzerland**           | Dipl. Ing. FH in Computer Science
+2013-2017 | **Stanford University**                                        | Postdoctoral Fellow in Statistics
+2009-2012 | **Inria, France** and <br> **University of Bern, Switzerland** | PhD in Computer Science and <br> Biomedical Engineering
+2006-2008 | **University of Bern, Switzerland**                            | MSc in Biomedical Engineering
+2001-2005 | **University of Applied Sciences, Biel, Switzerland**          | Dipl. Ing. FH in Computer Science
 
 * My postdoctoral mentor was [Susan Holmes](https://statweb.stanford.edu/~susan/susan_person.html)
 * My PhD advisors were [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) and [Mauricio Reyes](http://www.mauricioreyes.me/)
@@ -17,31 +17,27 @@ title: CV
 
 ## Positions
 
-* 2018-present: **Tenure-Track Assistant Professor**, [Department of Data Science and Knowledge Engineering](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
-* 2018: Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University
-* 2017: EPFL-Stanford Exchange Fellow hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
-* 06/2010-10/2010: Visiting Graduate Fellow, [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info/), NC, United States
-* 2006: Software Engineer, ISS AG, [Integrated Scientific Services](http://www.iss-ag.ch/en), Biel, Switzerland
-* 2006: Software Engineer, [Institute for Evaluative Research in Orthopaedics](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern
-* 2005: Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel
-* 2003: Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States
-
-## Teaching
-
-* See [teaching page](http://christofseiler.github.io/teaching/)
+* **Currently**: Tenure-Track Assistant Professor, [Department of Data Science and Knowledge Engineering](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
+* Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University
+* EPFL-Stanford Exchange Fellow, [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
+* Visiting Graduate Fellow, [SAMSI](https://www.samsi.info/), NC, United States
+* Software Engineer, [ISS AG](http://www.iss-ag.ch/en), Biel, Switzerland
+* Software Engineer, [Institute for Evaluative Research in Orthopaedic Surgery](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern
+* Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel
+* Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States
 
 ## Grants and Awards
 
-* 2017: [EPFL-Stanford Exchange Program Fellowship](https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying) (funded by Firmenich)
-* 2016: [ISBA](http://www.corsiecongressi.com/isba2016/) New Researchers Travel Award, Sardinia, Italy (gratefully declined)
-* 2015: Travel award for 10th [Conference on Bayesian Nonparametrics](https://www2.stat.duke.edu/bnp10/index.html), Raleigh, NC, United States
-* 2015: [Swiss NSF Fellowship for Advanced Researchers](http://p3.snf.ch/project-158500)
-* 2013: [France-Stanford Collaborative Projects Grant](http://francestanford.stanford.edu/collaborative_projects/grant_recipients/2013_2014)
-* 2013: [Swiss NSF Fellowship for Prospective Researchers](http://p3.snf.ch/project-146281)
-* 2011: [MICCAI Young Scientist Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada
-* 2011: [MICCAI Student Travel Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada
-* 2011: Paper invitation for [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/)
-* 2010: Financial support for [joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) to travel between France and Switzerland [(SERI)](https://www.sbfi.admin.ch/sbfi/en/home.html)
+* [EPFL-Stanford Exchange Program Fellowship](https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying) (funded by Firmenich)
+* [ISBA](http://www.corsiecongressi.com/isba2016/) New Researchers Travel Award, Sardinia, Italy (gratefully declined)
+* Travel award for 10th [Conference on Bayesian Nonparametrics](https://www2.stat.duke.edu/bnp10/index.html), Raleigh, NC, United States
+* [Swiss NSF Fellowship for Advanced Researchers](http://p3.snf.ch/project-158500)
+* [France-Stanford Collaborative Projects Grant](http://francestanford.stanford.edu/collaborative_projects/grant_recipients/2013_2014)
+* [Swiss NSF Fellowship for Prospective Researchers](http://p3.snf.ch/project-146281)
+* [MICCAI Young Scientist Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada
+* [MICCAI Student Travel Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada
+* Paper invitation for [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/)
+* Financial support for [joint PhD](http://www.unibe.ch/studies/degree_programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) to travel between France and Switzerland [(SERI)](https://www.sbfi.admin.ch/sbfi/en/home.html)
 
 ## Invited and Contributed Talks
 
@@ -69,7 +65,3 @@ title: CV
 * 08/2009: [Summer School on Manifold Learning in Image and Signal Analysis](http://www2.imm.dtu.dk/projects/manifold/), Ven, Sweden
 * 06/2009: [CAOS](http://www.caos-international.org/2009/), Boston, MA, United States
 * 12/2008: [3D Physiological Human](http://3dph.miralab.unige.ch/), Zermatt, Switzerland
-
-## Publications
-
-* See [publication page](http://christofseiler.github.io/publications/)
