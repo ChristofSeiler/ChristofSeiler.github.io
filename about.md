@@ -6,7 +6,7 @@ title: CV
 ## Education
 
 2013-2017 | **Stanford University**                                        | Postdoctoral Fellow in Statistics
-2009-2012 | **Inria, France** and <br> **University of Bern, Switzerland** | PhD in Computer Science and <br> Biomedical Engineering
+2008-2012 | **Inria, France** and <br> **University of Bern, Switzerland** | PhD in Computer Science and <br> Biomedical Engineering
 2006-2008 | **University of Bern, Switzerland**                            | MSc in Biomedical Engineering
 2001-2005 | **University of Applied Sciences, Biel, Switzerland**          | Dipl. Ing. FH in Computer Science
 
@@ -17,7 +17,7 @@ title: CV
 
 ## Positions
 
-* **Currently**: Tenure-Track Assistant Professor, [Department of Data Science and Knowledge Engineering](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
+* **Currently**: Tenure-Track Assistant Professor, [DKE](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
 * Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University
 * EPFL-Stanford Exchange Fellow, [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
 * Visiting Graduate Fellow, [SAMSI](https://www.samsi.info/), NC, United States
