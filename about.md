@@ -14,7 +14,7 @@ title: CV
 
 * My postdoctoral mentor was [Susan Holmes](https://statweb.stanford.edu/~susan/susan_person.html)
 * My PhD advisors were [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) and [Mauricio Reyes](http://www.mauricioreyes.me/)
-* Inria: French Institute for Research in Computer Science and Automation
+* [Inria](https://www.inria.fr/en/): French Institute for Research in Computer Science and Automation
 * I received a [joint PhD](http://www.unibe.ch/studies/programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) from two universities
 
 ## Positions
