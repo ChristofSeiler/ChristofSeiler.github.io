@@ -17,13 +17,13 @@ title: CV
 
 ## Positions
 
-* **Currently**: Tenure-Track Assistant Professor, [DKE](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
+* **Current**: Tenure-Track Assistant Professor, [DKE](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
 * Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University
-* EPFL-Stanford Exchange Fellow, [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
+* EPFL-Stanford Exchange Fellow, [Dimitri Van De Ville Lab](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
 * Visiting Graduate Fellow, [SAMSI](https://www.samsi.info/), NC, United States
 * Software Engineer, [ISS AG](http://www.iss-ag.ch/en), Biel, Switzerland
 * Software Engineer, [Institute for Evaluative Research in Orthopaedic Surgery](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern
-* Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel
+* Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel, Switzerland
 * Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States
 
 ## Grants and Awards
