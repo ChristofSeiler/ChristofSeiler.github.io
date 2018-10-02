@@ -19,7 +19,7 @@ title: CV
 
 * **Current**: Tenure-Track Assistant Professor, [DKE](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
 * Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University
-* EPFL-Stanford Exchange Fellow, [Dimitri Van De Ville Lab](http://miplab.epfl.ch/index.php/people/vandeville), Lausanne, Switzerland
+* EPFL-Stanford Exchange Fellow, [MIP:Lab](https://miplab.epfl.ch/), Lausanne, Switzerland
 * Visiting Graduate Fellow, [SAMSI](https://www.samsi.info/), NC, United States
 * Software Engineer, [ISS AG](http://www.iss-ag.ch/en), Biel, Switzerland
 * Software Engineer, [Institute for Evaluative Research in Orthopaedic Surgery](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern
@@ -28,7 +28,7 @@ title: CV
 
 ## Grants and Awards
 
-* [EPFL-Stanford Exchange Program Fellowship](https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying) (funded by Firmenich)
+* [EPFL-Stanford Exchange Fellowship](https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying) (funded by Firmenich and hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville)
 * [ISBA](http://www.corsiecongressi.com/isba2016/) New Researchers Travel Award, Sardinia, Italy (gratefully declined)
 * Travel award for 10th [Conference on Bayesian Nonparametrics](https://www2.stat.duke.edu/bnp10/index.html), Raleigh, NC, United States
 * [Swiss NSF Fellowship for Advanced Researchers](http://p3.snf.ch/project-158500)
