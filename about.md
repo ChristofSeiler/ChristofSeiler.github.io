@@ -28,7 +28,7 @@ title: CV
 
 ## Grants and Awards
 
-* [EPFL-Stanford Exchange Fellowship](https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying) (funded by Firmenich and hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville)
+* [EPFL-Stanford Exchange Fellowship](https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying) (funded by Firmenich and hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville))
 * [ISBA](http://www.corsiecongressi.com/isba2016/) New Researchers Travel Award, Sardinia, Italy (gratefully declined)
 * Travel award for 10th [Conference on Bayesian Nonparametrics](https://www2.stat.duke.edu/bnp10/index.html), Raleigh, NC, United States
 * [Swiss NSF Fellowship for Advanced Researchers](http://p3.snf.ch/project-158500)
