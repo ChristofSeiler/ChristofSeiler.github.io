@@ -57,7 +57,7 @@ title: CV
 * 05/2014: [Inria Sophia Antipolis](https://www.inria.fr/en/centre/sophia), Sophia Antipolis, France
 * 03/2014: [Institut de Mathematiques de Toulouse](https://www.math.univ-toulouse.fr/), Paul Sabatier University, France
 * 10/2013: [Stanford Statistics Seminar](https://statistics.stanford.edu/events/statistics-seminar), CA, United States
-* 08/2013: [Geometric Science of Information](https://www.see.asso.fr/gsi2013), Paris, France, presentation: [(youtube link)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc) discussion: [(youtube link)](https://www.youtube.com/watch?v=B22UeW_wOpg)
+* 08/2013: [Geometric Science of Information](https://www.see.asso.fr/gsi2013), Paris, France
 * 03/2013: [Computational People United at Stanford](http://web.stanford.edu/group/cpus/Home.html), CA, United States
 * 03/2013: [Co-Me Seminar](http://www.snf.ch/en/researchinFocus/nccr/nccr-co-me/Pages/default.aspx), [Artorg Center](http://www.artorg.unibe.ch/), University of Bern, Switzerland
 * 09/2011: [MICCAI](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada (acceptance rate 4.2% out of 819 papers)

@@ -46,7 +46,7 @@ My first three years as a postdoctoral fellow were funded by the Swiss National 
 First, I used modern Bayesian nonparametrics to find regions of interest in computed tomography images of the human spine:
 
 * Paper: [pdf](https://hal.inria.fr/hal-00847185/document)
-* Talk: [youtube](https://www.youtube.com/watch?v=KZO-EaJ6Qrc)
+* Talk: [youtube (part 1)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc), [youtube (part 2)](https://www.youtube.com/watch?v=B22UeW_wOpg)
 * Software: [github](https://github.com/ChristofSeiler/BayesianNonparametrics.git)
 
 Second, I built a Bayesian registration model and implemented the Hamiltonian Monte Carlo sampler to draw samples from its posterior distribution:
