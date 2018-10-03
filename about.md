@@ -24,7 +24,7 @@ title: CV
 * EPFL-Stanford Exchange Fellow, [MIP:Lab](https://miplab.epfl.ch/), Lausanne, Switzerland
 * Visiting Graduate Fellow, [SAMSI](https://www.samsi.info/), NC, United States
 * Software Engineer, [ISS AG](http://www.iss-ag.ch/en), Biel, Switzerland
-* Software Engineer, [Institute for Evaluative Research in Orthopaedic Surgery](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern, Switzerland
+* Software Engineer, [IEFO](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern, Switzerland
 * Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel, Switzerland
 * Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States
 
@@ -46,7 +46,7 @@ title: CV
 * 03/2018: [Department of Statistics](http://www.en.statistik.uni-muenchen.de/index.html), Ludwig-Maximilians-Universität München, Germany
 * 02/2018: [School of Mathematical Sciences](https://www.qmul.ac.uk/maths/), Queen Mary University of London, UK
 * 05/2017: [Workshop on Statistical Challenges in Single-Cell Biology](https://www.bsse.ethz.ch/cbg/cbg-news/ascona-2017.html), Ascona, Switzerland
-* 04/2017: [Division of Immunology and Allergy](http://www.immunologyresearch.ch/), Lausanne University Hospital (CHUV), Lausanne, Switzerland
+* 04/2017: [Division of Immunology and Allergy](http://www.immunologyresearch.ch/), Lausanne University Hospital, Lausanne, Switzerland
 * 04/2017: [CyTOF User Group](http://iti.stanford.edu/research/cytof.html), Stanford School of Medicine, CA, United States
 * 03/2017: [MIP:Lab](https://miplab.epfl.ch/), EPFL and University of Geneva, Campus Biotech, Geneva, Switzerland
 * 03/2017: [Bioinformatics Core Facility](http://bcf.isb-sib.ch/), SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland
