@@ -20,11 +20,11 @@ title: CV
 ## Positions
 
 * **Current**: Tenure-Track Assistant Professor, [DKE](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
-* Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University
+* Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University, CA, United States
 * EPFL-Stanford Exchange Fellow, [MIP:Lab](https://miplab.epfl.ch/), Lausanne, Switzerland
 * Visiting Graduate Fellow, [SAMSI](https://www.samsi.info/), NC, United States
 * Software Engineer, [ISS AG](http://www.iss-ag.ch/en), Biel, Switzerland
-* Software Engineer, [Institute for Evaluative Research in Orthopaedic Surgery](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern
+* Software Engineer, [Institute for Evaluative Research in Orthopaedic Surgery](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern, Switzerland
 * Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel, Switzerland
 * Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States
 
@@ -47,7 +47,7 @@ title: CV
 * 02/2018: [School of Mathematical Sciences](https://www.qmul.ac.uk/maths/), Queen Mary University of London, UK
 * 05/2017: [Workshop on Statistical Challenges in Single-Cell Biology](https://www.bsse.ethz.ch/cbg/cbg-news/ascona-2017.html), Ascona, Switzerland
 * 04/2017: [Division of Immunology and Allergy](http://www.immunologyresearch.ch/), Lausanne University Hospital (CHUV), Lausanne, Switzerland
-* 04/2017: [Institute for Immunity, Transplantation and Infection](https://iti.stanford.edu/), CyTOF Working Group, Stanford, United States
+* 04/2017: [Institute for Immunity, Transplantation and Infection](https://iti.stanford.edu/), CyTOF Working Group, Stanford, CA, United States
 * 03/2017: [MIP:Lab](https://miplab.epfl.ch/), EPFL and University of Geneva, Campus Biotech, Geneva, Switzerland
 * 03/2017: [Bioinformatics Core Facility](http://bcf.isb-sib.ch/), SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland
 * 06/2015: [Conference on Bayesian Nonparametrics](https://www2.stat.duke.edu/bnp10/index.html), Raleigh, NC, United States
