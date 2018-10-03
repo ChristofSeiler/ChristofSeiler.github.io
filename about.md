@@ -47,7 +47,7 @@ title: CV
 * 02/2018: [School of Mathematical Sciences](https://www.qmul.ac.uk/maths/), Queen Mary University of London, UK
 * 05/2017: [Workshop on Statistical Challenges in Single-Cell Biology](https://www.bsse.ethz.ch/cbg/cbg-news/ascona-2017.html), Ascona, Switzerland
 * 04/2017: [Division of Immunology and Allergy](http://www.immunologyresearch.ch/), Lausanne University Hospital (CHUV), Lausanne, Switzerland
-* 04/2017: [Institute for Immunity, Transplantation and Infection](https://iti.stanford.edu/), CyTOF Working Group, Stanford, CA, United States
+* 04/2017: [CyTOF User Group](http://iti.stanford.edu/research/cytof.html), Stanford School of Medicine, CA, United States
 * 03/2017: [MIP:Lab](https://miplab.epfl.ch/), EPFL and University of Geneva, Campus Biotech, Geneva, Switzerland
 * 03/2017: [Bioinformatics Core Facility](http://bcf.isb-sib.ch/), SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland
 * 06/2015: [Conference on Bayesian Nonparametrics](https://www2.stat.duke.edu/bnp10/index.html), Raleigh, NC, United States
