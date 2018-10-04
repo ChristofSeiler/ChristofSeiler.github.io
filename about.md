@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-(also available on [LinkedIn](https://www.linkedin.com/in/christof-seiler-2419294/))
+(more details on [LinkedIn](https://www.linkedin.com/in/christof-seiler-2419294/))
 
 ## Education
 
@@ -21,8 +21,11 @@ title: CV
 
 * **Current**: Tenure-Track Assistant Professor, [DKE](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
 * Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University, CA, United States
+* Postdoctoral Researcher, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University, CA, United States
 * EPFL-Stanford Exchange Fellow, [MIP:Lab](https://miplab.epfl.ch/), Lausanne, Switzerland
 * Visiting Graduate Fellow, [SAMSI](https://www.samsi.info/), NC, United States
+* Doctoral Researcher, [ISTB](http://www.istb.unibe.ch/index_eng.html), University of Bern, Switzerland
+* Doctoral Researcher, [Asclepios](https://team.inria.fr/epione/en/) (now Epione), Inria Sophia Antipolis, France
 * Software Engineer, [ISS AG](http://www.iss-ag.ch/en), Biel, Switzerland
 * Software Engineer, [IEFO](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern, Switzerland
 * Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel, Switzerland
