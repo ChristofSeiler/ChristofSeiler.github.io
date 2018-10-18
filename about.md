@@ -9,7 +9,7 @@ title: CV
 
 * **Stanford University** <br>
 Postdoctoral Fellow in Statistics mentored by [Susan Holmes](https://statweb.stanford.edu/~susan/susan_person.html)
-* **Inria, France** and **University of Bern, Switzerland**
+* **Inria, France** and **University of Bern, Switzerland** <br>
 PhD in Computer Science and Biomedical Engineering [(joint PhD)](http://www.unibe.ch/studies/programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) advised by [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) and [Mauricio Reyes](http://www.mauricioreyes.me/)
 * **University of Bern, Switzerland** <br>
 MSc in Biomedical Engineering
