@@ -7,8 +7,8 @@ title: CV
 
 ## Education
 
-* Postdoctoral Fellow in Statistics, **Stanford University** mentored by [Susan Holmes](https://statweb.stanford.edu/~susan/susan_person.html)
-* PhD in Computer Science and Biomedical Engineering [(joint PhD)](http://www.unibe.ch/studies/programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html), **Inria, France** and <br> **University of Bern, Switzerland** advised by [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) and [Mauricio Reyes](http://www.mauricioreyes.me/)
+* Postdoctoral Fellow in Statistics, **Stanford University**, mentored by [Susan Holmes](https://statweb.stanford.edu/~susan/susan_person.html)
+* PhD in Computer Science and Biomedical Engineering [(joint PhD)](http://www.unibe.ch/studies/programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html), **Inria, France** and <br> **University of Bern, Switzerland**, advised by [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) and [Mauricio Reyes](http://www.mauricioreyes.me/)
 * MSc in Biomedical Engineering, **University of Bern, Switzerland**
 * Dipl. Ing. FH in Computer Science, **University of Applied Sciences, Biel, Switzerland**
 
@@ -28,12 +28,12 @@ title: CV
 
 ## Grants and Awards
 
-* [EPFL-Stanford Exchange Fellowship](https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying) (funded by Firmenich and hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville))
+* EPFL-Stanford [Exchange Fellowship](https://neuroscience.stanford.edu/research/funded-research/improve-reproducibility-and-transparency-eld-neuroimaging-applying) (funded by Firmenich and hosted by [Dimitri Van De Ville](http://miplab.epfl.ch/index.php/people/vandeville))
 * [ISBA](http://www.corsiecongressi.com/isba2016/) New Researchers Travel Award, Sardinia, Italy (gratefully declined)
 * Travel award for 10th [Conference on Bayesian Nonparametrics](https://www2.stat.duke.edu/bnp10/index.html), Raleigh, NC, United States
-* [Swiss NSF Fellowship for Advanced Researchers](http://p3.snf.ch/project-158500)
-* [France-Stanford Collaborative Projects Grant](http://francestanford.stanford.edu/collaborative_projects/grant_recipients/2013_2014)
-* [Swiss NSF Fellowship for Prospective Researchers](http://p3.snf.ch/project-146281)
+* Swiss NSF [Fellowship for Advanced Researchers](http://p3.snf.ch/project-158500)
+* Swiss NSF [Fellowship for Prospective Researchers](http://p3.snf.ch/project-146281)
+* France-Stanford [Collaborative Projects Grant](http://francestanford.stanford.edu/collaborative_projects/grant_recipients/2013_2014)
 * [MICCAI Young Scientist Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada
 * [MICCAI Student Travel Award](http://www.miccai.org/miccai-2011-toronto), Toronto, Canada
 * Paper invitation for [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/)
