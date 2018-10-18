@@ -7,15 +7,12 @@ title: CV
 
 ## Education
 
-2013-2017 | **Stanford University**                                        | Postdoctoral Fellow in Statistics
-2008-2012 | **Inria, France** and <br> **University of Bern, Switzerland** | PhD in Computer Science and <br> Biomedical Engineering
-2006-2008 | **University of Bern, Switzerland**                            | MSc in Biomedical Engineering
-2001-2005 | **University of Applied Sciences, Biel, Switzerland**          | Dipl. Ing. FH in Computer Science
-
-* My postdoctoral mentor was [Susan Holmes](https://statweb.stanford.edu/~susan/susan_person.html)
-* My PhD advisors were [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) and [Mauricio Reyes](http://www.mauricioreyes.me/)
-* [Inria](https://www.inria.fr/en/): French Institute for Research in Computer Science and Automation
-* I received a [joint PhD](http://www.unibe.ch/studies/programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) from two universities
+* Postdoctoral Fellow in Statistics, **Stanford University** <br>
+My postdoctoral mentor was [Susan Holmes](https://statweb.stanford.edu/~susan/susan_person.html)
+* PhD in Computer Science and Biomedical Engineering [(joint PhD)](http://www.unibe.ch/studies/programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html), **Inria, France** and <br> **University of Bern, Switzerland** <br>
+My PhD advisors were [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) and [Mauricio Reyes](http://www.mauricioreyes.me/)
+* MSc in Biomedical Engineering, **University of Bern, Switzerland**
+* Dipl. Ing. FH in Computer Science, **University of Applied Sciences, Biel, Switzerland**
 
 ## Positions
 
