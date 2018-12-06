@@ -45,6 +45,7 @@ Dipl. Ing. FH in Computer Science
 
 ## Invited and Contributed Talks
 
+* 12/2018: [Data Science Research Seminar](https://www.maastrichtuniversity.nl/events/data-science-research-seminar-0), Maastricht University, The Netherlands
 * 03/2018: [Department of Statistics](http://www.en.statistik.uni-muenchen.de/index.html), Ludwig-Maximilians-Universität München, Germany
 * 02/2018: [School of Mathematical Sciences](https://www.qmul.ac.uk/maths/), Queen Mary University of London, UK
 * 05/2017: [Workshop on Statistical Challenges in Single-Cell Biology](https://www.bsse.ethz.ch/cbg/cbg-news/ascona-2017.html), Ascona, Switzerland
