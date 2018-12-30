@@ -3,6 +3,23 @@ layout: page
 title: Teaching
 ---
 
+## Courses at Maastricht University
+
+* Planned 2019/2020 (8 weeks): <br>
+Computational Statistics <br>
+**Instructor** <br>
+Based on [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
+
+* Spring 2019 (8 weeks): <br>
+Software Engineering (KEN1520) <br>
+**Co-instructor** <br>
+[Course website](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-data-science-and-knowledge-engineering/courses-curriculum)
+
+* Winter 2019 (7 weeks): <br>
+Calculus (MAT2006) <br>
+**Instructor** <br>
+[Course website](https://www.maastrichtuniversity.nl/meta/350269/calculus)
+
 ## Courses at Stanford University
 
 * Summer 2018: <br>
@@ -15,9 +32,9 @@ Modern Statistics for Modern Biology (Stats 366/Bios 221) <br>
 Teaching Assistant (TA) responsible for labs <br>
 [Course website](http://web.stanford.edu/class/bios221/index.html)
 
-* Spring 2016: <br>
+* Spring 2016 (10 weeks): <br>
 Introduction to Nonparametric Statistics (Stats 205) <br>
-**Full course as a sole instructor** <br>
+**Instructor** <br>
 [Course website](http://christofseiler.github.io/stats205/)
 
 ## Courses at University of Bern and ETH Zurich
