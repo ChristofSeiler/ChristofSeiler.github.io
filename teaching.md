@@ -5,7 +5,7 @@ title: Teaching
 
 ## Courses at Maastricht University
 
-* Planned 2019/2020 (8 weeks): <br>
+* Winter 2020 (8 weeks): <br>
 Computational Statistics <br>
 **Instructor** <br>
 Based on [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
