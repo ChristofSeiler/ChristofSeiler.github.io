@@ -7,10 +7,12 @@ title: Research Projects
 
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine, I am investigating how NK cells can be harnessed for therapeutic purposes. I evaluated whether NK cells express different sets of proteins in response to influenza-infected monocytes. We used mass cytometry to measure protein expression at single cell resolution, and RNA sequencing to capture gene expression. My major contribution was building a Generalized Linear Mixed Effect Model (GLMM) that relates protein expression to experimental conditions while accounting for donor-specific variation. This approach was essential for identifying a previous unrecognized influenza immunoevasion strategy. I am currently implementing and applying a new R package in multiple on-going projects on NK response to influenza, a drug, and to HIV.
 
-* Paper on statistical methods and workflow: in preparation
+* Paper on statistical methods: [arXiv](http://arxiv.org/abs/1903.07976)
+* R package CytoGLMM: [docs](https://christofseiler.github.io/CytoGLMM/)
+* R package cytoeffect: [docs](https://christofseiler.github.io/cytoeffect/)
+* Preprocessed data: [zenodo](https://zenodo.org/record/2597291#.XJH9JBNKhTY)
 * Paper on NK cells and pregnancy: [bioRxiv](https://doi.org/10.1101/349084)
 * Paper on NK cells and influenza: [bioRxiv](https://doi.org/10.1101/148528), [DOI](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
-* R package: in preparation
 * Latent class regression: [github](https://github.com/ChristofSeiler/Ascona_Talk)
 
 ## Regression Models for Functional Brain Connectivity

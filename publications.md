@@ -7,11 +7,15 @@ title: Publications
 
 ## Preprints
 
-1. **CD38 Is a Key Regulator of Enhanced NK Cell Immune Responses During Pregnancy Through its Role in Immune Synapse Formation** <br>
+1. **Uncertainty Quantification in Multivariate Mixed Models for Mass Cytometry Data** <br>
+C. Seiler, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, S. Holmes <br>
+[arXiv](http://arxiv.org/abs/1903.07976)
+
+2. **CD38 Is a Key Regulator of Enhanced NK Cell Immune Responses During Pregnancy Through its Role in Immune Synapse Formation** <br>
 M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, C. Dekker, P. Khatri, G. Swan, M. Davis, S. Holmes, C. Blish <br>
 [bioRxiv](https://doi.org/10.1101/349084)
 
-2. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
+3. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
 S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 [arXiv](http://arxiv.org/abs/1407.1114)
 
