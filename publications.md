@@ -50,7 +50,7 @@ Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, Sept
 6. **Discussion of "Geodesic Monte Carlo on Embedded Manifolds"** <br>
 P. Diaconis, **C. Seiler**, and S. Holmes <br>
 Scandinavian Journal of Statistics, Volume 41, Issue 1, March 2014, Pages 3&ndash;7	<br>
-[pdf](http://arxiv.org/abs/1311.1129), [journal](http://onlinelibrary.wiley.com/doi/10.1111/sjos.12070/abstract)
+[pdf](http://arxiv.org/abs/1311.1129), [DOI](https://doi.org/10.1111/sjos.12081)
 
 7. **Validity of an Automatic Measure Protocol in Distal Femur for Allograft Selection from a Three-Dimensional Virtual Bone Bank System** <br>
 L. Ritacco, **C. Seiler**, G. Farfalli, L. Nolte, M. Reyes, D. Muscolo, and L. Tinao <br>
