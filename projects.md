@@ -62,7 +62,7 @@ Second, we built a Bayesian registration model and implemented the Hamiltonian M
 
 ## Medical Image Registration
 
-During my PhD, we introduced a new type of structured medial image registration algorithm that can handle multiscale hierarchical anatomical structures. We applied my new method to mandible imaging data and showed how to design medical implants that fit a large population of people.
+During my PhD, we introduced a new type of structured medial image registration algorithm that can handle multiscale hierarchical anatomical structures. We applied our new method to mandible imaging data and showed how to design medical implants that fit a large population of people.
 
 * Overview: [link](https://christofseiler.github.io/phd)
 * Paper: [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerPolyaffineTransformationTreesMedIA2012.pdf)
@@ -70,7 +70,7 @@ During my PhD, we introduced a new type of structured medial image registration 
 
 ## Biomedical Engineering Applications
 
-We applied my new registration method to a wide range of clinical applications. In collaboration with orthopaedic researchers, we compared the shape symmetry between left and right femur bones. In collaboration with orthopaedic implant designers, we constructed virtual mandible bones for better implant fitting and design. In collaboration with cardiac researchers, we modeled the dynamics of the human heart using ultrasound imaging. In collaboration with an orthopaedic surgeon in Argentina, we developed a bone allograft selection algorithm to pick the optimal bone from a femur bone bank for tumor replacement. In collaboration with mechanical engineers, we constructed statistical shape and appearance models to evaluate the mechanical properties of femur bones.
+We applied our new registration method to a wide range of clinical applications. In collaboration with orthopaedic researchers, we compared the shape symmetry between left and right femur bones. In collaboration with orthopaedic implant designers, we constructed virtual mandible bones for better implant fitting and design. In collaboration with cardiac researchers, we modeled the dynamics of the human heart using ultrasound imaging. In collaboration with an orthopaedic surgeon in Argentina, we developed a bone allograft selection algorithm to pick the optimal bone from a femur bone bank for tumor replacement. In collaboration with mechanical engineers, we constructed statistical shape and appearance models to evaluate the mechanical properties of femur bones.
 
 * Paper on implant design: [pdf](http://www.mauricioreyes.me/Publications/BouMiccai2012.pdf)
 * Paper on dynamics of the human heart: [pdf](http://hal.inria.fr/hal-00840041/PDF/MICCAI_mcleod_2013.pdf)
@@ -79,7 +79,7 @@ We applied my new registration method to a wide range of clinical applications. 
 
 ## Cell Shape Classifier
 
-During my PhD, we classified stem cells during differentiation based on their shape from time-lapse video microscopy. My algorithm was able to distinguish myogenic from osteogenic and adipogenic cells.
+During my PhD, we classified stem cells during differentiation based on their shape from time-lapse video microscopy. Our algorithm was able to distinguish myogenic from osteogenic and adipogenic cells.
 
 * Paper: [pdf](https://pdfs.semanticscholar.org/a1f2/856b339318fd751d77a9cde70ffc07d9e863.pdf)
 * Software: [github](https://github.com/ChristofSeiler/CellShapeClassifier)
