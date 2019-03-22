@@ -5,7 +5,7 @@ title: Research Projects
 
 ## Regression Models for Mass Cytometry
 
-In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine, I am investigating how NK cells can be harnessed for therapeutic purposes. I evaluated whether NK cells express different sets of proteins in response to influenza-infected monocytes. We used mass cytometry to measure protein expression at single cell resolution, and RNA sequencing to capture gene expression. My major contribution was building a Generalized Linear Mixed Effect Model (GLMM) that relates protein expression to experimental conditions while accounting for donor-specific variation. This approach was essential for identifying a previous unrecognized influenza immunoevasion strategy. I am currently implementing and applying a new R package in multiple on-going projects on NK response to influenza, a drug, and to HIV.
+In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine, we are investigating how NK cells can be harnessed for therapeutic purposes. We use mass cytometry to measure protein expression at single cell resolution.
 
 Interactively reproduce and explore our analyses:
 
