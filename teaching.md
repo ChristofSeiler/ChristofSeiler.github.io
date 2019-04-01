@@ -10,6 +10,11 @@ Computational Statistics <br>
 **Instructor** <br>
 Based on [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
 
+* Fall 2019 (8 weeks): <br>
+Probability and Statistics (KEN2130) <br>
+**Instructor** <br>
+[Course website](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-data-science-and-knowledge-engineering/courses-curriculum)
+
 * Spring 2019 (8 weeks): <br>
 Software Engineering (KEN1520) <br>
 **Co-instructor** <br>
