@@ -5,22 +5,22 @@ title: Teaching
 
 ## Courses at Maastricht University
 
-* Winter 2020 (8 weeks): <br>
+* Period 4, 2020 (8 weeks): <br>
 Computational Statistics <br>
 **Instructor** <br>
 Based on [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
 
-* Fall 2019 (8 weeks): <br>
+* Period 1, 2019 (8 weeks): <br>
 Probability and Statistics (KEN2130) <br>
 **Instructor** <br>
 [Course website](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-data-science-and-knowledge-engineering/courses-curriculum)
 
-* Spring 2019 (8 weeks): <br>
+* Period 5, 2019 (8 weeks): <br>
 Software Engineering (KEN1520) <br>
-**Co-instructor** <br>
+**Co-Instructor** <br>
 [Course website](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-data-science-and-knowledge-engineering/courses-curriculum)
 
-* Winter 2019 (7 weeks): <br>
+* Period 4, 2019 (7 weeks): <br>
 Calculus (MAT2006) <br>
 **Instructor** <br>
 [Course website](https://www.maastrichtuniversity.nl/meta/350269/calculus)
