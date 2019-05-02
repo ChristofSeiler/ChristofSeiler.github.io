@@ -12,8 +12,8 @@ Interactively reproduce and explore our analyses:
 [![binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristofSeiler/cytoeffect_binder/master?urlpath=rstudio)
 
 * Paper on statistical methods: [arXiv](http://arxiv.org/abs/1903.07976)
-* R package CytoGLMM: [docs](https://christofseiler.github.io/CytoGLMM/)
 * R package cytoeffect: [docs](https://christofseiler.github.io/cytoeffect/)
+* R package CytoGLMM: [docs](https://christofseiler.github.io/CytoGLMM/)
 * Processed data: [zenodo](https://doi.org/10.5281/zenodo.2652578)
 * Posters: [zenodo](https://doi.org/10.5281/zenodo.2656626)
 * Paper on NK cells and pregnancy: [bioRxiv](https://doi.org/10.1101/349084)
