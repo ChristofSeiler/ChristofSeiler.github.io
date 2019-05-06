@@ -17,7 +17,7 @@ Instructor <br>
 
 * Period 5, 2018-2019 (8 weeks): <br>
 **Software Engineering** (KEN1520) <br>
-**Co-Instructor** <br>
+Co-Instructor <br>
 [Course website](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-data-science-and-knowledge-engineering/courses-curriculum)
 
 * Period 4, 2018-2019 (7 weeks): <br>
@@ -38,7 +38,7 @@ Teaching Assistant (TA) responsible for labs <br>
 [Course website](http://web.stanford.edu/class/bios221/index.html)
 
 * Spring 2015-2016 (10 weeks): <br>
-**Introduction to Nonparametric Statistics (Stats 205)** <br>
+**Introduction to Nonparametric Statistics** (Stats 205) <br>
 Instructor <br>
 [Course website](http://christofseiler.github.io/stats205/)
 
