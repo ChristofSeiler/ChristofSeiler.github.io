@@ -21,7 +21,7 @@ Co-Instructor <br>
 [Course website](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-data-science-and-knowledge-engineering/courses-curriculum)
 
 * Period 4, 2018-2019 (7 weeks): <br>
-**Calculus (MAT2006)** <br>
+**Calculus** (MAT2006) <br>
 Instructor <br>
 [Course website](https://www.maastrichtuniversity.nl/meta/350269/calculus)
 
