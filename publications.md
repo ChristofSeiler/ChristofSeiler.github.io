@@ -45,7 +45,7 @@ Medical Engineering and Physics, Volume 36, Issue 12, December 2014, Pages 1626&
 5. **Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation** <br>
 **C. Seiler**, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
 Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, September 2014, Pages 737&ndash;746 <br>
-[pdf](http://www.academia.edu/download/42445678/Time-lapse_microscopy_and_classification20160208-7072-1xaq8jr.pdf), [DOI](http://dx.doi.org/10.1002/term.1575)
+[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.6965&rep=rep1&type=pdf), [DOI](http://dx.doi.org/10.1002/term.1575)
 
 6. **Discussion of "Geodesic Monte Carlo on Embedded Manifolds"** <br>
 P. Diaconis, **C. Seiler**, and S. Holmes <br>

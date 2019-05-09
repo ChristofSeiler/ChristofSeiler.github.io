@@ -82,7 +82,7 @@ We applied our new registration method to a wide range of clinical applications.
 
 During my PhD, we classified stem cells during differentiation based on their shape from time-lapse video microscopy. Our algorithm was able to distinguish myogenic from osteogenic and adipogenic cells.
 
-* Paper: [pdf](http://www.academia.edu/download/42445678/Time-lapse_microscopy_and_classification20160208-7072-1xaq8jr.pdf)
+* Paper: [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.6965&rep=rep1&type=pdf)
 * Software: [github](https://github.com/ChristofSeiler/CellShapeClassifier)
 
 ## GPU Programming
