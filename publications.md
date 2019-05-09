@@ -8,7 +8,7 @@ title: Publications
 ## Preprints
 
 1. **Uncertainty Quantification in Multivariate Mixed Models for Mass Cytometry Data** <br>
-C. Seiler, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, S. Holmes <br>
+**C. Seiler**, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, S. Holmes <br>
 [arXiv](http://arxiv.org/abs/1903.07976), [posters](https://doi.org/10.5281/zenodo.2656626)
 
 2. **CD38 Is a Key Regulator of Enhanced NK Cell Immune Responses During Pregnancy Through its Role in Immune Synapse Formation** <br>
