@@ -23,7 +23,7 @@ Co-Instructor <br>
 * Period 4, 2018-2019 (7 weeks): <br>
 **Calculus** (MAT2006) <br>
 Instructor <br>
-[Course website](https://www.maastrichtuniversity.nl/meta/350269/calculus)
+[Course website](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-maastricht-science-programme/courses-curriculum)
 
 ## Courses at Stanford University
 
