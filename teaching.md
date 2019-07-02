@@ -8,8 +8,7 @@ title: Teaching
 * Period 6, 2018-2019 (2 hours lecture, 1.5 hours lab): <br>
 Maastricht Data Science School <br>
 Instructor for Intro to Data Science, The Bootstrap, and Regularized Regression <br>
-[Lecture slides](https://christofseiler.github.io/data_science_school/dke_dss_lecture_01.pdf) <br>
-[Lab notebook](http://christofseiler.github.io/data_science_school/dke_dss_lab_01.html)
+[Lecture slides](https://christofseiler.github.io/data_science_school/dke_dss_lecture_01.pdf) and [lab notebook](http://christofseiler.github.io/data_science_school/dke_dss_lab_01.html)
 
 * Period 5, 2018-2019, 2019-2020 (8 weeks): <br>
 **Software Engineering** (KEN1520) <br>
