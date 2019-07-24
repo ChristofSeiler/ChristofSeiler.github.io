@@ -13,12 +13,13 @@ Instructor for Intro to Data Science, The Bootstrap, and Regularized Regression 
 * Period 5, 2018-2019, 2019-2020 (8 weeks): <br>
 **Software Engineering** (KEN1520) <br>
 Co-Instructor <br>
-[Course description](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-data-science-and-knowledge-engineering/courses-curriculum)
+[Course description](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-data-science-and-knowledge-engineering/courses-curriculum) <br>
+Course material: [MIT 6.031: Software Construction](http://web.mit.edu/6.031/)
 
 * Period 4, 2019-2020 (8 weeks): <br>
 **Computational Statistics** (KEN4258) <br>
 Instructor <br>
-Based on [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
+Textbook: [Statistical Rethinking (2nd edition)](https://xcelab.net/rm/statistical-rethinking/)
 
 * Period 4, 2018-2019 (7 weeks): <br>
 **Calculus** (MAT2006) <br>
@@ -29,6 +30,7 @@ Instructor <br>
 **Probability and Statistics** (KEN2130) <br>
 Instructor <br>
 [Course description](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-data-science-and-knowledge-engineering/courses-curriculum)
+Textbook: [Introduction to Probability (2nd edition)](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
 
 ## Courses at Stanford University
 
