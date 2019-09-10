@@ -45,7 +45,7 @@ Dipl. Ing. FH in Computer Science
 
 ## Invited and Contributed Talks
 
-* 09/2019: [Basel Life 2019](https://www.basellife.org/2019.html), Basel, Switzerland [slides](https://doi.org/10.5281/zenodo.3403730)
+* 09/2019: [Basel Life 2019](https://www.basellife.org/2019.html), Basel, Switzerland [(slides)](https://doi.org/10.5281/zenodo.3403730)
 * 12/2018: [Data Science Research Seminar](https://www.maastrichtuniversity.nl/events/data-science-research-seminar-0), Maastricht University, The Netherlands
 * 03/2018: [Department of Statistics](http://www.en.statistik.uni-muenchen.de/index.html), Ludwig-Maximilians-Universität München, Germany
 * 02/2018: [School of Mathematical Sciences](https://www.qmul.ac.uk/maths/), Queen Mary University of London, UK
