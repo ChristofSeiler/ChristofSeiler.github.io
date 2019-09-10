@@ -15,6 +15,7 @@ Interactively reproduce and explore our analyses:
 * R package cytoeffect: [docs](https://christofseiler.github.io/cytoeffect/)
 * R package CytoGLMM: [docs](https://christofseiler.github.io/CytoGLMM/)
 * Processed data: [zenodo](https://doi.org/10.5281/zenodo.2652578)
+* Talk: [zenodo](https://doi.org/10.5281/zenodo.3403730)
 * Posters: [zenodo](https://doi.org/10.5281/zenodo.2656626)
 * Paper on NK cells and pregnancy: [bioRxiv](https://doi.org/10.1101/349084)
 * Paper on NK cells and influenza: [bioRxiv](https://doi.org/10.1101/148528), [DOI](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
