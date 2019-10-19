@@ -32,13 +32,13 @@ Textbook: [Introduction to Probability (2nd edition)](https://drive.google.com/f
 ## Courses at Stanford University
 
 * Summer 2016-2017, 2017-2018: <br>
-**Modern Statistics for Modern Biology** (Stats 366/Bios 221) <br>
+**Modern Statistics for Modern Biology** (STATS 366/BIOS 221) <br>
 Teaching Assistant responsible for labs (2016-2017) <br>
 Invited guest lecture on image data (2017-2018) <br>
 [Course website](http://web.stanford.edu/class/bios221/index.html)
 
 * Spring 2015-2016 (10 weeks): <br>
-**Introduction to Nonparametric Statistics** (Stats 205) <br>
+**Introduction to Nonparametric Statistics** (STATS 205) <br>
 Instructor <br>
 [Course website](http://christofseiler.github.io/stats205/)
 
