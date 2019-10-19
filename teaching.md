@@ -32,7 +32,7 @@ Textbook: [Introduction to Probability (2nd edition)](https://drive.google.com/f
 ## Courses at Stanford University
 
 * Summer 2016-2017, 2017-2018: <br>
-**Modern Statistics for Modern Biology** (STATS 366/BIOS 221) <br>
+**Modern Statistics for Modern Biology** (STATS 366 / BIOS 221) <br>
 Teaching Assistant responsible for labs (2016-2017) <br>
 Invited guest lecture on image data (2017-2018) <br>
 [Course website](http://web.stanford.edu/class/bios221/index.html)
