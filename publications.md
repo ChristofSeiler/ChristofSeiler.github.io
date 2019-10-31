@@ -9,7 +9,7 @@ title: Publications
 
 1. **Uncertainty Quantification in Multivariate Mixed Models for Mass Cytometry Data** <br>
 **C. Seiler**, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, S. Holmes <br>
-[arXiv](http://arxiv.org/abs/1903.07976), [posters](https://doi.org/10.5281/zenodo.2656626)
+[arXiv](http://arxiv.org/abs/1903.07976), [posters](https://doi.org/10.5281/zenodo.2656626), [talk](https://doi.org/10.5281/zenodo.3524019)
 
 2. **TIGIT is Upregulated by HIV-1 Infection and Marks a Highly Functional Adaptive and Mature Subset of Natural Killer Cells** <br>
 E. Vendrame,  **C. Seiler**, T. Ranganath, N. Zhao, R. Vergara, M. Alary, AC. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, C. Blish <br>
