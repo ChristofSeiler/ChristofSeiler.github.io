@@ -28,7 +28,7 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 1. **Pregnancy-Induced Alterations in NK Cell Phenotype and Function** <br>
 M. Le Gars, **C. Seiler**, A. Kay  N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, P. Khatri, C. Dekker, G. Swan, M. Davis, S. Holmes, and  C. Blish <br>
 Frontiers in Immunology, October 2019 <br>
-[DOI](https://doi.org/10.3389/fimmu.2019.02469)
+[open access](https://doi.org/10.3389/fimmu.2019.02469)
 
 2. **Differential Induction of IFN-α and Modulation of CD112 and CD54 Expression Govern the Magnitude of NK Cell IFN-γ Response to Influenza A Viruses** <br>
 L. Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
