@@ -11,15 +11,20 @@ title: Publications
 **C. Seiler**, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, S. Holmes <br>
 [arXiv](http://arxiv.org/abs/1903.07976), [posters](https://doi.org/10.5281/zenodo.2656626), [talk](https://doi.org/10.5281/zenodo.3524019)
 
-2. **TIGIT is Upregulated by HIV-1 Infection and Marks a Highly Functional Adaptive and Mature Subset of Natural Killer Cells** <br>
+2. **Characterization of the Impact of Daclizumab Beta on Circulating Natural Killer Cells by
+Mass Cytometry** <br>
+T. Ranganath, L. Simpson, **C. Seiler**, A.-M. Ferreira, E. Vendrame, N. Zhao, J. Fontenot, S. Holmes, C. Blish <br>
+[bioRxiv](https://doi.org/10.1101/865477)
+
+3. **TIGIT is Upregulated by HIV-1 Infection and Marks a Highly Functional Adaptive and Mature Subset of Natural Killer Cells** <br>
 E. Vendrame,  **C. Seiler**, T. Ranganath, N. Zhao, R. Vergara, M. Alary, AC. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, C. Blish <br>
 [bioRxiv](https://doi.org/10.1101/764217)
 
-3. **CD38 Is a Key Regulator of Enhanced NK Cell Immune Responses During Pregnancy Through its Role in Immune Synapse Formation** <br>
+4. **CD38 Is a Key Regulator of Enhanced NK Cell Immune Responses During Pregnancy Through its Role in Immune Synapse Formation** <br>
 M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, C. Dekker, P. Khatri, G. Swan, M. Davis, S. Holmes, C. Blish <br>
 [bioRxiv](https://doi.org/10.1101/349084)
 
-3. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
+5. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
 S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 [arXiv](http://arxiv.org/abs/1407.1114)
 
