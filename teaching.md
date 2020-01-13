@@ -5,29 +5,29 @@ title: Teaching
 
 ## Courses at Maastricht University
 
-* Period 6, 2018-2019 (2 hours lecture, 1.5 hours lab): <br>
-**Data Science School** <br>
-Co-Instructor <br>
-[Lecture slides](https://christofseiler.github.io/data_science_school/dke_dss_lecture_01.pdf), [lab on RStudio cloud](https://rstudio.cloud/project/350555), and [lab solution](http://christofseiler.github.io/data_science_school/dke_dss_lab_01.html)
+* Period 4, 2019-2020 (8 weeks): <br>
+**Computational Statistics** (KEN4258) <br>
+Instructor <br>
+Textbook: [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/)
+
+* Period 1, 2019-2020 (8 weeks): <br>
+**Probability and Statistics** (KEN2130) <br>
+Instructor <br>
+Textbook: [Introduction to Probability (2nd edition)](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
 
 * Period 5, 2018-2019, 2019-2020 (8 weeks): <br>
 **Software Engineering** (KEN1520) <br>
 Co-Instructor <br>
 Course material: [MIT 6.031: Software Construction](http://web.mit.edu/6.031/)
 
-* Period 4, 2019-2020 (8 weeks): <br>
-**Computational Statistics** (KEN4258) <br>
-Instructor <br>
-Textbook: [Statistical Rethinking (2nd edition)](https://xcelab.net/rm/statistical-rethinking/)
-
 * Period 4, 2018-2019 (7 weeks): <br>
 **Calculus** (MAT2006) <br>
 Instructor <br>
 
-* Period 1, 2019-2020 (8 weeks): <br>
-**Probability and Statistics** (KEN2130) <br>
-Instructor <br>
-Textbook: [Introduction to Probability (2nd edition)](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
+* Period 6, 2018-2019 (2 hours lecture, 1.5 hours lab): <br>
+**Data Science School** <br>
+Co-Instructor <br>
+[Lecture slides](https://christofseiler.github.io/data_science_school/dke_dss_lecture_01.pdf), [lab on RStudio cloud](https://rstudio.cloud/project/350555), and [lab solution](http://christofseiler.github.io/data_science_school/dke_dss_lab_01.html)
 
 ## Courses at Stanford University
 
