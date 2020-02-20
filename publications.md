@@ -27,7 +27,7 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 
 1. **TIGIT is Upregulated by HIV-1 Infection and Marks a Highly Functional Adaptive and Mature Subset of Natural Killer Cells** <br>
 E. Vendrame,  **C. Seiler**, T. Ranganath, N. Zhao, R. Vergara, M. Alary, AC. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, C. Blish <br>
-AIDS, February, 2020 <br>
+AIDS, February 2020 <br>
 [bioRxiv](https://doi.org/10.1101/764217), [DOI](https://doi.org/10.1097/QAD.0000000000002488)
 
 2. **Pregnancy-Induced Alterations in NK Cell Phenotype and Function** <br>
