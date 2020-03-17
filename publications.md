@@ -28,7 +28,7 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 1. **Influenza-Induced Interferon Lambda Response Is Associated with Longer Time to Delivery Among Pregnant Kenyan Women** <br>
 **C. Seiler**, N. Bayless, R. Vergara, J. Pintye, J. Kinuthia, L. Osborn, D. Matemo, B. Richardson, G. John-Stewart, S. Holmes, C. Blish <br>
 Frontiers in Immunology, February 2020 <br>
-[open access](https://www.frontiersin.org/articles/10.3389/fimmu.2020.00452/abstract)
+[open access](https://doi.org/10.3389/fimmu.2020.00452)
 
 2. **TIGIT is Upregulated by HIV-1 Infection and Marks a Highly Functional Adaptive and Mature Subset of Natural Killer Cells** <br>
 E. Vendrame,  **C. Seiler**, T. Ranganath, N. Zhao, R. Vergara, M. Alary, AC. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, C. Blish <br>
