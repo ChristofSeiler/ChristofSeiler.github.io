@@ -17,11 +17,10 @@ Interactively reproduce and explore our analyses:
 * Processed data: [zenodo](https://doi.org/10.5281/zenodo.2652578)
 * Talk: [zenodo](https://doi.org/10.5281/zenodo.3524019)
 * Posters: [zenodo](https://doi.org/10.5281/zenodo.2656626)
-* Paper on NK cells and multiple sclerosis: [bioRxiv](https://doi.org/10.1101/865477)
-* Paper on NK cells and HIV: [bioRxiv](https://doi.org/10.1101/764217)
-* Paper on NK cells and pregnancy: [bioRxiv](https://doi.org/10.1101/349084), [DOI](https://doi.org/10.3389/fimmu.2019.02469)
-* Paper on NK cells and influenza: [bioRxiv](https://doi.org/10.1101/148528),
- [DOI](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
+* Paper on NK cells and multiple sclerosis: [bioRxiv](https://doi.org/10.1101/865477), [journal](https://www.frontiersin.org/articles/10.3389/fimmu.2020.00714/abstract)
+* Paper on NK cells and HIV: [bioRxiv](https://doi.org/10.1101/764217), [journal](https://doi.org/10.1097/QAD.0000000000002488)
+* Paper on NK cells and pregnancy: [bioRxiv](https://doi.org/10.1101/349084), [journal](https://doi.org/10.3389/fimmu.2019.02469)
+* Paper on NK cells and influenza: [bioRxiv](https://doi.org/10.1101/148528), [journal](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
 * Latent class regression: [github](https://github.com/ChristofSeiler/Ascona_Talk)
 
 ## Regression Models for Functional Brain Connectivity
@@ -37,7 +36,7 @@ In this applied statistics project, we modeled brain connectivity for functional
 
 In collaboration with [Allan L. Reiss](https://med.stanford.edu/profiles/allan-reiss) and his [lab](http://cibsr.stanford.edu/) at Stanford School of Medicine, we studied interactions between brain imaging and cognitive data in girls with Turner syndrome. The procedure combines multi-table methods with permutation tests by constructing cluster size test statistics that incorporate spatial dependencies.
 
-* Paper: [pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf)
+* Paper: [pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf), [open access](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223630/)
 * Supplementary material: [github](https://github.com/ChristofSeiler/braincog_manuscript)
 * R package: [github](https://github.com/ChristofSeiler/braincog)
 * Data analysis workflow: [Interactions](https://christofseiler.github.io/braincog/supplementary_materials/Interactions_2.html)
