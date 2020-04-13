@@ -28,17 +28,17 @@ Frontiers in Immunology, 2020, provisionally accepted <br>
 
 2. **Influenza-Induced Interferon Lambda Response Is Associated with Longer Time to Delivery Among Pregnant Kenyan Women** <br>
 **C. Seiler**, N. Bayless, R. Vergara, J. Pintye, J. Kinuthia, L. Osborn, D. Matemo, B. Richardson, G. John-Stewart, S. Holmes, C. Blish <br>
-Frontiers in Immunology, February 2020 <br>
+Frontiers in Immunology, Volume 11, Article 452, March 2020, Pages 1&ndash;10 <br>
 [open access](https://doi.org/10.3389/fimmu.2020.00452)
 
 3. **TIGIT is Upregulated by HIV-1 Infection and Marks a Highly Functional Adaptive and Mature Subset of Natural Killer Cells** <br>
 E. Vendrame,  **C. Seiler**, T. Ranganath, N. Zhao, R. Vergara, M. Alary, AC. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, C. Blish <br>
-AIDS, February 2020 <br>
+AIDS, Volume 34, Issue 6, May 2020, Pages 801&ndash;813 <br>
 [bioRxiv](https://doi.org/10.1101/764217), [DOI](https://doi.org/10.1097/QAD.0000000000002488)
 
 4. **Pregnancy-Induced Alterations in NK Cell Phenotype and Function** <br>
 M. Le Gars, **C. Seiler**, A. Kay  N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, P. Khatri, C. Dekker, G. Swan, M. Davis, S. Holmes, and  C. Blish <br>
-Frontiers in Immunology, October 2019 <br>
+Frontiers in Immunology, Volume 10, Article 2469, October 2019, Pages 1&ndash;13 <br>
 [open access](https://doi.org/10.3389/fimmu.2019.02469)
 
 5. **Differential Induction of IFN-α and Modulation of CD112 and CD54 Expression Govern the Magnitude of NK Cell IFN-γ Response to Influenza A Viruses** <br>
