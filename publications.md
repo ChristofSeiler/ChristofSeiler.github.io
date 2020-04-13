@@ -102,7 +102,7 @@ Recent Advances in the 3D Physiological Human (N. Magnenat-Thalmann, J.J. Zhang,
 
 1. **Positive Curvature and Hamiltonian Monte Carlo** <br>
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
-Conference on Neural Information Processing Systems (NeurIPS formerly NIPS), December, 2014, Montreal, Canada <br>
+Neural Information Processing Systems (NeurIPS formerly NIPS), December, 2014, Montreal, Canada <br>
 (Acceptance rate: 414 of 1678 papers = 25%) <br>
 [pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf), [poster](https://christofseiler.github.io/NIPS-Poster.pdf)
 
