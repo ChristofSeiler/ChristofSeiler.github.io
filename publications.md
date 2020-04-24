@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-(most of these papers are on [ResearchGate](https://www.researchgate.net/profile/Christof_Seiler/publications/) and some on [PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=christof%20seiler))
+(most of these papers are also on [ResearchGate](https://www.researchgate.net/profile/Christof_Seiler/publications/) or [PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=christof%20seiler))
 
 ## Preprints
 
@@ -34,7 +34,7 @@ Frontiers in Immunology, Volume 11, Article 452, March 2020, Pages 1&ndash;10 <b
 3. **TIGIT is Upregulated by HIV-1 Infection and Marks a Highly Functional Adaptive and Mature Subset of Natural Killer Cells** <br>
 E. Vendrame,  **C. Seiler**, T. Ranganath, N. Zhao, R. Vergara, M. Alary, AC. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, C. Blish <br>
 AIDS, Volume 34, Issue 6, May 2020, Pages 801&ndash;813 <br>
-[bioRxiv](https://doi.org/10.1101/764217), [DOI](https://doi.org/10.1097/QAD.0000000000002488)
+[bioRxiv](https://doi.org/10.1101/764217), [journal](https://doi.org/10.1097/QAD.0000000000002488)
 
 4. **Pregnancy-Induced Alterations in NK Cell Phenotype and Function** <br>
 M. Le Gars, **C. Seiler**, A. Kay  N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, P. Khatri, C. Dekker, G. Swan, M. Davis, S. Holmes, and  C. Blish <br>
@@ -44,12 +44,12 @@ Frontiers in Immunology, Volume 10, Article 2469, October 2019, Pages 1&ndash;13
 5. **Differential Induction of IFN-α and Modulation of CD112 and CD54 Expression Govern the Magnitude of NK Cell IFN-γ Response to Influenza A Viruses** <br>
 L. Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
 The Journal of Immunology, Volume 201, Issue 7, October 2018, Pages 2117&ndash;2131 <br>
-[bioRxiv](https://doi.org/10.1101/148528), [DOI](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
+[bioRxiv](https://doi.org/10.1101/148528), [journal](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
 
 6. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
 **C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
 Neuroinformatics, Volume 16, Issue 1, January 2018, Pages 81&ndash;93 <br>
-[pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf), [view](http://rdcu.be/CZGQ), [DOI](http://dx.doi.org/10.1007/s12021-017-9351-z), [open access](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223630/)
+[pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf), [view](http://rdcu.be/CZGQ), [journal](http://dx.doi.org/10.1007/s12021-017-9351-z), [open access](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223630/)
 
 7. **Multivariate Heteroscedasticity Models for Functional Brain Connectivity** <br>
 **C. Seiler** and S. Holmes <br>
@@ -59,44 +59,44 @@ Frontiers in Neuroscience, Volume 11, Article 696, December 2017, Pages 1&ndash;
 8. **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, M. Reyes, and P. B&uuml;chler <br>
 Medical Engineering and Physics, Volume 36, Issue 12, December 2014, Pages 1626&ndash;1635 <br>
-[pdf](http://www.mauricioreyes.me/Publications/BonarettiMEP2014.pdf), [DOI](http://dx.doi.org/10.1016/j.medengphy.2014.09.006)
+[pdf](http://www.mauricioreyes.me/Publications/BonarettiMEP2014.pdf), [journal](http://dx.doi.org/10.1016/j.medengphy.2014.09.006)
 
 9. **Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation** <br>
 **C. Seiler**, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
 Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, September 2014, Pages 737&ndash;746 <br>
-[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.6965&rep=rep1&type=pdf), [DOI](http://dx.doi.org/10.1002/term.1575)
+[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.6965&rep=rep1&type=pdf), [journal](http://dx.doi.org/10.1002/term.1575)
 
 10. **Discussion of "Geodesic Monte Carlo on Embedded Manifolds"** <br>
 P. Diaconis, **C. Seiler**, and S. Holmes <br>
 Scandinavian Journal of Statistics, Volume 41, Issue 1, March 2014, Pages 3&ndash;7	<br>
-[pdf](http://arxiv.org/abs/1311.1129), [DOI](https://doi.org/10.1111/sjos.12081)
+[pdf](http://arxiv.org/abs/1311.1129), [journal](https://doi.org/10.1111/sjos.12081)
 
 11. **Validity of an Automatic Measure Protocol in Distal Femur for Allograft Selection from a Three-Dimensional Virtual Bone Bank System** <br>
 L. Ritacco, **C. Seiler**, G. Farfalli, L. Nolte, M. Reyes, D. Muscolo, and L. Tinao <br>
 Cell and Tissue Banking, Volume 14, Issue 2, June 2013, Pages 213&ndash;220 <br>
-[pdf](http://www-sop.inria.fr/asclepios/Publications/Christof.Seiler/RitaccoSeilerCTB2012.pdf), [DOI](http://dx.doi.org/10.1007/s10561-012-9307-3)
+[pdf](http://www-sop.inria.fr/asclepios/Publications/Christof.Seiler/RitaccoSeilerCTB2012.pdf), [journal](http://dx.doi.org/10.1007/s10561-012-9307-3)
 
 12. **Capturing the Multiscale Anatomical Shape Variability with Polyaffine Transformation Trees** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
 Medical Image Analysis, Volume 16, Issue 7, October 2012, Pages 1371&ndash;1384 <br>
-[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerPolyaffineTransformationTreesMedIA2012.pdf), [DOI](http://dx.doi.org/10.1016/j.media.2012.05.011)
+[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerPolyaffineTransformationTreesMedIA2012.pdf), [journal](http://dx.doi.org/10.1016/j.media.2012.05.011)
 
 13. **Statistical Model Based Shape Prediction from a Combination of Direct Observations and Various Surrogates: Application to Orthopaedic Research** <br>
 R. Blanc, **C. Seiler**, G. Sz&eacute;kely, L. Nolte, and M. Reyes <br>
 Medical Image Analysis, Volume 16, Issue 6, August 2012, Pages 1156&ndash;1166 <br>
-[pdf](http://www-sop.inria.fr/asclepios/Publications/Christof.Seiler/BlancSeilerMedIA2012.pdf), [DOI](http://dx.doi.org/10.1016/j.media.2012.04.004)
+[pdf](http://www-sop.inria.fr/asclepios/Publications/Christof.Seiler/BlancSeilerMedIA2012.pdf), [journal](http://dx.doi.org/10.1016/j.media.2012.04.004)
 
 ## Peer-Reviewed Book Chapters
 
 1. **Bayesian Statistics in Computational Anatomy** <br>
 **C. Seiler** <br>
 Statistical Shape and Deformation Analysis: Methods, Implementations & Applications (G. Zheng, S. Li, and G. Sz&eacute;kely, eds.), Chapter 8, Academic Press, March 2017, Pages 193&ndash;214 <br>
-[pdf](https://christofseiler.github.io/Preprint_Bayesian_CA.pdf), [DOI](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4)
+[pdf](https://christofseiler.github.io/Preprint_Bayesian_CA.pdf), [journal](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4)
 
 2. **Hierarchical Markov Random Fields Applied to Model Soft Tissue Deformations on Graphics Hardware** <br>
 **C. Seiler**, P. Büchler, L.-P. Nolte, R. Paulsen, and M. Reyes <br>
 Recent Advances in the 3D Physiological Human (N. Magnenat-Thalmann, J.J. Zhang, and D.D. Feng, eds.), Chapter 9, Springer London, July 2009, Pages 133&ndash;148 <br>
-[pdf](https://christofseiler.github.io/PaperHMRFDeformationGPU.pdf), [DOI](http://dx.doi.org/10.1007/978-1-84882-565-9_9)
+[pdf](https://christofseiler.github.io/PaperHMRFDeformationGPU.pdf), [journal](http://dx.doi.org/10.1007/978-1-84882-565-9_9)
 
 ## Peer-Reviewed Conference and Workshop Papers
 
@@ -126,13 +126,13 @@ FIMH, London, UK, LNCS, Volume 7945, June 2013, Pages 483&ndash;490 <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
 MICCAI, Nice, France, LNCS, Volume 7511, Part II, October 2012, Pages 130&ndash;137 <br>
 (Acceptance rate: 248 of 779 papers = 32%) <br>
-[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerMultiscaleGroupwisePolyaffineRegistrationMICCAI2012.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-33418-4_17)
+[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerMultiscaleGroupwisePolyaffineRegistrationMICCAI2012.pdf), [journal](http://dx.doi.org/10.1007/978-3-642-33418-4_17)
 
 6. **Population-Based Design of Mandibular Plates Based on Bone Quality and Morphology** <br>
 H. Bousleiman, **C. Seiler**, T. Iizuka, L. Nolte, and M. Reyes <br>
 MICCAI, Nice, France, LNCS, Volume 7510, Part I, October 2012, Pages 66&ndash;73 <br>
 (Acceptance rate: 248 of 779 papers = 32%)	<br>
-[pdf](http://www.mauricioreyes.me/Publications/BouMiccai2012.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-33415-3_9)
+[pdf](http://www.mauricioreyes.me/Publications/BouMiccai2012.pdf), [journal](http://dx.doi.org/10.1007/978-3-642-33415-3_9)
 
 7. **A Near-Incompressible Poly-Affine Motion Model for Cardiac Function Analysis** <br>
 K. McLeod, **C. Seiler**, A. Prakosa, M. Sermesant, and X. Pennec <br>
@@ -146,7 +146,7 @@ Young Scientist Award <br>
 (Top 5 out of the majority of 819 papers written by PhD students and postdocs) <br>
 Student Travel Award and Oral Podium Presentation <br>
 (Acceptance rate: 34 of 819 papers = 4.2%)	<br>
-[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerOBBTreeMultiscalePolyLogDemonsMICCAI2011.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-23629-7_77)
+[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerOBBTreeMultiscalePolyLogDemonsMICCAI2011.pdf), [journal](http://dx.doi.org/10.1007/978-3-642-23629-7_77)
 
 9. **Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: A Preliminary Comparison Study for the Creation of Finite Element Meshes** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, P. B&uuml;chler, and M. Reyes <br>
@@ -156,17 +156,17 @@ MeshMed Workshop, MICCAI, Toronto, Canada, September 2011 <br>
 10. **Femur Specific Polyaffine Model to Regularize the Log-domain Demons Registration** <br>
 **C. Seiler**, X. Pennec, L. Ritacco, and M. Reyes <br>
 SPIE Medical Imaging (Image Processing), Orlando, USA, February 2011 <br>
-[pdf](https://hal.inria.fr/inria-00616216/file/SeilerFemurPolyaffineLogDemonsSPIE2011.pdf), [DOI](http://dx.doi.org/10.1117/12.878316)
+[pdf](https://hal.inria.fr/inria-00616216/file/SeilerFemurPolyaffineLogDemonsSPIE2011.pdf), [journal](http://dx.doi.org/10.1117/12.878316)
 
 11. **Atlas-Based Segmentation of Brain Tumor Images Using a Markov Random Field-Based Tumor Growth Model and Non-Rigid Registration** <br>
 S. Bauer, **C. Seiler**, T. Bardyn, P. B&uuml;chler, and M. Reyes <br>
 EMBC, Buenos Aires, Argentina, September 2010, Pages 4080&ndash;4083 <br>
-[pdf](http://mauricioreyes.me/Publications/BauerEMBC2010.pdf), [DOI](http://dx.doi.org/10.1109/IEMBS.2010.5627302)
+[pdf](http://mauricioreyes.me/Publications/BauerEMBC2010.pdf), [journal](http://dx.doi.org/10.1109/IEMBS.2010.5627302)
 
 12. **Parametric Regression of 3D Medical Images Through the Exploration of Non-Parametric Regression Models** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
 ISBI, Rotterdam, The Netherlands, April 2010, Pages 452&ndash;455 <br>
-[pdf](http://www.inria.fr/sophia/asclepios/Publications/Xavier.Pennec/Seiler.ISBI2010.pdf), [DOI](http://dx.doi.org/10.1109/ISBI.2010.5490313)
+[pdf](http://www.inria.fr/sophia/asclepios/Publications/Xavier.Pennec/Seiler.ISBI2010.pdf), [journal](http://dx.doi.org/10.1109/ISBI.2010.5490313)
 
 13. **Combined Statistical Model of Bone Shape and Mechanical Properties for Bone and Implant Modeling** <br>
 S. Bonaretti, M. Kistler, **C. Seiler**, M. Reyes, and P. B&uuml;chler <br>
@@ -176,7 +176,7 @@ CMBBE, Valencia, Spain, February 2010
 R. Blanc, M. Reyes, **C. Seiler**, and G. Sz&eacute;kely <br>
 MICCAI, London, UK, LNCS, Volume 5762, Part II, September 2009, Pages 84&ndash;91 <br>
 (Acceptance rate: 32%) <br>
-[pdf](http://www.mauricioreyes.me/Publications/blancMiccai09.pdf), [DOI](http://dx.doi.org/10.1007/978-3-642-04271-3_11)
+[pdf](http://www.mauricioreyes.me/Publications/blancMiccai09.pdf), [journal](http://dx.doi.org/10.1007/978-3-642-04271-3_11)
 
 ## Conference Abstracts
 
