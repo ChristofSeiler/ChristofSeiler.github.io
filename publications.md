@@ -23,7 +23,7 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 
 1. **Characterization of the Impact of Daclizumab Beta on Circulating Natural Killer Cells by Mass Cytometry** <br>
 T. Ranganath, L. Simpson, A.-M. Ferreira, **C. Seiler**, E. Vendrame, N. Zhao, J. Fontenot, S. Holmes, C. Blish <br>
-Frontiers in Immunology, 2020, Volume 11, Article 714, April 2020, Pages 1&ndash;13 <br>
+Frontiers in Immunology, Volume 11, Article 714, April 2020, Pages 1&ndash;13 <br>
 [bioRxiv](https://doi.org/10.1101/865477), [open access](https://doi.org/10.3389/fimmu.2020.00714)
 
 2. **Influenza-Induced Interferon Lambda Response Is Associated with Longer Time to Delivery Among Pregnant Kenyan Women** <br>
