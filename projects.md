@@ -17,7 +17,7 @@ Interactively reproduce and explore our analyses:
 * Processed data: [zenodo](https://doi.org/10.5281/zenodo.2652578)
 * Talk: [zenodo](https://doi.org/10.5281/zenodo.3524019)
 * Posters: [zenodo](https://doi.org/10.5281/zenodo.2656626)
-* Paper on NK cells and multiple sclerosis: [bioRxiv](https://doi.org/10.1101/865477), [journal](https://www.frontiersin.org/articles/10.3389/fimmu.2020.00714/abstract)
+* Paper on NK cells and multiple sclerosis: [bioRxiv](https://doi.org/10.1101/865477), [journal](https://doi.org/10.3389/fimmu.2020.00714)
 * Paper on NK cells and HIV: [bioRxiv](https://doi.org/10.1101/764217), [journal](https://doi.org/10.1097/QAD.0000000000002488)
 * Paper on NK cells and pregnancy: [bioRxiv](https://doi.org/10.1101/349084), [journal](https://doi.org/10.3389/fimmu.2019.02469)
 * Paper on NK cells and influenza: [bioRxiv](https://doi.org/10.1101/148528), [journal](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
