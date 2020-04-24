@@ -61,7 +61,7 @@ First, we used modern Bayesian nonparametrics to find regions of interest in com
 
 Second, we built a Bayesian registration model and implemented the Hamiltonian Monte Carlo sampler to draw samples from its posterior distribution:
 
-* Book chapter: [pdf](https://christofseiler.github.io/Preprint_Bayesian_CA.pdf), [DOI](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4)
+* Book chapter: [pdf](https://christofseiler.github.io/Preprint_Bayesian_CA.pdf), [journal](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4)
 * Software: [github](https://github.com/ChristofSeiler/BayesianImageRegistration)
 
 ## Medical Image Registration
