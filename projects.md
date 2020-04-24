@@ -20,7 +20,7 @@ Interactively reproduce and explore our analyses:
 * Paper on NK cells and multiple sclerosis: [open access](https://doi.org/10.3389/fimmu.2020.00714)
 * Paper on NK cells and HIV: [bioRxiv](https://doi.org/10.1101/764217), [journal](https://doi.org/10.1097/QAD.0000000000002488)
 * Paper on NK cells and pregnancy: [open access](https://doi.org/10.3389/fimmu.2019.02469)
-* Paper on NK cells and influenza: [open access](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
+* Paper on NK cells and influenza: [bioRxiv](https://doi.org/10.1101/148528), [journal](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
 * Latent class regression: [github](https://github.com/ChristofSeiler/Ascona_Talk)
 
 ## Regression Models for Functional Brain Connectivity
