@@ -165,8 +165,8 @@ EMBC, Buenos Aires, Argentina, September 2010, Pages 4080&ndash;4083 <br>
 
 12. **Parametric Regression of 3D Medical Images Through the Exploration of Non-Parametric Regression Models** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
-ISBI, Rotterdam, The Netherlands, April 2010, Pages 452&ndash;455 <br>
-[pdf](http://www.inria.fr/sophia/asclepios/Publications/Xavier.Pennec/Seiler.ISBI2010.pdf), [journal](http://dx.doi.org/10.1109/ISBI.2010.5490313)
+ISBI, Rotterdam, The Netherlands, April 2010, Pages 452&ndash;455 <br
+[pdf](https://hal.inria.fr/inria-00616168/document), [journal](http://dx.doi.org/10.1109/ISBI.2010.5490313)
 
 13. **Combined Statistical Model of Bone Shape and Mechanical Properties for Bone and Implant Modeling** <br>
 S. Bonaretti, M. Kistler, **C. Seiler**, M. Reyes, and P. B&uuml;chler <br>
@@ -197,7 +197,7 @@ By Bel Dum&eacute; for the INRIA Website: [link](http://www.inria.fr/centre/soph
 1. **Trees on Geometrical Deformations to Model the Statistical Variability of Organs in Medical Images** <br>
 **C. Seiler** <br>
 PhD Thesis, University of Nice Sophia Antipolis and University of Bern, September 2012 <br>
-[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/Seiler_PhDThesis.pdf)
+[pdf](https://tel.archives-ouvertes.fr/tel-00844610/document)
 
 2. **Displacement Vector Field Regularization for Modelling of Soft Tissue Deformations** <br>
 **C. Seiler** <br>
