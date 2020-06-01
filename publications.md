@@ -79,7 +79,7 @@ Cell and Tissue Banking, Volume 14, Issue 2, June 2013, Pages 213&ndash;220 <br>
 12. **Capturing the Multiscale Anatomical Shape Variability with Polyaffine Transformation Trees** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
 Medical Image Analysis, Volume 16, Issue 7, October 2012, Pages 1371&ndash;1384 <br>
-[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerPolyaffineTransformationTreesMedIA2012.pdf), [journal](http://dx.doi.org/10.1016/j.media.2012.05.011)
+[pdf](https://hal.inria.fr/hal-00813866/file/SeilerPolyaffineTransformationTreesMedIA2012.pdf), [journal](http://dx.doi.org/10.1016/j.media.2012.05.011)
 
 13. **Statistical Model Based Shape Prediction from a Combination of Direct Observations and Various Surrogates: Application to Orthopaedic Research** <br>
 R. Blanc, **C. Seiler**, G. Sz&eacute;kely, L. Nolte, and M. Reyes <br>
@@ -126,7 +126,7 @@ FIMH, London, UK, LNCS, Volume 7945, June 2013, Pages 483&ndash;490 <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
 MICCAI, Nice, France, LNCS, Volume 7511, Part II, October 2012, Pages 130&ndash;137 <br>
 (Acceptance rate: 248 of 779 papers = 32%) <br>
-[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerMultiscaleGroupwisePolyaffineRegistrationMICCAI2012.pdf), [journal](http://dx.doi.org/10.1007/978-3-642-33418-4_17)
+[pdf](https://hal.inria.fr/hal-00813867/document), [journal](http://dx.doi.org/10.1007/978-3-642-33418-4_17)
 
 6. **Population-Based Design of Mandibular Plates Based on Bone Quality and Morphology** <br>
 H. Bousleiman, **C. Seiler**, T. Iizuka, L. Nolte, and M. Reyes <br>
@@ -146,7 +146,7 @@ Young Scientist Award <br>
 (Top 5 out of the majority of 819 papers written by PhD students and postdocs) <br>
 Student Travel Award and Oral Podium Presentation <br>
 (Acceptance rate: 34 of 819 papers = 4.2%)	<br>
-[pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerOBBTreeMultiscalePolyLogDemonsMICCAI2011.pdf), [journal](http://dx.doi.org/10.1007/978-3-642-23629-7_77)
+[pdf](https://hal.inria.fr/hal-00813867/document), [journal](http://dx.doi.org/10.1007/978-3-642-23629-7_77)
 
 9. **Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: A Preliminary Comparison Study for the Creation of Finite Element Meshes** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, P. B&uuml;chler, and M. Reyes <br>

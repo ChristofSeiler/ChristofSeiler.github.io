@@ -69,7 +69,7 @@ Second, we built a Bayesian registration model and implemented the Hamiltonian M
 During my PhD, we introduced a new type of structured medial image registration algorithm that can handle multiscale hierarchical anatomical structures. We applied our new method to mandible imaging data and showed how to design medical implants that fit a large population of people.
 
 * Overview: [link](https://christofseiler.github.io/phd)
-* Paper: [pdf](http://www.inria.fr/sophia/asclepios/Publications/Christof.Seiler/SeilerPolyaffineTransformationTreesMedIA2012.pdf)
+* Paper: [pdf](https://hal.inria.fr/hal-00813866/file/SeilerPolyaffineTransformationTreesMedIA2012.pdf)
 * Software: [github](https://github.com/ChristofSeiler/PolyaffineTransformationTrees.git)
 
 ## Biomedical Engineering Applications
