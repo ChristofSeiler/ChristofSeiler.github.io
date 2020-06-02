@@ -44,7 +44,7 @@ Frontiers in Immunology, Volume 10, Article 2469, October 2019, Pages 1&ndash;13
 5. **Differential Induction of IFN-α and Modulation of CD112 and CD54 Expression Govern the Magnitude of NK Cell IFN-γ Response to Influenza A Viruses** <br>
 L. Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
 The Journal of Immunology, Volume 201, Issue 7, October 2018, Pages 2117&ndash;2131 <br>
-[bioRxiv](https://doi.org/10.1101/148528), [journal](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza)
+[bioRxiv](https://doi.org/10.1101/148528), [journal](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza), [open access](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6143432/)
 
 6. **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
 **C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
@@ -64,7 +64,7 @@ Medical Engineering and Physics, Volume 36, Issue 12, December 2014, Pages 1626&
 9. **Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation** <br>
 **C. Seiler**, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
 Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, September 2014, Pages 737&ndash;746 <br>
-[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.6965&rep=rep1&type=pdf), [journal](http://dx.doi.org/10.1002/term.1575)
+[pdf](https://christofseiler.github.io/Paper_Accepted_Time-Lapse.pdf), [journal](http://dx.doi.org/10.1002/term.1575)
 
 10. **Discussion of "Geodesic Monte Carlo on Embedded Manifolds"** <br>
 P. Diaconis, **C. Seiler**, and S. Holmes <br>
