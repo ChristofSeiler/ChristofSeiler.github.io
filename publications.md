@@ -165,7 +165,7 @@ EMBC, Buenos Aires, Argentina, September 2010, Pages 4080&ndash;4083 <br>
 
 12. **Parametric Regression of 3D Medical Images Through the Exploration of Non-Parametric Regression Models** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
-ISBI, Rotterdam, The Netherlands, April 2010, Pages 452&ndash;455 <br
+ISBI, Rotterdam, The Netherlands, April 2010, Pages 452&ndash;455 <br>
 [pdf](https://hal.inria.fr/inria-00616168/document), [journal](http://dx.doi.org/10.1109/ISBI.2010.5490313)
 
 13. **Combined Statistical Model of Bone Shape and Mechanical Properties for Bone and Implant Modeling** <br>
