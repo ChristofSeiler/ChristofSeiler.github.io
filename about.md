@@ -45,7 +45,7 @@ Dipl. Ing. FH in Computer Science
 
 ## Invited and Contributed Talks
 
-* 09/2020: [Colloquium Meeting](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/departments/department-methodology-and-statistics), Department of Methodology and Statistics, Maastricht University, The Netherlands
+* 09/2020: [Colloquium](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/departments/department-methodology-and-statistics), Department of Methodology and Statistics, Maastricht University, The Netherlands
 * 10/2019: [Second Dutch Stan Meetup 2019](https://www.basellife.org/2019.html), Utrecht, The Netherlands [(slides)](https://doi.org/10.5281/zenodo.3524019)
 * 09/2019: [Basel Life 2019](https://www.basellife.org/2019.html), Basel, Switzerland [(slides)](https://doi.org/10.5281/zenodo.3403730)
 * 12/2018: [Data Science Research Seminar](https://www.maastrichtuniversity.nl/events/data-science-research-seminar-0), Maastricht University, The Netherlands
