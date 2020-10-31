@@ -4,6 +4,7 @@ title: CV
 ---
 
 My detailed CV: [CV (pdf)](https://christofseiler.github.io/cv_christofseiler.pdf)
+
 My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/christof-seiler-2419294/)
 
 ## Education
