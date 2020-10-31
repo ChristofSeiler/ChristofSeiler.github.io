@@ -3,7 +3,8 @@ layout: page
 title: CV
 ---
 
-(more details on [LinkedIn](https://www.linkedin.com/in/christof-seiler-2419294/))
+My detailed CV: [CV (pdf)](https://christofseiler.github.io/cv_christofseiler.pdf)
+My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/christof-seiler-2419294/)
 
 ## Education
 
@@ -29,6 +30,8 @@ Dipl. Ing. FH in Computer Science
 * Software Engineer, [IEFO](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern, Switzerland
 * Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel, Switzerland
 * Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States
+
+<!--
 
 ## Grants and Awards
 
@@ -73,3 +76,5 @@ Dipl. Ing. FH in Computer Science
 * 08/2009: [Summer School on Manifold Learning in Image and Signal Analysis](http://www2.imm.dtu.dk/projects/manifold/), Ven, Sweden
 * 06/2009: [CAOS](http://www.caos-international.org/2009/), Boston, MA, United States
 * 12/2008: [3D Physiological Human](http://3dph.miralab.unige.ch/), Zermatt, Switzerland
+
+-->

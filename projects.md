@@ -7,10 +7,6 @@ title: Research Projects
 
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine, we are investigating how NK cells can be harnessed for therapeutic purposes. We use mass cytometry to measure protein expression at single cell resolution.
 
-Interactively reproduce and explore our analyses:
-
-[![binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristofSeiler/cytoeffect_binder/master?urlpath=rstudio)
-
 * Paper on statistical methods: [arXiv](http://arxiv.org/abs/1903.07976)
 * R package cytoeffect: [docs](https://christofseiler.github.io/cytoeffect/)
 * R package CytoGLMM: [docs](https://christofseiler.github.io/CytoGLMM/)
