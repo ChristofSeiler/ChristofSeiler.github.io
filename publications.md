@@ -3,11 +3,7 @@ layout: page
 title: Publications
 ---
 
-My Google Scholar profile: [Google Scholar](https://scholar.google.com/citations?user=fxMt84EAAAAJ&hl=en)
-
-My ResearchGate profile: [ResearchGate](https://www.researchgate.net/profile/Christof_Seiler/publications/)
-
-My papers on PubMed: [PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=christof%20seiler)
+[Google Scholar](https://scholar.google.com/citations?user=fxMt84EAAAAJ&hl=en), ResearchGate [ResearchGate](https://www.researchgate.net/profile/Christof_Seiler/publications/), and [PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=christof%20seiler)
 
 ## Preprints
 
