@@ -8,11 +8,11 @@ title: Publications
 ## Preprints
 
 1. **Uncertainty Quantification in Multivariate Mixed Models for Mass Cytometry Data** <br>
-**C. Seiler**, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, S. Holmes <br>
+**C. Seiler**, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, and S. Holmes <br>
 [arXiv](http://arxiv.org/abs/1903.07976), [posters](https://doi.org/10.5281/zenodo.2656626), [talk](https://doi.org/10.5281/zenodo.3524019)
 
 2. **CD38 Is a Key Regulator of Enhanced NK Cell Immune Responses During Pregnancy Through its Role in Immune Synapse Formation** <br>
-M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, C. Dekker, P. Khatri, G. Swan, M. Davis, S. Holmes, C. Blish <br>
+M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, C. Dekker, P. Khatri, G. Swan, M. Davis, S. Holmes, and C. Blish <br>
 [bioRxiv](https://doi.org/10.1101/349084)
 
 3. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
@@ -22,32 +22,32 @@ S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 ## Peer-Reviewed Journal Articles
 
 1. **Natural Killer Cell Phenotype is Altered in HIV-Exposed Seronegative Women** <br>
-N. Zhao, E. Vendrame, A.-M. Ferreira, C. Seiler, T. Ranganath, M. Alary, A.-C. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, C. Blish <br>
+N. Zhao, E. Vendrame, A.-M. Ferreira, C. Seiler, T. Ranganath, M. Alary, A.-C. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, and C. Blish <br>
 PLOS ONE, Volume 15, Issue 9, September 2020, Pages 1&ndash;17 <br>
 [open access](https://doi.org/10.1371/journal.pone.0238347)
 
 2. **Characterization of the Impact of Daclizumab Beta on Circulating Natural Killer Cells by Mass Cytometry** <br>
-T. Ranganath, L. Simpson, A.-M. Ferreira, **C. Seiler**, E. Vendrame, N. Zhao, J. Fontenot, S. Holmes, C. Blish <br>
+T. Ranganath, L. Simpson, A.-M. Ferreira, **C. Seiler**, E. Vendrame, N. Zhao, J. Fontenot, S. Holmes, and C. Blish <br>
 Frontiers in Immunology, Volume 11, Article 714, April 2020, Pages 1&ndash;13 <br>
 [open access](https://doi.org/10.3389/fimmu.2020.00714)
 
 3. **Influenza-Induced Interferon Lambda Response Is Associated with Longer Time to Delivery Among Pregnant Kenyan Women** <br>
-**C. Seiler**, N. Bayless, R. Vergara, J. Pintye, J. Kinuthia, L. Osborn, D. Matemo, B. Richardson, G. John-Stewart, S. Holmes, C. Blish <br>
+**C. Seiler**, N. Bayless, R. Vergara, J. Pintye, J. Kinuthia, L. Osborn, D. Matemo, B. Richardson, G. John-Stewart, S. Holmes, and C. Blish <br>
 Frontiers in Immunology, Volume 11, Article 452, March 2020, Pages 1&ndash;10 <br>
 [open access](https://doi.org/10.3389/fimmu.2020.00452)
 
 4. **TIGIT is Upregulated by HIV-1 Infection and Marks a Highly Functional Adaptive and Mature Subset of Natural Killer Cells** <br>
-E. Vendrame,  **C. Seiler**, T. Ranganath, N. Zhao, R. Vergara, M. Alary, AC. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, C. Blish <br>
+E. Vendrame,  **C. Seiler**, T. Ranganath, N. Zhao, R. Vergara, M. Alary, AC. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, and C. Blish <br>
 AIDS, Volume 34, Issue 6, May 2020, Pages 801&ndash;813 <br>
 [bioRxiv](https://doi.org/10.1101/764217), [journal](https://doi.org/10.1097/QAD.0000000000002488)
 
 5. **Pregnancy-Induced Alterations in NK Cell Phenotype and Function** <br>
-M. Le Gars, **C. Seiler**, A. Kay  N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, P. Khatri, C. Dekker, G. Swan, M. Davis, S. Holmes, and  C. Blish <br>
+M. Le Gars, **C. Seiler**, A. Kay  N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, P. Khatri, C. Dekker, G. Swan, M. Davis, S. Holmes, and C. Blish <br>
 Frontiers in Immunology, Volume 10, Article 2469, October 2019, Pages 1&ndash;13 <br>
 [open access](https://doi.org/10.3389/fimmu.2019.02469)
 
 6. **Differential Induction of IFN-α and Modulation of CD112 and CD54 Expression Govern the Magnitude of NK Cell IFN-γ Response to Influenza A Viruses** <br>
-L. Kronstad, **C. Seiler**, R. Vergara, S. Holmes, C. Blish <br>
+L. Kronstad, **C. Seiler**, R. Vergara, S. Holmes, and C. Blish <br>
 The Journal of Immunology, Volume 201, Issue 7, October 2018, Pages 2117&ndash;2131 <br>
 [bioRxiv](https://doi.org/10.1101/148528), [journal](http://dx.doi.org/10.4049/jimmunol.1800161), [github](https://github.com/ChristofSeiler/nk_influenza), [open access](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6143432/)
 
