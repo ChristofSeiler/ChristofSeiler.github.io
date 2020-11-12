@@ -7,7 +7,7 @@ My complete publication list: [publications](http://christofseiler.github.io/pub
 
 ## Regression Models for Mass Cytometry
 
-In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](https://sites.stanford.edu/blishlab/) at Stanford School of Medicine, we are investigating how NK cells can be harnessed for therapeutic purposes. We use mass cytometry to measure protein expression at single cell resolution.
+In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](http://med.stanford.edu/blishlab.html) at Stanford School of Medicine, we are investigating how NK cells can be harnessed for therapeutic purposes. We use mass cytometry to measure protein expression at single cell resolution.
 
 * Paper on statistical methods: [arXiv](http://arxiv.org/abs/1903.07976)
 * R package cytoeffect: [docs](https://christofseiler.github.io/cytoeffect/)
