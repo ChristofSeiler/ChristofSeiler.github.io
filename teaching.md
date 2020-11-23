@@ -17,7 +17,7 @@ Textbook: [Introduction to Probability (2nd edition)](https://drive.google.com/f
 
 * Period 5, 2018-2019, 2019-2020 (8 weeks): <br>
 **Software Engineering** (KEN1520) <br>
-Co-Instructor <br>
+Co-instructor <br>
 Course material: [MIT 6.031: Software Construction](http://web.mit.edu/6.031/)
 
 * Period 4, 2018-2019 (7 weeks): <br>
@@ -26,14 +26,14 @@ Instructor <br>
 
 * Period 6, 2018-2019 (2 hours lecture, 1.5 hours lab): <br>
 **Data Science School** <br>
-Co-Instructor <br>
+Co-instructor <br>
 [Lecture slides](https://christofseiler.github.io/data_science_school/dke_dss_lecture_01.pdf), [lab on RStudio cloud](https://rstudio.cloud/project/350555), and [lab solution](http://christofseiler.github.io/data_science_school/dke_dss_lab_01.html)
 
 ## Courses at Stanford University
 
 * Summer 2016-2017, 2017-2018: <br>
 **Modern Statistics for Modern Biology** (STATS 366 / BIOS 221) <br>
-Teaching Assistant responsible for labs (2016-2017) <br>
+Teaching assistant responsible for labs (2016-2017) <br>
 Invited guest lecture on image data (2017-2018) <br>
 [Course website](http://web.stanford.edu/class/bios221/index.html)
 
