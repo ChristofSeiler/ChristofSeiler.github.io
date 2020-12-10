@@ -7,15 +7,19 @@ title: Publications
 
 ## Preprints
 
-1. **Uncertainty Quantification in Multivariate Mixed Models for Mass Cytometry Data** <br>
+1. **CytoGLMM: Conditional Differential Analysis for Flow and Mass Cytometry Experiments** <br>
+**C. Seiler**, A.-M. Ferreira,, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, and S. Holmes <br>
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.12.09.417584v1)
+
+2. **Uncertainty Quantification in Multivariate Mixed Models for Mass Cytometry Data** <br>
 **C. Seiler**, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, and S. Holmes <br>
 [arXiv](http://arxiv.org/abs/1903.07976), [posters](https://doi.org/10.5281/zenodo.2656626), [talk](https://doi.org/10.5281/zenodo.3524019)
 
-2. **CD38 Is a Key Regulator of Enhanced NK Cell Immune Responses During Pregnancy Through its Role in Immune Synapse Formation** <br>
+3. **CD38 Is a Key Regulator of Enhanced NK Cell Immune Responses During Pregnancy Through its Role in Immune Synapse Formation** <br>
 M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, C. Dekker, P. Khatri, G. Swan, M. Davis, S. Holmes, and C. Blish <br>
 [bioRxiv](https://doi.org/10.1101/349084)
 
-3. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
+4. **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
 S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 [arXiv](http://arxiv.org/abs/1407.1114)
 
