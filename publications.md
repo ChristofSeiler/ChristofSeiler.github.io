@@ -8,7 +8,7 @@ title: Publications
 ## Preprints
 
 1. **CytoGLMM: Conditional Differential Analysis for Flow and Mass Cytometry Experiments** <br>
-**C. Seiler**, A.-M. Ferreira,, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, and S. Holmes <br>
+**C. Seiler**, A.-M. Ferreira, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, and S. Holmes <br>
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.12.09.417584v1)
 
 2. **Uncertainty Quantification in Multivariate Mixed Models for Mass Cytometry Data** <br>
