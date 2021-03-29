@@ -8,7 +8,7 @@ title: Publications
 ## Preprints
 
 1. **Beware of the Simulated DAG! Varsortability in Additive Noise Models** <br>
-A. Reisach, **C. Seiler**, S. Weichwald <br>
+A. Reisach, **C. Seiler**, and S. Weichwald <br>
 [arXiv](https://arxiv.org/abs/2102.13647)
 
 2. **Uncertainty Quantification in Multivariate Mixed Models for Mass Cytometry Data** <br>
