@@ -10,7 +10,7 @@ My complete publication list: [publications](http://christofseiler.github.io/pub
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](http://med.stanford.edu/blishlab.html) at Stanford School of Medicine, we are investigating how NK cells can be harnessed for therapeutic purposes. We use mass cytometry to measure protein expression at single cell resolution.
 
 * Papers on statistical methods: [open access](https://doi.org/10.1186/s12859-021-04067-x) and [arXiv](http://arxiv.org/abs/1903.07976)
-* R package CytoGLMM: [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/CytoGLMM.html) and [docs](https://christofseiler.github.io/CytoGLMM/)
+* R package CytoGLMM: [Bioconductor](https://bioconductor.org/packages/CytoGLMM) and [docs](https://christofseiler.github.io/CytoGLMM/)
 * R package cytoeffect: [docs](https://christofseiler.github.io/cytoeffect/)
 * Processed data: [zenodo](https://doi.org/10.5281/zenodo.2652578)
 * Talk: [zenodo](https://doi.org/10.5281/zenodo.3524019)
