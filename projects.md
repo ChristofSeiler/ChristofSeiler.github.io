@@ -5,6 +5,12 @@ title: Research Projects
 
 My complete publication list: [publications](http://christofseiler.github.io/publications/)
 
+## Causal Discovery
+
+In collaboration with [Alexander Reisach](https://www.linkedin.com/in/alexander-reisach-2033a9175/) and [Sebastian Weichwald](https://sweichwald.de), we studied simulated datasets for benchmarking causal learning algorithms. Discovering causal structure in such benchmarks is very closely linked to the marginal variance of variables.
+
+* Paper: [arXiv](https://arxiv.org/abs/2102.13647)
+
 ## Regression Models for Mass Cytometry
 
 In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](http://med.stanford.edu/blishlab.html) at Stanford School of Medicine, we are investigating how NK cells can be harnessed for therapeutic purposes. We use mass cytometry to measure protein expression at single cell resolution.
