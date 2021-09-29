@@ -7,7 +7,7 @@ My complete publication list: [publications](http://christofseiler.github.io/pub
 
 ## Causal Discovery
 
-In collaboration with [Alexander Reisach](https://www.linkedin.com/in/alexander-reisach-2033a9175/) and [Sebastian Weichwald](https://sweichwald.de), we studied simulated datasets for benchmarking causal learning algorithms. Discovering causal structure in such benchmarks is very closely linked to the marginal variance of variables.
+In collaboration with [Alexander Reisach](https://www.linkedin.com/in/alexander-reisach-2033a9175/) and [Sebastian Weichwald](https://sweichwald.de), we studied simulated datasets for benchmarking causal learning algorithms. We found that causal structure in such benchmarks is closely linked to the marginal variance of variables.
 
 * Paper: [arXiv](https://arxiv.org/abs/2102.13647)
 
