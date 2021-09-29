@@ -13,7 +13,7 @@ In collaboration with [Alexander Reisach](https://www.linkedin.com/in/alexander-
 
 ## Regression Models for Mass Cytometry
 
-In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](http://med.stanford.edu/blishlab.html) at Stanford School of Medicine, we invested how NK cells can be harnessed for therapeutic purposes. We used mass cytometry to measure protein expression at single cell resolution.
+In collaboration with [Catherine Blish](https://med.stanford.edu/profiles/catherine-blish) and her [lab](http://med.stanford.edu/blishlab.html) at Stanford School of Medicine, we investigated how NK cells can be harnessed for therapeutic purposes. We used mass cytometry to measure protein expression at single cell resolution.
 
 * Papers on statistical methods: [open access](https://doi.org/10.1186/s12859-021-04067-x) and [arXiv](http://arxiv.org/abs/1903.07976)
 * R package CytoGLMM: [bioconductor](https://bioconductor.org/packages/CytoGLMM) and [github](https://christofseiler.github.io/CytoGLMM/)
