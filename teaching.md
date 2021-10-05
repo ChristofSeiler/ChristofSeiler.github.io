@@ -5,17 +5,17 @@ title: Teaching
 
 ## Courses at Maastricht University
 
-* Period 4, 2019-2020, 2020-2021 (8 weeks): <br>
+* Period 4, 2019-2020, 2020-2021, 2021-2022 (8 weeks): <br>
 **Computational Statistics** (KEN4258) <br>
 Instructor <br>
 Textbook: [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/)
 
-* Period 1, 2019-2020, 2020-2021 (8 weeks): <br>
+* Period 1, 2019-2020, 2020-2021, 2021-2022 (8 weeks): <br>
 **Probability and Statistics** (KEN2130) <br>
 Instructor <br>
 Textbook: [Introduction to Probability (2nd edition)](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
 
-* Period 5, 2018-2019, 2019-2020, 2020-2021 (8 weeks): <br>
+* Period 5, 2018-2019, 2019-2020, 2020-2021, 2021-2022 (8 weeks): <br>
 **Software Engineering** (KEN1520) <br>
 Co-instructor <br>
 Course material: [MIT 6.031: Software Construction](http://web.mit.edu/6.031/)
