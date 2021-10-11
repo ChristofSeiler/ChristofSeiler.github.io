@@ -9,6 +9,7 @@ title: Publications
 
 * **Spatial Patterns of Dental Disease in Patients with Low Salivary Flow** <br>
 D. Proctor, **C. Seiler**, A. Burns, S. Walker, T. Jung, J. Weng, S. Sastiel, Y. Rajendran,  Y. Kapila, M. Millman, G. Armitage, P. Loomer, S. Holmes, M. Ryder, and D. Relman <br>
+This preprint is not yet peer-reviewed <br>
 [medRxiv](https://doi.org/10.1101/2021.10.04.21264534)
 
 * **Beware of the Simulated DAG! Varsortability in Additive Noise Models** <br>
