@@ -23,7 +23,7 @@ BMC Bioinformatics, Volume 22, Article 137, March 2021, Pages 1&ndash;14 <br>
 
 ## 2020
 
-* **Natural Killer Cell Phenotype is Altered in HIV-Exposed Seronegative Women** <br
+* **Natural Killer Cell Phenotype is Altered in HIV-Exposed Seronegative Women** <br>
 N. Zhao, E. Vendrame, A.-M. Ferreira, **C. Seiler**, T. Ranganath, M. Alary, A.-C. Labbé, F. Guédou, J. Poudrier, S. Holmes, M. Roger, and C. Blish <br>
 PLOS ONE, Volume 15, Issue 9, September 2020, Pages 1&ndash;17 <br>
 [open access](https://doi.org/10.1371/journal.pone.0238347)
