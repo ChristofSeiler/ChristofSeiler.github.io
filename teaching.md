@@ -27,7 +27,7 @@ Instructor <br>
 * Period 6, 2018-2019 (2 hours lecture, 1.5 hours lab): <br>
 **Data Science School** <br>
 Co-instructor <br>
-[Lecture slides](https://christofseiler.github.io/data_science_school/dke_dss_lecture_01.pdf), [lab on RStudio cloud](https://rstudio.cloud/project/350555), and [lab solution](http://christofseiler.github.io/data_science_school/dke_dss_lab_01.html)
+[Lecture slides](https://christofseiler.github.io/data_science_school/dke_dss_lecture_01.pdf), [lab on RStudio cloud](https://rstudio.cloud/project/350555), and [lab solution](https://christofseiler.github.io/data_science_school/dke_dss_lab_01.html)
 
 ## Courses at Stanford University
 
@@ -40,7 +40,7 @@ Invited guest lecture on image data (2017-2018) <br>
 * Spring 2015-2016 (10 weeks): <br>
 **Introduction to Nonparametric Statistics** (STATS 205) <br>
 Instructor <br>
-[Course website](http://christofseiler.github.io/stats205/)
+[Course website](https://christofseiler.github.io/stats205/)
 
 ## Courses at University of Bern and ETH Zurich
 

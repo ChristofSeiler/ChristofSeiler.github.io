@@ -3,7 +3,7 @@ layout: page
 title: Research Projects
 ---
 
-My complete publication list: [publications](http://christofseiler.github.io/publications/)
+My complete publication list: [publications](https://christofseiler.github.io/publications/)
 
 ## Causal Discovery
 
