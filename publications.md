@@ -98,7 +98,7 @@ This preprint is not yet peer-reviewed <br>
 * **Positive Curvature and Hamiltonian Monte Carlo** <br>
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
 28th Conference on Neural Information Processing Systems (NIPS now NeurIPS) <br>
-December, 2014, Montreal, Canada <br>
+December 2014, Montreal, Canada <br>
 [pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo), [poster](https://christofseiler.github.io/NIPS-Poster.pdf)
 
 * **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
@@ -126,7 +126,7 @@ Nagoya, Japan, LNCS, Volume 8150, Part II, September 2013, Pages 501&ndash;508 <
 
 * **Random Spatial Structure of Geometric Deformations and Bayesian Nonparametrics** <br>
 **C. Seiler**, X. Pennec, and S. Holmes <br>
-1st International Conference on Geometric Science of Information <br>
+1st International Conference on Geometric Science of Information (GSI) <br>
 Paris, France, LNCS, Volume 8085, Part III, August 2013, Pages 120&ndash;127 <br>
 [pdf](https://hal.inria.fr/hal-00847185/document), [talk (youtube)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc), [discussion (youtube)](https://www.youtube.com/watch?v=B22UeW_wOpg)
 
@@ -137,7 +137,7 @@ Cell and Tissue Banking, Volume 14, Issue 2, June 2013, Pages 213&ndash;220 <br>
 
 * **Regional Analysis of Left Ventricle Function using a Cardiac-Specific Polyaffine Motion Model** <br>
 K. McLeod, **C. Seiler**, Nicolas Toussaint, M. Sermesant, and X. Pennec <br>
-7th International Conference on Functional Imaging and Modeling of the Heart <br>
+7th International Conference on Functional Imaging and Modeling of the Heart (FIMH) <br>
 London, UK, LNCS, Volume 7945, June 2013, Pages 483&ndash;490 <br>
 [pdf](http://hal.inria.fr/hal-00840042/PDF/PolyAffineHeartRegionalAnalysis.pdf)
 
