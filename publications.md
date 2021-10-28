@@ -12,9 +12,9 @@ D. Proctor, **C. Seiler**, A. Burns, S. Walker, T. Jung, J. Weng, S. Sastiel, Y.
 This preprint is not yet peer-reviewed <br>
 [medRxiv](https://doi.org/10.1101/2021.10.04.21264534)
 
-* **Beware of the Simulated DAG! Varsortability in Additive Noise Models** <br>
+* **Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy To Game** <br>
 A. Reisach, **C. Seiler**, and S. Weichwald <br>
-This preprint is not yet peer-reviewed <br>
+35th Conference on Neural Information Processing Systems (NeurIPS), 2021 <br>
 [arXiv](https://arxiv.org/abs/2102.13647)
 
 * **CytoGLMM: Conditional Differential Analysis for Flow and Mass Cytometry Experiments** <br>
@@ -96,9 +96,9 @@ This preprint is not yet peer-reviewed <br>
 
 * **Positive Curvature and Hamiltonian Monte Carlo** <br>
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
-Neural Information Processing Systems (NeurIPS formerly NIPS), December, 2014, Montreal, Canada <br>
+28th Conference on Neural Information Processing Systems (NIPS now NeurIPS), December, 2014, Montreal, Canada <br>
 (Acceptance rate: 414 of 1678 papers = 25%) <br>
-[pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo.pdf), [poster](https://christofseiler.github.io/NIPS-Poster.pdf)
+[pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo), [poster](https://christofseiler.github.io/NIPS-Poster.pdf)
 
 * **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, M. Reyes, and P. B&uuml;chler <br>
