@@ -179,7 +179,7 @@ Toronto, Canada, LNCS, Volume 6892, Part II, September 2011, Pages 631&ndash;638
 Young Scientist Award <br>
 (Top 5 out of the majority of 819 papers written by PhD students and postdocs) <br>
 Student Travel Award and Oral Podium Presentation <br>
-[pdf](https://hal.inria.fr/hal-00813867/document), [journal](http://dx.doi.org/10.1007/978-3-642-23629-7_77)
+[pdf](https://hal.inria.fr/inria-00616215/document), [journal](http://dx.doi.org/10.1007/978-3-642-23629-7_77)
 
 * **Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: A Preliminary Comparison Study for the Creation of Finite Element Meshes** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, P. B&uuml;chler, and M. Reyes <br>
