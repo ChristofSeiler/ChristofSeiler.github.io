@@ -11,7 +11,7 @@ title: Publications
 A. Reisach, **C. Seiler**, and S. Weichwald <br>
 35th Conference on Neural Information Processing Systems (NeurIPS) <br>
 Virtual-only, December 2021 <br>
-[arXiv](https://arxiv.org/abs/2102.13647)
+[pdf](https://proceedings.neurips.cc/paper/2021/hash/e987eff4a7c7b7e580d659feb6f60c1a-Abstract.html)
 
 * **Spatial Patterns of Dental Disease in Patients with Low Salivary Flow** <br>
 D. Proctor, **C. Seiler**, A. Burns, S. Walker, T. Jung, J. Weng, S. Sastiel, Y. Rajendran,  Y. Kapila, M. Millman, G. Armitage, P. Loomer, S. Holmes, M. Ryder, and D. Relman <br>
@@ -57,8 +57,8 @@ Frontiers in Immunology, Volume 10, Article 2469, October 2019, Pages 1&ndash;13
 This preprint is not yet peer-reviewed <br>
 [arXiv](http://arxiv.org/abs/1903.07976), [posters](https://doi.org/10.5281/zenodo.2656626), [talk](https://doi.org/10.5281/zenodo.3524019)
 
-* **CD38 Is a Key Regulator of Enhanced NK Cell Immune Responses During Pregnancy Through its Role in Immune Synapse Formation** <br>
-M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, C. Dekker, P. Khatri, G. Swan, M. Davis, S. Holmes, and C. Blish <br>
+* **CCD38 contributes to human natural killer cell responses through a role in immune synapse formation** <br>
+M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Sola, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, P. Khatri, C. Dekker, G. Swan, M. Davis, S. Holmes, Catherine A. Blish <br>
 This preprint is not yet peer-reviewed <br>
 [bioRxiv](https://doi.org/10.1101/349084)
 
