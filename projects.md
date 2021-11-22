@@ -9,7 +9,7 @@ My complete publication list: [publications](https://christofseiler.github.io/pu
 
 In collaboration with [Alexander Reisach](https://www.linkedin.com/in/alexander-reisach-2033a9175/) and [Sebastian Weichwald](https://sweichwald.de), we studied simulated datasets for benchmarking causal learning algorithms. We found that causal structure in such benchmarks is closely linked to the marginal variance of variables.
 
-* Paper: [arXiv](https://arxiv.org/abs/2102.13647)
+* Paper: [NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/e987eff4a7c7b7e580d659feb6f60c1a-Abstract.html)
 
 ## Regression Models for Mass Cytometry
 
