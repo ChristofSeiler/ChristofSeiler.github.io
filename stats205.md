@@ -144,7 +144,7 @@ Lecture | Topic(s)                                                              
 Assignment                              | Deadline              | Solution
 ----------------------------------------|-----------------------|----------------------------------------
 [Homework 1](Homework1/Homework1.html)  | April 7th at 1:30 pm  | [Solution 1](Homework1/Solution1.html)
-[Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm | Solution 2 temporarily removed
+[Homework 2](Homework2/Homework2.html)  | April 15th at 1:30 pm | [Solution 2](Homework2/Solution2.html)
 [Homework 3](Homework3/Homework3.html)  | April 25th at 1:30 pm | [Solution 3](Homework3/Solution3.html)
 [Homework 4](Homework4/Homework4.html)  | May 10th at 1:30 pm   | [Solution 4](Homework4/Solution4.html)
 [Homework 5](Homework5/Homework5.html)  | May 19th at 1:30 pm   | [Solution 5](Homework5/Solution5.html)
