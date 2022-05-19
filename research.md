@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects
+title: Research
 ---
 
 My complete publication list: [publications](https://christofseiler.github.io/publications/)
