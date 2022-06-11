@@ -8,9 +8,11 @@ Detailed [CV (pdf)](https://christofseiler.github.io/cv_christofseiler.pdf) and 
 ## Education
 
 * **Stanford University, CA, United States** <br>
-Postdoctoral Fellow in Statistics mentored by [Susan Holmes](https://statweb.stanford.edu/~susan/susan_person.html)
+Advisor: [Susan Holmes](https://statweb.stanford.edu/~susan/susan_person.html) <br>
+Postdoctoral Fellow in Statistics
 * **Inria, France** and **University of Bern, Switzerland** <br>
-[PhD](http://www.unibe.ch/studies/programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) in Computer Science and Biomedical Engineering mentored by [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) and [Mauricio Reyes](http://www.mauricioreyes.me/)
+Advisors: [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) and [Mauricio Reyes](http://www.mauricioreyes.me/) <br>
+[PhD](http://www.unibe.ch/studies/programs/doctorate/doctoral_degree/joint_supervision_doctorate/index_eng.html) in Computer Science and Biomedical Engineering
 * **University of Bern, Switzerland** <br>
 MSc in Biomedical Engineering
 * **University of Applied Sciences, Biel, Switzerland** <br>
