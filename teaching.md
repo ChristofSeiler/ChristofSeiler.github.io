@@ -5,12 +5,12 @@ title: Teaching
 
 ## Courses at Maastricht University
 
-* 2019/20, 2020/21, 2021/22 (8 weeks): <br>
+* 2019/20, 2020/21, 2021/22, 2022/23 (8 weeks): <br>
 **Computational Statistics** (KEN4258) <br>
 Instructor <br>
 Textbook: [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/)
 
-* 2019/20, 2020/21, 2021/22 (8 weeks): <br>
+* 2019/20, 2020/21, 2021/22, 2022/23 (8 weeks): <br>
 **Probability and Statistics** (KEN2130) <br>
 Instructor <br>
 Textbook: [Introduction to Probability (2nd edition)](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
@@ -33,8 +33,8 @@ Co-instructor <br>
 
 * 2016/17, 2017/18: <br>
 **Modern Statistics for Modern Biology** (STATS 366 / BIOS 221) <br>
-Teaching assistant responsible for labs (2016-2017) <br>
-Invited guest lecture on image data (2017-2018) <br>
+Teaching assistant responsible for labs (2016/17) <br>
+Invited guest lecture on image data (2017/18) <br>
 [Course website](http://web.stanford.edu/class/bios221/index.html)
 
 * 2015/16 (10 weeks): <br>
