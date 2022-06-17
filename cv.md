@@ -37,7 +37,7 @@ Inria Sophia Antipolis, France
 * Visiting Graduate Fellow, [SAMSI](https://www.samsi.info/) <br>
 NC, United States
 * Software Engineer, [ISS AG](http://www.iss-ag.ch/en) <br>
-<br>Biel, Switzerland
+Biel, Switzerland
 * Software Engineer, [IEFO](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html) <br>
 University of Bern, Switzerland
 * Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394) <br>
