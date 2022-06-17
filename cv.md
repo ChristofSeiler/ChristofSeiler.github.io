@@ -20,18 +20,30 @@ Dipl. Ing. FH in Computer Science
 
 ## Positions
 
-* Current: **Tenured Assistant Professor**, [Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
-* Tenure-Track Assistant Professor, [Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
-* Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University, CA, United States
-* Postdoctoral Researcher, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University, CA, United States
-* EPFL-Stanford Exchange Fellow, [MIP:Lab](https://miplab.epfl.ch/), Lausanne, Switzerland
-* Doctoral Researcher, [ISTB](http://www.istb.unibe.ch/index_eng.html), University of Bern, Switzerland
-* Doctoral Researcher, [Asclepios](https://team.inria.fr/epione/en/) (now Epione), Inria Sophia Antipolis, France
-* Visiting Graduate Fellow, [SAMSI](https://www.samsi.info/), NC, United States
-* Software Engineer, [ISS AG](http://www.iss-ag.ch/en), Biel, Switzerland
-* Software Engineer, [IEFO](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html), University of Bern, Switzerland
-* Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Biel, Switzerland
-* Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394), Fremont, CA, United States
+* Current: **Tenured Assistant Professor**, [Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge) <br>
+Maastricht University, The Netherlands
+* Tenure-Track Assistant Professor, [Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge) <br>
+Maastricht University, The Netherlands
+* Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html) <br>
+Department of Statistics, Stanford University, CA, United States
+* Postdoctoral Researcher, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html) <br>
+Department of Statistics, Stanford University, CA, United States
+* EPFL-Stanford Exchange Fellow, [MIP:Lab](https://miplab.epfl.ch/) <br>
+EPFL, Lausanne, Switzerland
+* Doctoral Researcher, [ISTB](http://www.istb.unibe.ch/index_eng.html) <br>
+University of Bern, Switzerland
+* Doctoral Researcher, [Asclepios](https://team.inria.fr/epione/en/) (now Epione) <br>
+Inria Sophia Antipolis, France
+* Visiting Graduate Fellow, [SAMSI](https://www.samsi.info/) <br>
+NC, United States
+* Software Engineer, [ISS AG](http://www.iss-ag.ch/en) <br>
+<br>Biel, Switzerland
+* Software Engineer, [IEFO](http://www.swissrdl.unibe.ch/about_us/history/index_eng.html) <br>
+University of Bern, Switzerland
+* Consultant Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394) <br>
+Biel, Switzerland
+* Intern Software Engineering, [Oridus Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=524394) <br>
+Fremont, CA, United States
 
 <!--
 
