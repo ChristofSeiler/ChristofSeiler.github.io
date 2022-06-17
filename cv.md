@@ -20,8 +20,8 @@ Dipl. Ing. FH in Computer Science
 
 ## Positions
 
-* Current: **Tenured Assistant Professor**, [DKE](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
-* Tenure-Track Assistant Professor, [DKE](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
+* Current: **Tenured Assistant Professor**, [Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
+* Tenure-Track Assistant Professor, [Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/fse-departments/department-data-science-and-knowledge), Maastricht University, The Netherlands
 * Research Scientist, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University, CA, United States
 * Postdoctoral Researcher, [Holmes Lab](http://statweb.stanford.edu/~susan/lab_index.html), Department of Statistics, Stanford University, CA, United States
 * EPFL-Stanford Exchange Fellow, [MIP:Lab](https://miplab.epfl.ch/), Lausanne, Switzerland
