@@ -19,7 +19,7 @@ Textbooks:
 **Software Engineering** (KEN1520) <br>
 Course material: [MIT 6.031: Software Construction](http://web.mit.edu/6.031/)
 
-## Courses at Stanford University
+## Course at Stanford University
 
 * 2015/16: <br>
 **Introduction to Nonparametric Statistics** (STATS 205) <br>
