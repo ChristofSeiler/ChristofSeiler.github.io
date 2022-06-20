@@ -21,7 +21,7 @@ This preprint is not yet peer-reviewed <br>
 * **CytoGLMM: Conditional Differential Analysis for Flow and Mass Cytometry Experiments** <br>
 **C. Seiler**, A.-M. Ferreira, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, and S. Holmes <br>
 BMC Bioinformatics, Volume 22, Article 137, March 2021, Pages 1&ndash;14 <br>
-[open access](https://doi.org/10.1186/s12859-021-04067-x)
+[open access](https://doi.org/10.1186/s12859-021-04067-x), [R package](https://bioconductor.org/packages/CytoGLMM/)
 
 ## 2020
 
@@ -55,7 +55,7 @@ Frontiers in Immunology, Volume 10, Article 2469, October 2019, Pages 1&ndash;13
 * **Uncertainty Quantification in Multivariate Mixed Models for Mass Cytometry Data** <br>
 **C. Seiler**, L. Kronstad, L. Simpson, M. Le Gars, E. Vendrame, C. Blish, and S. Holmes <br>
 This preprint is not yet peer-reviewed <br>
-[arXiv](http://arxiv.org/abs/1903.07976), [posters](https://doi.org/10.5281/zenodo.2656626), [talk](https://doi.org/10.5281/zenodo.3524019)
+[arXiv](http://arxiv.org/abs/1903.07976), [posters](https://doi.org/10.5281/zenodo.2656626), [talk](https://doi.org/10.5281/zenodo.3524019), [R package](https://christofseiler.github.io/cytoeffect/)
 
 * **CCD38 contributes to human natural killer cell responses through a role in immune synapse formation** <br>
 M. Le Gars, **C. Seiler**, A. Kay, N. Bayless, E. Sola, E. Starosvetsky, L. Moore, S. Shen-Orr, N. Aziz, P. Khatri, C. Dekker, G. Swan, M. Davis, S. Holmes, Catherine A. Blish <br>
@@ -72,26 +72,26 @@ The Journal of Immunology, Volume 201, Issue 7, October 2018, Pages 2117&ndash;2
 * **Multi-Table Differential Correlation Analysis of Neuroanatomical and Cognitive Interactions in Turner Syndrome** <br>
 **C. Seiler**, T. Green, D. Hong, L. Chromik, L. Huffman, S. Holmes, and A.L. Reiss <br>
 Neuroinformatics, Volume 16, Issue 1, January 2018, Pages 81&ndash;93 <br>
-[pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf), [view](http://rdcu.be/CZGQ), [journal](http://dx.doi.org/10.1007/s12021-017-9351-z), [open access](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223630/)
+[pdf](https://christofseiler.github.io/braincog/BrainCognitionArticle_Neuroinformatics.pdf), [view](http://rdcu.be/CZGQ), [journal](http://dx.doi.org/10.1007/s12021-017-9351-z), [open access](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223630/), [R package](https://github.com/ChristofSeiler/braincog)
 
 ## 2017
 
 * **Multivariate Heteroscedasticity Models for Functional Brain Connectivity** <br>
 **C. Seiler** and S. Holmes <br>
 Frontiers in Neuroscience, Volume 11, Article 696, December 2017, Pages 1&ndash;11 <br>
-[open access](https://doi.org/10.3389/fnins.2017.00696)
+[open access](https://doi.org/10.3389/fnins.2017.00696), [R package](https://github.com/ChristofSeiler/CovRegFC)
 
 * **Bayesian Statistics in Computational Anatomy** <br>
 **C. Seiler** <br>
 Statistical Shape and Deformation Analysis: Methods, Implementations & Applications (G. Zheng, S. Li, and G. Sz&eacute;kely, eds.), Chapter 8, Academic Press, March 2017, Pages 193&ndash;214 <br>
-[pdf](https://christofseiler.github.io/Preprint_Bayesian_CA.pdf), [journal](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4)
+[pdf](https://christofseiler.github.io/Preprint_Bayesian_CA.pdf), [journal](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4), [C++ code](https://github.com/ChristofSeiler/BayesianImageRegistration)
 
 ## 2015
 
 * **Curvature and Concentration of Hamiltonian Monte Carlo in High Dimensions** <br>
 S. Holmes, S. Rubinstein-Salzedo, and **C. Seiler** <br>
 This preprint is not yet peer-reviewed <br>
-[arXiv](http://arxiv.org/abs/1407.1114)
+[arXiv](http://arxiv.org/abs/1407.1114), [R package](https://github.com/ChristofSeiler/curvature)
 
 ## 2014
 
@@ -99,7 +99,7 @@ This preprint is not yet peer-reviewed <br>
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
 28th Conference on Neural Information Processing Systems (NIPS now NeurIPS) <br>
 December 2014, Montreal, Canada <br>
-[pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo), [poster](https://christofseiler.github.io/NIPS-Poster.pdf)
+[pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo), [poster](https://christofseiler.github.io/NIPS-Poster.pdf), [R package](https://github.com/ChristofSeiler/curvature)
 
 * **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, M. Reyes, and P. B&uuml;chler <br>
@@ -109,7 +109,7 @@ Medical Engineering and Physics, Volume 36, Issue 12, December 2014, Pages 1626&
 * **Time-Lapse Microscopy and Classification of 2D Human Mesenchymal Stem Cells Based on Cell Shape Picks Up Myogenic from Osteogenic and Adipogenic Differentiation** <br>
 **C. Seiler**, A. Gazdhar, M. Reyes, L.M. Benneker, T. Geiser, K.A. Siebenrock, and B. Gantenbein-Ritter <br>
 Journal of Tissue Engineering and Regenerative Medicine, Volume 8, Issue 9, September 2014, Pages 737&ndash;746 <br>
-[pdf](https://christofseiler.github.io/Paper_Accepted_Time-Lapse.pdf), [journal](http://dx.doi.org/10.1002/term.1575)
+[pdf](https://christofseiler.github.io/Paper_Accepted_Time-Lapse.pdf), [journal](http://dx.doi.org/10.1002/term.1575), [Matlab and R code](https://github.com/ChristofSeiler/CellShapeClassifier)
 
 * **Discussion of "Geodesic Monte Carlo on Embedded Manifolds"** <br>
 P. Diaconis, **C. Seiler**, and S. Holmes <br>
@@ -128,7 +128,7 @@ Nagoya, Japan, LNCS, Volume 8150, Part II, September 2013, Pages 501&ndash;508 <
 **C. Seiler**, X. Pennec, and S. Holmes <br>
 1st International Conference on Geometric Science of Information (GSI) <br>
 Paris, France, LNCS, Volume 8085, Part III, August 2013, Pages 120&ndash;127 <br>
-[pdf](https://hal.inria.fr/hal-00847185/document), [talk (youtube)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc), [discussion (youtube)](https://www.youtube.com/watch?v=B22UeW_wOpg)
+[pdf](https://hal.inria.fr/hal-00847185/document), [talk (youtube)](https://www.youtube.com/watch?v=KZO-EaJ6Qrc), [discussion (youtube)](https://www.youtube.com/watch?v=B22UeW_wOpg), [C++ code](https://github.com/ChristofSeiler/BayesianNonparametrics)
 
 * **Validity of an Automatic Measure Protocol in Distal Femur for Allograft Selection from a Three-Dimensional Virtual Bone Bank System** <br>
 L. Ritacco, **C. Seiler**, G. Farfalli, L. Nolte, M. Reyes, D. Muscolo, and L. Tinao <br>
@@ -146,7 +146,7 @@ London, UK, LNCS, Volume 7945, June 2013, Pages 483&ndash;490 <br>
 * **Capturing the Multiscale Anatomical Shape Variability with Polyaffine Transformation Trees** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
 Medical Image Analysis, Volume 16, Issue 7, October 2012, Pages 1371&ndash;1384 <br>
-[pdf](https://hal.inria.fr/hal-00813866/file/SeilerPolyaffineTransformationTreesMedIA2012.pdf), [journal](http://dx.doi.org/10.1016/j.media.2012.05.011)
+[pdf](https://hal.inria.fr/hal-00813866/file/SeilerPolyaffineTransformationTreesMedIA2012.pdf), [journal](http://dx.doi.org/10.1016/j.media.2012.05.011), [C++ code](https://github.com/ChristofSeiler/PolyaffineTransformationTrees)
 
 * **Simultaneous Multiscale Polyaffine Registration by Incorporating Deformation Statistics** <br>
 **C. Seiler**, X. Pennec, and M. Reyes <br>
@@ -179,7 +179,7 @@ Toronto, Canada, LNCS, Volume 6892, Part II, September 2011, Pages 631&ndash;638
 Young Scientist Award <br>
 (Top 5 out of the majority of 819 papers written by PhD students and postdocs) <br>
 Student Travel Award and Oral Podium Presentation <br>
-[pdf](https://hal.inria.fr/inria-00616215/document), [journal](http://dx.doi.org/10.1007/978-3-642-23629-7_77)
+[pdf](https://hal.inria.fr/inria-00616215/document), [journal](http://dx.doi.org/10.1007/978-3-642-23629-7_77), [C++ code](https://github.com/ChristofSeiler/PolyaffineTransformationTrees)
 
 * **Mesh-based vs. Image-based Statistical Model of Appearance of the Human Femur: A Preliminary Comparison Study for the Creation of Finite Element Meshes** <br>
 S. Bonaretti, **C. Seiler**, C. Boichon, P. B&uuml;chler, and M. Reyes <br>
@@ -222,7 +222,7 @@ London, UK, LNCS, Volume 5762, Part II, September 2009, Pages 84&ndash;91 <br>
 * **Hierarchical Markov Random Fields Applied to Model Soft Tissue Deformations on Graphics Hardware** <br>
 **C. Seiler**, P. Büchler, L.-P. Nolte, R. Paulsen, and M. Reyes <br>
 Recent Advances in the 3D Physiological Human (N. Magnenat-Thalmann, J.J. Zhang, and D.D. Feng, eds.), Chapter 9, Springer London, July 2009, Pages 133&ndash;148 <br>
-[pdf](https://christofseiler.github.io/PaperHMRFDeformationGPU.pdf), [journal](http://dx.doi.org/10.1007/978-1-84882-565-9_9)
+[pdf](https://christofseiler.github.io/PaperHMRFDeformationGPU.pdf), [journal](http://dx.doi.org/10.1007/978-1-84882-565-9_9), [C++ code](https://github.com/ChristofSeiler/SoftTissueDeformations)
 
 ## Theses
 
