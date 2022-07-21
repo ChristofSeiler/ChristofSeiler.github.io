@@ -5,19 +5,14 @@ title: Teaching
 
 ## Current Courses at Maastricht University
 
-* 2019/20, 2020/21, 2021/22, 2022/23: <br>
-**Computational Statistics** (KEN4258) <br>
-Textbooks:
+* **Computational Statistics** (KEN4258)
   * [Statistical Models (2nd Edition)](https://doi.org/10.1017/CBO9780511815867)
   * [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/)
-* 2019/20, 2020/21, 2021/22, 2022/23: <br>
-**Probability and Statistics** (KEN2130) <br>
-Textbooks:
+* **Probability and Statistics** (KEN2130)
   * [Introduction to Probability (2nd Edition)](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
   * [Mathematical Statistics and Data Analysis (3rd Edition)](https://www.studystore.nl/p/9780495118688/)
 
 ## Past Course at Stanford University
 
-* 2015/16: <br>
-**Introduction to Nonparametric Statistics** (STATS 205) <br>
+* **Introduction to Nonparametric Statistics** (STATS 205) <br>
 [Course website](https://christofseiler.github.io/stats205/)
