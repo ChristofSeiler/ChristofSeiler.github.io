@@ -98,7 +98,7 @@ This preprint is not yet peer-reviewed <br>
 * **Positive Curvature and Hamiltonian Monte Carlo** <br>
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
 28th Conference on Neural Information Processing Systems (NIPS now NeurIPS) <br>
-December 2014, Montreal, Canada, Pages 586&ndash;594 <br>
+Montreal, Canada, December 2014, Pages 586&ndash;594 <br>
 [pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo), [poster](https://christofseiler.github.io/NIPS-Poster.pdf), [R package](https://github.com/ChristofSeiler/curvature)
 
 * **Image-based vs. Mesh-based Statistical Appearance Model of the Human Femur: Implications for Finite Element Simulations** <br>
