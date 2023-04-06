@@ -5,6 +5,13 @@ title: Research
 
 [Google Scholar](https://scholar.google.com/citations?user=fxMt84EAAAAJ&hl=en)
 
+## 2023
+
+* **Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models** <br>
+A. Reisach, M. Tami, **C. Seiler**, A. Chambaz, and S. Weichwald <br>
+This preprint is not yet peer-reviewed <br>
+[arXiv](https://arxiv.org/abs/2303.18211)
+
 ## 2021
 
 * **Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy To Game** <br>
