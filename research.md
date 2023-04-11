@@ -8,7 +8,7 @@ title: Research
 ## 2023
 
 * **Conformal Regression in Calorie Prediction for Team Jumbo-Visma** <br>
-K. van Kuijk, M. Dirksen, C. Seiler <br>
+K. van Kuijk, M. Dirksen, **C. Seiler** <br>
 This preprint is not yet peer-reviewed <br>
 [arXiv](https://arxiv.org/abs/2304.03778)
 
