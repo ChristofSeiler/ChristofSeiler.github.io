@@ -9,9 +9,9 @@ title: Research
 
 * **Conformal Regression in Calorie Prediction for Team Jumbo-Visma** <br>
 K. van Kuijk, M. Dirksen, **C. Seiler** <br>
-To appear at 12th Symposium on Conformal and Probabilistic Prediction with Applications (COPA) <br>
-Limassol, Cyprus, September 2023 <br>
-[arXiv](https://arxiv.org/abs/2304.03778)
+12th Symposium on Conformal and Probabilistic Prediction with Applications (COPA) <br>
+Limassol, Cyprus, PMLR, Volume 204, September 2023, Pages 5&ndash;15 <br>
+[pdf](https://proceedings.mlr.press/v204/kuijk23a.html)
 
 * **Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models** <br>
 A. Reisach, M. Tami, **C. Seiler**, A. Chambaz, and S. Weichwald <br>
