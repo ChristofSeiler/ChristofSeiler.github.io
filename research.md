@@ -9,7 +9,8 @@ title: Research
 
 * **Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models** <br>
 A. Reisach, M. Tami, **C. Seiler**, A. Chambaz, and S. Weichwald <br>
-To appear at 37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans, LA, US, December 2023 <br>
+To appear at 37th Conference on Neural Information Processing Systems (NeurIPS) <br>
+New Orleans, LA, US, December 2023 <br>
 [arXiv](https://arxiv.org/abs/2303.18211)
 
 * **Conformal Regression in Calorie Prediction for Team Jumbo-Visma** <br>
