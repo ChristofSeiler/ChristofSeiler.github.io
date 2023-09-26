@@ -9,7 +9,7 @@ title: Research
 
 * **Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models** <br>
 A. Reisach, M. Tami, **C. Seiler**, A. Chambaz, and S. Weichwald <br>
-To appear at 37th Conference on Neural Information Processing Systems (NeurIPS) <br>
+To appear at 36th Conference on Neural Information Processing Systems (NeurIPS) <br>
 New Orleans, LA, US, December 2023 <br>
 [arXiv](https://arxiv.org/abs/2303.18211)
 
@@ -23,7 +23,7 @@ Limassol, Cyprus, PMLR, Volume 204, Pages 5&ndash;15, September 2023 <br>
 
 * **Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy To Game** <br>
 A. Reisach, **C. Seiler**, and S. Weichwald <br>
-35th Conference on Neural Information Processing Systems (NeurIPS) <br>
+34th Conference on Neural Information Processing Systems (NeurIPS) <br>
 Virtual-only, Pages 27772&ndash;27784, December 2021 <br>
 [pdf](https://proceedings.neurips.cc/paper/2021/hash/e987eff4a7c7b7e580d659feb6f60c1a-Abstract.html)
 
@@ -111,7 +111,7 @@ This preprint is not yet peer-reviewed <br>
 
 * **Positive Curvature and Hamiltonian Monte Carlo** <br>
 **C. Seiler**, S. Rubinstein-Salzedo, and S. Holmes <br>
-28th Conference on Neural Information Processing Systems (NIPS now NeurIPS) <br>
+27th Conference on Neural Information Processing Systems (NIPS now NeurIPS) <br>
 Montreal, Canada, Pages 586&ndash;594, December 2014 <br>
 [pdf](http://papers.nips.cc/paper/5500-positive-curvature-and-hamiltonian-monte-carlo), [poster](https://christofseiler.github.io/NIPS-Poster.pdf), [R package](https://github.com/ChristofSeiler/curvature)
 
