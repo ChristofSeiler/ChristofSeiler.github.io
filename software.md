@@ -7,6 +7,7 @@ title: Software
 
 ## R Packages
 
+* [spillR](https://github.com/marcoguazzini/spillR)
 * [CytoGLMM](https://bioconductor.org/packages/CytoGLMM/)
 * [cytoeffect](https://christofseiler.github.io/cytoeffect/)
 * [CovRegFC](https://github.com/ChristofSeiler/CovRegFC)
