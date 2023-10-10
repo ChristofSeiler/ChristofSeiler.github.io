@@ -10,7 +10,7 @@ title: Research
 * **spillR: Spillover Compensation in Mass Cytometry Data** <br>
 M. Guazzini, A. Reisach, S. Weichwald, **C. Seiler** <br>
 This preprint is not yet peer-reviewed <br>
-[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.04.560870v1)
+[bioRxiv](https://doi.org/10.1101/2023.10.04.560870)
 
 * **Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models** <br>
 A. Reisach, M. Tami, **C. Seiler**, A. Chambaz, and S. Weichwald <br>
