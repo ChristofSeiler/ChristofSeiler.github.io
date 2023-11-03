@@ -5,8 +5,6 @@ title: Teaching
 
 ## Current Courses at Maastricht University
 
-* Principles of Data Science (KEN1435)
-  * Main textbook: [Statistics (4th Edition)](https://maastrichtuniversity.on.worldcat.org/oclc/36922529)
 * Probability and Statistics (KEN2130)
   * Main textbook: [Introduction to Probability (2nd Edition)](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
   * Optional: [Mathematical Statistics and Data Analysis (3rd Edition)](https://maastrichtuniversity.on.worldcat.org/oclc/990462746)
