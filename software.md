@@ -7,12 +7,16 @@ title: Software
 
 ## R Packages
 
-* [spillR](https://github.com/marcoguazzini/spillR)
+* [spillR](https://bioconductor.org/packages/spillR/)
 * [CytoGLMM](https://bioconductor.org/packages/CytoGLMM/)
 * [cytoeffect](https://christofseiler.github.io/cytoeffect/)
 * [CovRegFC](https://github.com/ChristofSeiler/CovRegFC)
 * [braincog](https://github.com/ChristofSeiler/braincog)
 * [curvature](https://github.com/ChristofSeiler/curvature)
+
+## Python Package
+
+* [CausalDisco](https://causaldisco.github.io/CausalDisco/)
 
 ## C++ Code
 
