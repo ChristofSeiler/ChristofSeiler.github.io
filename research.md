@@ -14,9 +14,9 @@ This preprint is not yet peer-reviewed <br>
 
 * **Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models** <br>
 A. Reisach, M. Tami, **C. Seiler**, A. Chambaz, and S. Weichwald <br>
-To appear at 36th Conference on Neural Information Processing Systems (NeurIPS) <br>
-New Orleans, LA, US, December 2023 <br>
-[arXiv](https://arxiv.org/abs/2303.18211)
+36th Conference on Neural Information Processing Systems (NeurIPS) <br>
+New Orleans, LA, US, Pages 785&ndash;807, December 2023 <br>
+[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/hash/027e86facfe7c1ea52ca1fca7bc1402b-Abstract-Conference.html)
 
 * **Conformal Regression in Calorie Prediction for Team Jumbo-Visma** <br>
 K. van Kuijk, M. Dirksen, **C. Seiler** <br>
