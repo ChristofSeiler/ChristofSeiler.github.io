@@ -8,14 +8,14 @@ title: Research
 ## 2024
 
 * **Multipotent Adult Progenitor Cells Prevent Functional Impairment and Improve Development in Inflammation Driven Detriment of Preterm Ovine Lungs** <br>
-S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, P. Nikkels, C. Severens-Rijvers, M. Sthijns, C. van Blitterswijk, F. Troost, V. LaPointe, S. Jolani, **C. Seiler**, J. Pillow, T. Delhaas, N. Reynaert, T. Wolfs <br>
+S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, P. Nikkels, C. Severens-Rijvers, M. Sthijns, C. van Blitterswijk, F. Troost, V. LaPointe, S. Jolani, **C. Seiler**, J. Pillow, T. Delhaas, N. Reynaert, and T. Wolfs <br>
 Regenerative Therapy, Volume 27, Pages 207&ndash;217, December 2024 <br>
 [open access](https://doi.org/10.1016/j.reth.2024.03.014)
 
 ## 2023
 
 * **spillR: Spillover Compensation in Mass Cytometry Data** <br>
-M. Guazzini, A. Reisach, S. Weichwald, **C. Seiler** <br>
+M. Guazzini, A. Reisach, S. Weichwald, and **C. Seiler** <br>
 This preprint is not yet peer-reviewed <br>
 [bioRxiv](https://doi.org/10.1101/2023.10.04.560870)
 
@@ -26,7 +26,7 @@ New Orleans, LA, US, Pages 785&ndash;807, December 2023 <br>
 [pdf](https://proceedings.neurips.cc/paper_files/paper/2023/hash/027e86facfe7c1ea52ca1fca7bc1402b-Abstract-Conference.html)
 
 * **Conformal Regression in Calorie Prediction for Team Jumbo-Visma** <br>
-K. van Kuijk, M. Dirksen, **C. Seiler** <br>
+K. van Kuijk, M. Dirksen, and **C. Seiler** <br>
 12th Symposium on Conformal and Probabilistic Prediction with Applications (COPA) <br>
 Limassol, Cyprus, PMLR, Volume 204, Pages 5&ndash;15, September 2023 <br>
 [pdf](https://proceedings.mlr.press/v204/kuijk23a.html)
