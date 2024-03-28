@@ -5,6 +5,13 @@ title: Research
 
 [Google Scholar](https://scholar.google.com/citations?user=fxMt84EAAAAJ&hl=en)
 
+## 2024
+
+* **Multipotent Adult Progenitor Cells Prevent Functional Impairment and Improve Development in Inflammation Driven Detriment of Preterm Ovine Lungs** <br>
+S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, P. Nikkels, C. Severens-Rijvers, M. Sthijns, C. van Blitterswijk, F. Troost, V. LaPointe, S. Jolani, **C. Seiler**, J. Pillow, T. Delhaas, N. Reynaert, T. Wolfs <br>
+Regenerative Therapy, Volume 27, Pages 207&ndash;217, December 2024 <br>
+[open access](https://doi.org/10.1016/j.reth.2024.03.014)
+
 ## 2023
 
 * **spillR: Spillover Compensation in Mass Cytometry Data** <br>
