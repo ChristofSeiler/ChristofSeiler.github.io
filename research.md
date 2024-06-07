@@ -7,17 +7,17 @@ title: Research
 
 ## 2024
 
+* **spillR: Spillover Compensation in Mass Cytometry Data** <br>
+M. Guazzini, A. Reisach, S. Weichwald, and **C. Seiler** <br>
+Bioinformatics, 2024 <br>
+[open access](https://doi.org/10.1093/bioinformatics/btae337), [R package](https://bioconductor.org/packages/spillR/)
+
 * **Multipotent Adult Progenitor Cells Prevent Functional Impairment and Improve Development in Inflammation Driven Detriment of Preterm Ovine Lungs** <br>
 S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, P. Nikkels, C. Severens-Rijvers, M. Sthijns, C. van Blitterswijk, F. Troost, V. LaPointe, S. Jolani, **C. Seiler**, J. Pillow, T. Delhaas, N. Reynaert, and T. Wolfs <br>
 Regenerative Therapy, Volume 27, Pages 207&ndash;217, December 2024 <br>
 [open access](https://doi.org/10.1016/j.reth.2024.03.014)
 
 ## 2023
-
-* **spillR: Spillover Compensation in Mass Cytometry Data** <br>
-M. Guazzini, A. Reisach, S. Weichwald, and **C. Seiler** <br>
-This preprint is not yet peer-reviewed <br>
-[bioRxiv](https://doi.org/10.1101/2023.10.04.560870)
 
 * **Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models** <br>
 A. Reisach, M. Tami, **C. Seiler**, A. Chambaz, and S. Weichwald <br>
