@@ -33,7 +33,7 @@ Limassol, Cyprus, PMLR, Volume 204, Pages 5&ndash;15, September 2023 <br>
 
 ## 2021
 
-* **Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy To Game** <br>
+* **Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy to Game** <br>
 A. Reisach, **C. Seiler**, and S. Weichwald <br>
 35th Conference on Neural Information Processing Systems (NeurIPS) <br>
 Virtual-only, Pages 27772&ndash;27784, December 2021 <br>
