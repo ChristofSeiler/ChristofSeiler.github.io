@@ -7,6 +7,10 @@ title: Research
 
 ## 2024
 
+* N. Zhao, R. Pi, Ruoxi, D. Nguyen, T. Ranganath, **C. Seiler**, S. Holmes, A. Marson, and C. Blish <br> 
+NKp30 and NKG2D Contribute to Natural Killer Recognition of HIV-Infected Cells <br>
+[preprint](http://dx.doi.org/10.2139/ssrn.4870950)
+
 * **spillR: Spillover Compensation in Mass Cytometry Data** <br>
 M. Guazzini, A. Reisach, S. Weichwald, and **C. Seiler** <br>
 Bioinformatics, 2024 <br>
