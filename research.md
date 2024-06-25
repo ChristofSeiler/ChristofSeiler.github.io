@@ -9,7 +9,7 @@ title: Research
 
 * **spillR: Spillover Compensation in Mass Cytometry Data** <br>
 M. Guazzini, A. Reisach, S. Weichwald, and **C. Seiler** <br>
-Bioinformatics, 2024 <br>
+Bioinformatics, Volume 40, Issue 6, btae337, June 2024 <br>
 [open access](https://doi.org/10.1093/bioinformatics/btae337), [R package](https://bioconductor.org/packages/spillR/)
 
 * **Multipotent Adult Progenitor Cells Prevent Functional Impairment and Improve Development in Inflammation Driven Detriment of Preterm Ovine Lungs** <br>
