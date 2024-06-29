@@ -18,8 +18,8 @@ Regenerative Therapy, Volume 27, Pages 207&ndash;217, December 2024 <br>
 [open access](https://doi.org/10.1016/j.reth.2024.03.014)
 
 * **NKp30 and NKG2D Contribute to Natural Killer Recognition of HIV-Infected Cells** <br>
-N. Zhao, R. Pi, Ruoxi, D. Nguyen, T. Ranganath, **C. Seiler**, S. Holmes, A. Marson, and C. Blish <br> 
-[preprint](http://dx.doi.org/10.2139/ssrn.4870950)
+N. Zhao, R. Pi, Ruoxi, D. Nguyen, T. Ranganath, **C. Seiler**, S. Holmes, A. Marson, and C. Blish <br>
+[bioRxiv](https://doi.org/10.1101/2024.06.24.600449)
 
 ## 2023
 
