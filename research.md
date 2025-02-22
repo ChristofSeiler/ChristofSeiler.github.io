@@ -236,10 +236,12 @@ Rotterdam, The Netherlands, Pages 452&ndash;455, April 2010 <br>
 [pdf](https://hal.inria.fr/inria-00616168/document), [journal](http://dx.doi.org/10.1109/ISBI.2010.5490313)
 
 * **Combined Statistical Model of Bone Shape and Mechanical Properties for Bone and Implant Modeling** <br>
-S. Bonaretti, M. Kistler, **C. Seiler**, M. Reyes, and P. B&uuml;chler <br>
+S. Bonaretti, M. Reyes, M. Kistler, **C. Seiler**, and P. B&uuml;chler <br>
 9th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE) <br>
 Valencia, Spain, February 2010 <br>
-[pdf](https://sbonaretti.github.io/_attachments/2010_CBMME_paper.pdf)
+[pdf](https://boris.unibe.ch/565/1/bonarettiCMBB2010.pdf)
+
+https://doi.org/10.7892/boris.565
 
 ## 2009
 
