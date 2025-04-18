@@ -7,6 +7,7 @@ title: Software
 
 ## R Packages
 
+* [cellpaintr](https://github.com/ChristofSeiler/cellpaintr)
 * [spillR](https://bioconductor.org/packages/spillR/)
 * [CytoGLMM](https://bioconductor.org/packages/CytoGLMM/)
 * [cytoeffect](https://christofseiler.github.io/cytoeffect/)
