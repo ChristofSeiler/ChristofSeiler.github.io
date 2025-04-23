@@ -12,7 +12,7 @@ title: Teaching
   * Main textbook: [Statistical Models (2nd Edition)](https://maastrichtuniversity.on.worldcat.org/oclc/586163317)
   * Optional: [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/)
 
-## Past Courses at Maastricht University
+## Past Course at Maastricht University
 
 * Software Engineering (KEN1520)
   * Main resource: [Software Construction](https://web.mit.edu/6.031/)
