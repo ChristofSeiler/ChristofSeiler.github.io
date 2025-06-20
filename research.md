@@ -5,6 +5,12 @@ title: Research
 
 [Google Scholar](https://scholar.google.com/citations?user=fxMt84EAAAAJ&hl=en)
 
+## 2025
+
+* **Multipotent Adult Progenitor Cell Therapy: Effect of Timing and Frequency on Lung Health in Preterm Lambs during Inflammation** <br>
+S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, I. de Lange, L. Zimmermann, P. Nikkels, C. Severens-Rijvers M. Sthijns, V. LaPointe, S. Jolani, J. Pillow, T. Delhaas, C. Seiler, N. Reynaert, and T. Wolfs <br>
+[preprint](https://ssrn.com/abstract=5294108)
+
 ## 2024
 
 * **spillR: Spillover Compensation in Mass Cytometry Data** <br>
