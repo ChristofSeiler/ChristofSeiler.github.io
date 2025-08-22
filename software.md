@@ -7,6 +7,7 @@ title: Software
 
 ## R Packages
 
+* [conformeR](https://github.com/juslecl/conformeR)
 * [cellpaintr](https://github.com/ChristofSeiler/cellpaintr)
 * [spillR](https://bioconductor.org/packages/spillR/)
 * [CytoGLMM](https://bioconductor.org/packages/CytoGLMM/)
