@@ -7,6 +7,13 @@ title: Research
 
 ## 2025
 
+* **Predicting Patient Outcomes and Risk for Revision Surgery After Hip and Knee Replacement Surgery: Study Protocol for a Comparison of Modelling Approaches Using the Swiss National Joint Registry (SIRIS)** <br>
+L. Hofstetter, N. Schweyckart, **C. Seiler**, C. Brand, L.C. Rosella, M. Farshad, M. A. Puhan, and C.A. Hincapié <br>
+Diagnostic and Prognostic Research, Volume 9, Article 16, Pages 1&ndash;9, August 2025 <br>
+[open access](https://doi.org/10.1186/s41512-025-00200-z)
+
+https://link.springer.com/article/10.1186/s41512-025-00200-z
+
 * **Multipotent Adult Progenitor Cell Therapy: Effect of Timing and Frequency on Lung Health in Preterm Lambs during Inflammation** <br>
 S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, I. de Lange, L. Zimmermann, P. Nikkels, C. Severens-Rijvers M. Sthijns, V. LaPointe, S. Jolani, J. Pillow, T. Delhaas, **C. Seiler**, N. Reynaert, and T. Wolfs <br>
 [preprint](https://ssrn.com/abstract=5294108)
