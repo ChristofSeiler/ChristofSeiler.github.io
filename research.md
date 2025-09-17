@@ -7,6 +7,11 @@ title: Research
 
 ## 2025
 
+* **NKp30 and NKG2D Contribute to Natural Killer Recognition of HIV-Infected Cells** <br>
+R. Pi, N. Zhao, A. Bien, T. Ranganath, **C. Seiler**, S. Holmes, A. Marson, D. Nguyen, C. Blish <br>
+iScience, September 2025 <br>
+[open access](https://doi.org/10.1016/j.isci.2025.113548)
+
 * **Predicting Patient Outcomes and Risk for Revision Surgery After Hip and Knee Replacement Surgery: Study Protocol for a Comparison of Modelling Approaches Using the Swiss National Joint Registry (SIRIS)** <br>
 L. Hofstetter, N. Schweyckart, **C. Seiler**, C. Brand, L.C. Rosella, M. Farshad, M. A. Puhan, and C.A. Hincapié <br>
 Diagnostic and Prognostic Research, Volume 9, Article 16, Pages 1&ndash;9, August 2025 <br>
@@ -27,10 +32,6 @@ Bioinformatics, Volume 40, Issue 6, btae337, June 2024 <br>
 S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, P. Nikkels, C. Severens-Rijvers, M. Sthijns, C. van Blitterswijk, F. Troost, V. LaPointe, S. Jolani, **C. Seiler**, J. Pillow, T. Delhaas, N. Reynaert, and T. Wolfs <br>
 Regenerative Therapy, Volume 27, Pages 207&ndash;217, December 2024 <br>
 [open access](https://doi.org/10.1016/j.reth.2024.03.014)
-
-* **NKp30 and NKG2D Contribute to Natural Killer Recognition of HIV-Infected Cells** <br>
-N. Zhao, R. Pi, Ruoxi, D. Nguyen, T. Ranganath, **C. Seiler**, S. Holmes, A. Marson, and C. Blish <br>
-[bioRxiv](https://doi.org/10.1101/2024.06.24.600449)
 
 ## 2023
 
