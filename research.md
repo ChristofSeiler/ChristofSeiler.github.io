@@ -7,7 +7,7 @@ title: Research
 
 ## 2025
 
-* **NKp30 and NKG2D Contribute to Natural Killer Recognition of HIV-Infected Cells** <br>
+* **NKp30 and NKG2D Contribute to Natural Killer Cell-Mediated Recognition of HIV-Infected Cells** <br>
 R. Pi, N. Zhao, A. Bien, T. Ranganath, **C. Seiler**, S. Holmes, A. Marson, D. Nguyen, C. Blish <br>
 iScience, September 2025 <br>
 [open access](https://doi.org/10.1016/j.isci.2025.113548)
