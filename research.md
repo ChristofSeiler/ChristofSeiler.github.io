@@ -7,20 +7,20 @@ title: Research
 
 ## 2025
 
+* **Multipotent Adult Progenitor Cell Therapy: Effect of Timing and Frequency on Lung Health in Preterm Lambs during Inflammation** <br>
+S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, I. de Lange, L. Zimmermann, P. Nikkels, C. Severens-Rijvers M. Sthijns, V. LaPointe, S. Jolani, J. Pillow, T. Delhaas, **C. Seiler**, N. Reynaert, and T. Wolfs <br>
+Pharmacological Research, Volume 221, Article 107979, November 2025 <br>
+[open access](https://doi.org/10.1016/j.phrs.2025.107979)
+
 * **NKp30 and NKG2D Contribute to Natural Killer Cell-Mediated Recognition of HIV-Infected Cells** <br>
 R. Pi, N. Zhao, A. Bien, T. Ranganath, **C. Seiler**, S. Holmes, A. Marson, D. Nguyen, C. Blish <br>
-iScience, September 2025 <br>
+iScience, Volume 28, Issue 10, Article 10113548O, October 2025 <br>
 [open access](https://doi.org/10.1016/j.isci.2025.113548)
 
 * **Predicting Patient Outcomes and Risk for Revision Surgery After Hip and Knee Replacement Surgery: Study Protocol for a Comparison of Modelling Approaches Using the Swiss National Joint Registry (SIRIS)** <br>
 L. Hofstetter, N. Schweyckart, **C. Seiler**, C. Brand, L.C. Rosella, M. Farshad, M. A. Puhan, and C.A. Hincapié <br>
 Diagnostic and Prognostic Research, Volume 9, Article 16, Pages 1&ndash;9, August 2025 <br>
 [open access](https://doi.org/10.1186/s41512-025-00200-z)
-
-* **Multipotent Adult Progenitor Cell Therapy: Effect of Timing and Frequency on Lung Health in Preterm Lambs during Inflammation** <br>
-S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, I. de Lange, L. Zimmermann, P. Nikkels, C. Severens-Rijvers M. Sthijns, V. LaPointe, S. Jolani, J. Pillow, T. Delhaas, **C. Seiler**, N. Reynaert, and T. Wolfs <br>
-Pharmacological Research, Volume 221, November 2025 <br>
-[open access](https://doi.org/10.1016/j.phrs.2025.107979)
 
 ## 2024
 
