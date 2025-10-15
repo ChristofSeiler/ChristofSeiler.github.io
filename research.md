@@ -19,7 +19,8 @@ Diagnostic and Prognostic Research, Volume 9, Article 16, Pages 1&ndash;9, Augus
 
 * **Multipotent Adult Progenitor Cell Therapy: Effect of Timing and Frequency on Lung Health in Preterm Lambs during Inflammation** <br>
 S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, I. de Lange, L. Zimmermann, P. Nikkels, C. Severens-Rijvers M. Sthijns, V. LaPointe, S. Jolani, J. Pillow, T. Delhaas, **C. Seiler**, N. Reynaert, and T. Wolfs <br>
-[preprint](https://ssrn.com/abstract=5294108)
+Pharmacological Research, Volume 221, November 2025 <br>
+[open access](https://doi.org/10.1016/j.phrs.2025.107979)
 
 ## 2024
 
