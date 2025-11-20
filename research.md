@@ -7,6 +7,11 @@ title: Research
 
 ## 2025
 
+* **Disease-specific fibroblast-myeloid interactions in rheumatoid arthritis synovium** <br>
+A. Khmelevskaya, K. Apostolopoulou, C. Calvo Cebrian, E. Ezen, M. Toitou, P. Laphanuwat, M. Mirrahimi, C. Geiss, M. Lugar, A. Kakale, S. Malkewitz, A. Laimbacher, D. Konstantopoulos, V. Rinotas, M. Armaka, M. Houtman, E. Meier, K. Bürki, J. Leclerc, H. Mohammadian, **C. Seiler**, E. Camarillo-Retamosa, C. Pauli, A. Ramming, U. Fearon, K. Zachariassen, T. Rauer, A. Ciurea, M. Elhai, R. Micheroli, and C. Ospelt <br>
+This preprint is not yet peer-reviewed <br>
+[bioRxiv](https://doi.org/10.1101/2025.11.17.688477)
+
 * **Multipotent Adult Progenitor Cell Therapy: Effect of Timing and Frequency on Lung Health in Preterm Lambs during Inflammation** <br>
 S. Neuen, D. Ophelders, H. Widowski, M. Hütten, T. Brokken, C. van Gorp, I. de Lange, L. Zimmermann, P. Nikkels, C. Severens-Rijvers M. Sthijns, V. LaPointe, S. Jolani, J. Pillow, T. Delhaas, **C. Seiler**, N. Reynaert, and T. Wolfs <br>
 Pharmacological Research, Volume 221, Article 107979, November 2025 <br>
