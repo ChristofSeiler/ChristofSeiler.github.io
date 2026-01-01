@@ -7,14 +7,14 @@ title: Research
 
 ## 2026
 
-* **Vulnerabilities of feature clustering in EIT radiomics** <br>
+* **Vulnerabilities of Feature Clustering in EIT Radiomics** <br>
 M. Imkamp, V. Prudente, E. Aydeniz, F. van Rosmalen, S. de Jongh, S. van Kuijk, **C. Seiler**, J. Schellens, M. Driessen, S.J.H. Heines, I. van der Horst, D. Bergmans, L. Wee, and B. van Bussel <br>
 Computers in Biology and Medicine, Volume 201, Article 111438, January 2026 <br>
 [journal](https://authors.elsevier.com/c/1mMp82OYdBXT5)
 
 ## 2025
 
-* **Disease-specific fibroblast-myeloid interactions in rheumatoid arthritis synovium** <br>
+* **Disease-Specific Fibroblast-Myeloid Interactions in Rheumatoid Arthritis Synovium** <br>
 A. Khmelevskaya, K. Apostolopoulou, C. Calvo Cebrian, E. Ezen, M. Toitou, P. Laphanuwat, M. Mirrahimi, C. Geiss, M. Lugar, A. Kakale, S. Malkewitz, A. Laimbacher, D. Konstantopoulos, V. Rinotas, M. Armaka, M. Houtman, E. Meier, K. Bürki, J. Leclerc, H. Mohammadian, **C. Seiler**, E. Camarillo-Retamosa, C. Pauli, A. Ramming, U. Fearon, K. Zachariassen, T. Rauer, A. Ciurea, M. Elhai, R. Micheroli, and C. Ospelt <br>
 This preprint is not yet peer-reviewed <br>
 [bioRxiv](https://doi.org/10.1101/2025.11.17.688477)
