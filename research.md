@@ -8,9 +8,9 @@ title: Research
 ## 2026
 
 * **Vulnerabilities of feature clustering in EIT radiomics** <br>
-M. Imkamp, V. Prudente, E. Aydeniz, F. van Rosmalen, S. de Jongh, S. van Kuijk, **C. Seiler**, J. Schellens, M. Driessen, S.J.H. Heines, I. van der Horst, D. Bergmans, L. Wee, B. van Bussel <br>
+M. Imkamp, V. Prudente, E. Aydeniz, F. van Rosmalen, S. de Jongh, S. van Kuijk, **C. Seiler**, J. Schellens, M. Driessen, S.J.H. Heines, I. van der Horst, D. Bergmans, L. Wee, and B. van Bussel <br>
 Computers in Biology and Medicine, Volume 201, Article 111438, January 2026 <br>
-[link](https://authors.elsevier.com/c/1mMp82OYdBXT5)
+[journal](https://authors.elsevier.com/c/1mMp82OYdBXT5)
 
 ## 2025
 
