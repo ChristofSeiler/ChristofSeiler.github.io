@@ -7,7 +7,7 @@ title: Research
 
 ## 2026
 
-* SNPic: SNP Topic Modeling for Interpretable Clustering of Complex Phenotypes <br>
+* **SNPic: SNP Topic Modeling for Interpretable Clustering of Complex Phenotypes** <br>
 L. Zhang, **C. Seiler**, D. Speed, R. Micheroli, C. Ospelt <br>
 [bioRxiv](https://doi.org/10.64898/2026.04.22.720106)
 
