@@ -7,6 +7,10 @@ title: Research
 
 ## 2026
 
+* SNPic: SNP Topic Modeling for Interpretable Clustering of Complex Phenotypes <br>
+L. Zhang, **C. Seiler**, D. Speed, R. Micheroli, C. Ospelt <br>
+[bioRxiv](https://doi.org/10.64898/2026.04.22.720106)
+
 * **Vulnerabilities of Feature Clustering in EIT Radiomics** <br>
 M. Imkamp, V. Prudente, E. Aydeniz, F. van Rosmalen, S. de Jongh, S. van Kuijk, **C. Seiler**, J. Schellens, M. Driessen, S. Heines, I. van der Horst, D. Bergmans, L. Wee, and B. van Bussel <br>
 Computers in Biology and Medicine, Volume 201, Article 111438, January 2026 <br>
