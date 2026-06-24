@@ -7,8 +7,12 @@ title: Research
 
 ## 2026
 
+* **Developing High Content Imaging Functional Panels to Characterize Synovial Fibroblasts in Rheumatoid Arthritis** <br>
+P. Laphanuwat, E. Ezen, **C. Seiler**, and C. Ospelt <br>
+[bioRxiv](https://doi.org/10.64898/2026.06.23.733987)
+
 * **SNPic: SNP Topic Modeling for Interpretable Clustering of Complex Phenotypes** <br>
-L. Zhang, **C. Seiler**, D. Speed, R. Micheroli, C. Ospelt <br>
+L. Zhang, **C. Seiler**, D. Speed, R. Micheroli, and C. Ospelt <br>
 [bioRxiv](https://doi.org/10.64898/2026.04.22.720106)
 
 * **Vulnerabilities of Feature Clustering in EIT Radiomics** <br>
@@ -29,7 +33,7 @@ Pharmacological Research, Volume 221, Article 107979, November 2025 <br>
 [open access](https://doi.org/10.1016/j.phrs.2025.107979)
 
 * **NKp30 and NKG2D Contribute to Natural Killer Cell-Mediated Recognition of HIV-Infected Cells** <br>
-R. Pi, N. Zhao, A. Bien, T. Ranganath, **C. Seiler**, S. Holmes, A. Marson, D. Nguyen, C. Blish <br>
+R. Pi, N. Zhao, A. Bien, T. Ranganath, **C. Seiler**, S. Holmes, A. Marson, D. Nguyen, and C. Blish <br>
 iScience, Volume 28, Issue 10, Article 10113548O, October 2025 <br>
 [open access](https://doi.org/10.1016/j.isci.2025.113548)
 
